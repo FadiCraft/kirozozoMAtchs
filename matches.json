@@ -1,39 +1,13 @@
 [
   {
-    "team1": "كالياري",
-    "team1Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/243.png",
-    "team2": "أتالانتا",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/232.png",
-    "time": "19:30",
-    "result": "0-0",
-    "status": "جارية الان",
-    "type": "live",
-    "league": "إيطاليا, الدوري الإيطالي",
-    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc11hd.html",
-    "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/AD_SPORT_1.html"
-  },
-  {
-    "team1": "بيراميدز",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/22143.png",
-    "team2": "الأهلي",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8200.png",
-    "time": "20:00",
-    "result": "0-0",
-    "status": "جارية الان",
-    "type": "live",
-    "league": "مصر, الدوري المصري - المرحلة النهائية - مجموعة البطولة",
-    "detailsUrl": "https://14.alkoraa.live/2025/04/2-on-time-sport-222.html",
-    "streamUrl": "https://1.soccertvhd.live/splayer/Live4.php"
-  },
-  {
     "team1": "لاتسيو",
     "team1Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/236.png",
     "team2": "أودينيزي",
     "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/12/229.png",
     "time": "21:45",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "إيطاليا, الدوري الإيطالي",
     "detailsUrl": "https://14.alkoraa.live/2025/02/ssc11hd.html",
     "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/AD_SPORT_1.html"
@@ -45,8 +19,8 @@
     "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/63.png",
     "time": "22:00",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "إنجلترا, الدوري الإنجليزي",
     "detailsUrl": "https://14.alkoraa.live/2025/02/bein2hd222.html",
     "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/channel1.html"
@@ -58,8 +32,8 @@
     "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/150.png",
     "time": "22:00",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "إسبانيا, الدوري الإسباني",
     "detailsUrl": "https://14.alkoraa.live/2025/02/bein-sport-11111hd.html",
     "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/channel3.html"
@@ -75,6 +49,32 @@
     "type": "finished",
     "league": "مصر, الدوري المصري - المرحلة النهائية - مجموعة البطولة",
     "detailsUrl": "https://14.alkoraa.live/2025/04/1-on-time-sport-11.html",
+    "streamUrl": ""
+  },
+  {
+    "team1": "كالياري",
+    "team1Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/243.png",
+    "team2": "أتالانتا",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/232.png",
+    "time": "19:30",
+    "result": "0-0",
+    "status": "انتهت",
+    "type": "finished",
+    "league": "إيطاليا, الدوري الإيطالي",
+    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc11hd.html",
+    "streamUrl": ""
+  },
+  {
+    "team1": "بيراميدز",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/22143.png",
+    "team2": "الأهلي",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8200.png",
+    "time": "20:00",
+    "result": "0-0",
+    "status": "انتهت",
+    "type": "finished",
+    "league": "مصر, الدوري المصري - المرحلة النهائية - مجموعة البطولة",
+    "detailsUrl": "https://14.alkoraa.live/2025/04/2-on-time-sport-222.html",
     "streamUrl": ""
   }
 ]

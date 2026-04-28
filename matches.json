@@ -1,28 +1,15 @@
 [
   {
-    "team1": "باريس سان جيرمان",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/480.png",
-    "team2": "بايرن ميونخ",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/331.png",
-    "time": "22:00",
-    "result": "0-0",
-    "status": "جارية الان",
-    "type": "live",
-    "league": "أوروبا, دوري أبطال اوروبا - نصف النهائي",
-    "detailsUrl": "https://14.alkoraa.live/2025/12/beinsportpre11111.html",
-    "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/channel1.html"
-  },
-  {
     "team1": "الشباب",
     "team1Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8945.png",
     "team2": "الفتح",
     "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8942.png",
     "time": "19:00",
-    "result": "0-0",
+    "result": "1-1",
     "status": "انتهت",
     "type": "finished",
     "league": "السعودية, الدوري السعودي",
-    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc222hd.html",
+    "detailsUrl": "https://www.koora4lives.site/matches/%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d9%88-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9/",
     "streamUrl": ""
   },
   {
@@ -31,11 +18,24 @@
     "team2": "ضمك",
     "team2Logo": "https://www.watch-football.net/wp-content/uploads/2025/12/24241.png",
     "time": "21:00",
-    "result": "0-0",
+    "result": "1-0",
     "status": "انتهت",
     "type": "finished",
     "league": "السعودية, الدوري السعودي",
-    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc11hd.html",
+    "detailsUrl": "https://www.koora4lives.site/matches/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d9%88-%d8%b6%d9%85%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "باريس سان جيرمان",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/480.png",
+    "team2": "بايرن ميونخ",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/331.png",
+    "time": "22:00",
+    "result": "5-4",
+    "status": "انتهت",
+    "type": "finished",
+    "league": "أوروبا, دوري أبطال اوروبا - نصف النهائي",
+    "detailsUrl": "https://www.koora4lives.site/matches/%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%b3%d8%a7%d9%86-%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86-%d9%88-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8/",
     "streamUrl": ""
   }
 ]

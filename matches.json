@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الوداد الرياضي",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8326.png",
-    "team2": "اتحاد يعقوب المنصور",
-    "team2Logo": "https://www.kooratimes.com/wp-content/uploads/2026/02/82477.png",
-    "time": "20:00",
-    "result": "0-0",
-    "status": "جارية الان",
-    "type": "live",
-    "league": "المغرب, الدوري المغربي",
-    "detailsUrl": "https://15.alkoraa.live/2025/04/1-on-time-sport-11.html",
-    "streamUrl": "https://1.soccertvhd.live/splayer/Live4.php"
-  },
-  {
     "team1": "النصر",
     "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/7549.png",
     "team2": "الأهلي",
@@ -32,8 +19,8 @@
     "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/104.png",
     "time": "22:00",
     "result": "0-0",
-    "status": "بعد قليل",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "أوروبا, دوري أبطال اوروبا - نصف النهائي",
     "detailsUrl": "https://15.alkoraa.live/2025/12/beinsportpre11111.html",
     "streamUrl": "https://s3.us-east-1.amazonaws.com/dfgdfrgergtyer151456d/channel1.html"
@@ -45,8 +32,8 @@
     "team2Logo": "https://www.yalakoralive.com/wp-content/uploads/2026/01/8323.png",
     "time": "22:00",
     "result": "0-0",
-    "status": "بعد قليل",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "المغرب, الدوري المغربي",
     "detailsUrl": "https://15.alkoraa.live/2025/02/bein-sport-11111hd.html",
     "streamUrl": "https://s3.us-east-1.amazonaws.com/dfgdfrgergtyer151456d/arryadia.html"
@@ -62,6 +49,19 @@
     "type": "finished",
     "league": "السعودية, الدوري السعودي",
     "detailsUrl": "https://15.alkoraa.live/2025/02/ssc11hd.html",
+    "streamUrl": ""
+  },
+  {
+    "team1": "الوداد الرياضي",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8326.png",
+    "team2": "اتحاد يعقوب المنصور",
+    "team2Logo": "https://www.kooratimes.com/wp-content/uploads/2026/02/82477.png",
+    "time": "20:00",
+    "result": "0-0",
+    "status": "انتهت",
+    "type": "finished",
+    "league": "المغرب, الدوري المغربي",
+    "detailsUrl": "https://15.alkoraa.live/2025/04/1-on-time-sport-11.html",
     "streamUrl": ""
   }
 ]

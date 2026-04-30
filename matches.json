@@ -6,11 +6,11 @@
     "team2Logo": "https://www.koora-livehd.online/wp-content/uploads/2026/02/8232.png",
     "time": "17:30",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
+    "status": "جارية الان",
+    "type": "live",
     "league": "تونس, الرابطة التونسية المحترفة الأولى",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a-%d9%88-%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%a7%d9%84%d8%aa%d9%88/",
-    "streamUrl": ""
+    "detailsUrl": "https://15.alkoraa.live/2025/04/1-on-time-sport-11.html",
+    "streamUrl": "https://1.soccertvhd.live/splayer/Live5.php"
   },
   {
     "team1": "اتحاد العاصمة",
@@ -39,32 +39,6 @@
     "streamUrl": ""
   },
   {
-    "team1": "رايو فاييكانو",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/174.png",
-    "team2": "ستراسبورج",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/479.png",
-    "time": "22:00",
-    "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
-    "league": "أوروبا, دوري المؤتمر الأوروبي - نصف النهائي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%b1%d8%a7%d9%8a%d9%88-%d9%81%d8%a7%d9%8a%d9%8a%d9%83%d8%a7%d9%86%d9%88-%d9%88-%d8%b3%d8%aa%d8%b1%d8%a7%d8%b3%d8%a8%d9%88%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%af%d9%88/",
-    "streamUrl": ""
-  },
-  {
-    "team1": "شاختار دونيتسك",
-    "team1Logo": "https://www.kooralive.store/wp-content/uploads/2026/04/1955.png",
-    "team2": "كريستال بالاس",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/10.png",
-    "time": "22:00",
-    "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
-    "league": "أوروبا, دوري المؤتمر الأوروبي - نصف النهائي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%b4%d8%a7%d8%ae%d8%aa%d8%a7%d8%b1-%d8%af%d9%88%d9%86%d9%8a%d8%aa%d8%b3%d9%83-%d9%88-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88/",
-    "streamUrl": ""
-  },
-  {
     "team1": "نوتنجهام فورست",
     "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/29.png",
     "team2": "أستون فيلا",
@@ -88,6 +62,32 @@
     "type": "upcoming",
     "league": "أوروبا, الدوري الأوروبي - نصف النهائي",
     "detailsUrl": "https://www.koraplay.live/matches/%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%86%d8%ac-%d8%a8%d8%b1%d8%a7%d8%ba%d8%a7-%d9%88-%d9%81%d8%b1%d8%a7%d9%8a%d8%a8%d9%88%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7%d9%84/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "رايو فاييكانو",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/174.png",
+    "team2": "ستراسبورج",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/479.png",
+    "time": "22:00",
+    "result": "0-0",
+    "status": "لم تبدأ بعد",
+    "type": "upcoming",
+    "league": "أوروبا, دوري المؤتمر الأوروبي - نصف النهائي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d8%b1%d8%a7%d9%8a%d9%88-%d9%81%d8%a7%d9%8a%d9%8a%d9%83%d8%a7%d9%86%d9%88-%d9%88-%d8%b3%d8%aa%d8%b1%d8%a7%d8%b3%d8%a8%d9%88%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%af%d9%88/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "شاختار دونيتسك",
+    "team1Logo": "https://www.kooralive.store/wp-content/uploads/2026/04/1955.png",
+    "team2": "كريستال بالاس",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/10.png",
+    "time": "22:00",
+    "result": "0-0",
+    "status": "لم تبدأ بعد",
+    "type": "upcoming",
+    "league": "أوروبا, دوري المؤتمر الأوروبي - نصف النهائي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d8%b4%d8%a7%d8%ae%d8%aa%d8%a7%d8%b1-%d8%af%d9%88%d9%86%d9%8a%d8%aa%d8%b3%d9%83-%d9%88-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88/",
     "streamUrl": ""
   }
 ]

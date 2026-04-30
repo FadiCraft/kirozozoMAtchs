@@ -13,19 +13,6 @@
     "streamUrl": ""
   },
   {
-    "team1": "اتحاد العاصمة",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8220-1.png",
-    "team2": "شباب بلوزداد",
-    "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8225-1.png",
-    "time": "20:00",
-    "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
-    "league": "الجزائر, كأس الجزائر - النهائي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d9%88-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6/",
-    "streamUrl": ""
-  },
-  {
     "team1": "الجيش الملكي",
     "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/5455.png",
     "team2": "الرجاء البيضاوي",
@@ -36,6 +23,19 @@
     "type": "upcoming",
     "league": "المغرب, الدوري المغربي",
     "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "اتحاد العاصمة",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8220-1.png",
+    "team2": "شباب بلوزداد",
+    "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8225-1.png",
+    "time": "20:00",
+    "result": "0-0",
+    "status": "لم تبدأ بعد",
+    "type": "upcoming",
+    "league": "الجزائر, كأس الجزائر - النهائي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d9%88-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6/",
     "streamUrl": ""
   },
   {

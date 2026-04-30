@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://www.koora4lives.site/';
+const BASE_URL = 'https://www.koraplay.live/matches-today/';
 
 async function getStreamServer(matchUrl) {
     try {

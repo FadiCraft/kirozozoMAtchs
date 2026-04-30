@@ -13,19 +13,6 @@
     "streamUrl": ""
   },
   {
-    "team1": "الجيش الملكي",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/5455.png",
-    "team2": "الرجاء البيضاوي",
-    "team2Logo": "https://www.kooooralives.com/wp-content/uploads/2025/12/8204.png",
-    "time": "20:00",
-    "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
-    "league": "المغرب, الدوري المغربي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba/",
-    "streamUrl": ""
-  },
-  {
     "team1": "اتحاد العاصمة",
     "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/8220-1.png",
     "team2": "شباب بلوزداد",
@@ -39,29 +26,16 @@
     "streamUrl": ""
   },
   {
-    "team1": "نوتنجهام فورست",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/29.png",
-    "team2": "أستون فيلا",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/109.png",
-    "time": "22:00",
+    "team1": "الجيش الملكي",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/5455.png",
+    "team2": "الرجاء البيضاوي",
+    "team2Logo": "https://www.kooooralives.com/wp-content/uploads/2025/12/8204.png",
+    "time": "20:00",
     "result": "0-0",
     "status": "لم تبدأ بعد",
     "type": "upcoming",
-    "league": "أوروبا, الدوري الأوروبي - نصف النهائي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d9%86%d9%88%d8%aa%d9%86%d8%ac%d9%87%d8%a7%d9%85-%d9%81%d9%88%d8%b1%d8%b3%d8%aa-%d9%88-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7/",
-    "streamUrl": ""
-  },
-  {
-    "team1": "سبورتينج براغا",
-    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/895.png",
-    "team2": "فرايبورج",
-    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/354.png",
-    "time": "22:00",
-    "result": "0-0",
-    "status": "لم تبدأ بعد",
-    "type": "upcoming",
-    "league": "أوروبا, الدوري الأوروبي - نصف النهائي",
-    "detailsUrl": "https://www.koraplay.live/matches/%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%86%d8%ac-%d8%a8%d8%b1%d8%a7%d8%ba%d8%a7-%d9%88-%d9%81%d8%b1%d8%a7%d9%8a%d8%a8%d9%88%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7%d9%84/",
+    "league": "المغرب, الدوري المغربي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba/",
     "streamUrl": ""
   },
   {
@@ -88,6 +62,32 @@
     "type": "upcoming",
     "league": "أوروبا, دوري المؤتمر الأوروبي - نصف النهائي",
     "detailsUrl": "https://www.koraplay.live/matches/%d8%b4%d8%a7%d8%ae%d8%aa%d8%a7%d8%b1-%d8%af%d9%88%d9%86%d9%8a%d8%aa%d8%b3%d9%83-%d9%88-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "نوتنجهام فورست",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/29.png",
+    "team2": "أستون فيلا",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/109.png",
+    "time": "22:00",
+    "result": "0-0",
+    "status": "لم تبدأ بعد",
+    "type": "upcoming",
+    "league": "أوروبا, الدوري الأوروبي - نصف النهائي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d9%86%d9%88%d8%aa%d9%86%d8%ac%d9%87%d8%a7%d9%85-%d9%81%d9%88%d8%b1%d8%b3%d8%aa-%d9%88-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7/",
+    "streamUrl": ""
+  },
+  {
+    "team1": "سبورتينج براغا",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/895.png",
+    "team2": "فرايبورج",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/354.png",
+    "time": "22:00",
+    "result": "0-0",
+    "status": "لم تبدأ بعد",
+    "type": "upcoming",
+    "league": "أوروبا, الدوري الأوروبي - نصف النهائي",
+    "detailsUrl": "https://www.koraplay.live/matches/%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%86%d8%ac-%d8%a8%d8%b1%d8%a7%d8%ba%d8%a7-%d9%88-%d9%81%d8%b1%d8%a7%d9%8a%d8%a8%d9%88%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d8%a7%d9%84/",
     "streamUrl": ""
   }
 ]

@@ -2,7 +2,54 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://d.syrlive.com/matches-yesterday/';
+const BASE_URL = 'https://d.syrlive.com/matches-today/';
+
+// بيانات عشوائية لإنشاء مباراة وهمية
+const randomTeams = [
+    { name: "ريال مدريد", logo: "https://example.com/real.png" },
+    { name: "برشلونة", logo: "https://example.com/barca.png" },
+    { name: "مانشستر سيتي", logo: "https://example.com/city.png" },
+    { name: "ليفربول", logo: "https://example.com/liverpool.png" },
+    { name: "بايرن ميونخ", logo: "https://example.com/bayern.png" },
+    { name: "باريس سان جيرمان", logo: "https://example.com/psg.png" },
+    { name: "يوفنتوس", logo: "https://example.com/juve.png" },
+    { name: "تشيلسي", logo: "https://example.com/chelsea.png" }
+];
+
+const randomLeagues = ["الدوري الإنجليزي", "الدوري الإسباني", "دوري أبطال أوروبا", "الدوري الإيطالي", "الدوري الفرنسي", "الدوري الألماني"];
+const randomChannels = ["beIN Sports 1", "beIN Sports 2", "Sky Sports", "ESPN", "Canal+ Sport"];
+const randomCommentators = ["عصام الشوالي", "فهد العتيبي", "رؤوف خليف", "خليل البلوشي", "عامر الخوذيري"];
+
+function getRandomItem(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+
+function generateRandomMatch() {
+    const team1 = getRandomItem(randomTeams);
+    let team2 = getRandomItem(randomTeams);
+    
+    // التأكد من عدم تكرار نفس الفريق
+    while (team2.name === team1.name) {
+        team2 = getRandomItem(randomTeams);
+    }
+
+    return {
+        team1: team1.name,
+        team1Logo: team1.logo,
+        team2: team2.name,
+        team2Logo: team2.logo,
+        time: `${Math.floor(Math.random() * 3) + 18}:00`,
+        result: `${Math.floor(Math.random() * 5)} - ${Math.floor(Math.random() * 4)}`,
+        status: "مباراة استعراضية",
+        type: "upcoming",
+        channel: getRandomItem(randomChannels),
+        commentator: getRandomItem(randomCommentators),
+        league: getRandomItem(randomLeagues),
+        detailsUrl: "",
+        streamUrl: "https://example.com/stream",
+        isRandom: true // علامة لتحديد أنها مباراة عشوائية
+    };
+}
 
 async function getStreamServer(matchUrl) {
     try {
@@ -50,20 +97,25 @@ async function scrapeMatches() {
                 commentator: $(el).find('.match-info ul li:nth-child(2) span').text().trim(),
                 league: $(el).find('.match-info ul li:nth-child(3) span').text().trim(),
                 detailsUrl: detailsUrl,
-                streamUrl: ""
+                streamUrl: "",
+                isRandom: false
             };
             matches.push(match);
         });
 
-        // إذا لم توجد أي مباريات جديدة، احتفظ بالملف القديم
+        // إذا لم توجد أي مباريات، قم بإنشاء مباريات عشوائية
         if (matches.length === 0) {
-            console.log("⚠️ لا توجد مباريات اليوم. سيتم الاحتفاظ بالملف السابق.");
-            if (fs.existsSync('matches.json')) {
-                console.log("تم الاحتفاظ بملف matches.json الحالي.");
-                return; // خروج بدون حفظ ملف فارغ
-            } else {
-                console.log("لا يوجد ملف سابق، جاري إنشاء ملف فارغ...");
+            console.log("⚠️ لا توجد مباريات اليوم. جاري إنشاء مباريات عشوائية...");
+            
+            // إنشاء 3 مباريات عشوائية بدلاً من ترك الملف فارغاً
+            const randomMatches = [];
+            for (let i = 0; i < 3; i++) {
+                randomMatches.push(generateRandomMatch());
             }
+            
+            fs.writeFileSync('matches.json', JSON.stringify(randomMatches, null, 2), 'utf8');
+            console.log(`✅ تم إنشاء ${randomMatches.length} مباراة عشوائية بنجاح.`);
+            return;
         }
 
         // جلب السيرفرات للمباريات اللايف والقادمة فقط
@@ -79,6 +131,15 @@ async function scrapeMatches() {
 
     } catch (error) {
         console.error('❌ خطأ:', error.message);
+        
+        // في حالة حدوث خطأ، قم بإنشاء مباريات عشوائية أيضاً
+        console.log("جاري إنشاء مباريات عشوائية بسبب الخطأ...");
+        const randomMatches = [];
+        for (let i = 0; i < 3; i++) {
+            randomMatches.push(generateRandomMatch());
+        }
+        fs.writeFileSync('matches.json', JSON.stringify(randomMatches, null, 2), 'utf8');
+        console.log(`✅ تم إنشاء ${randomMatches.length} مباراة عشوائية.`);
     }
 }
 

@@ -1,12 +1,41 @@
 [
   {
-    "team1": "",
-    "team2": "",
-    "time": "",
-    "result": "",
-    "status": "",
+    "team1": "الهلال",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/5457.png",
+    "team2": "ضمك",
+    "team2Logo": "https://www.watch-football.net/wp-content/uploads/2025/12/24241.png",
+    "time": "21:00",
+    "result": "0-0",
+    "status": "جارية الان",
+    "type": "live",
+    "league": "السعودية, الدوري السعودي",
+    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc11hd.html",
+    "streamUrl": "https://1.soccertvhd.live/splayer/Live2.php"
+  },
+  {
+    "team1": "باريس سان جيرمان",
+    "team1Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/480.png",
+    "team2": "بايرن ميونخ",
+    "team2Logo": "https://www.livekoratv.com/wp-content/uploads/2025/11/331.png",
+    "time": "22:00",
+    "result": "0-0",
+    "status": "بعد قليل",
     "type": "upcoming",
-    "league": "",
+    "league": "أوروبا, دوري أبطال اوروبا - نصف النهائي",
+    "detailsUrl": "https://14.alkoraa.live/2025/12/beinsportpre11111.html",
+    "streamUrl": "https://s3.us-east-1.amazonaws.com/livesajghjghjghddfdy2/channel1.html"
+  },
+  {
+    "team1": "الشباب",
+    "team1Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8945.png",
+    "team2": "الفتح",
+    "team2Logo": "https://www.kooralive07.live/wp-content/uploads/2025/11/8942.png",
+    "time": "19:00",
+    "result": "0-0",
+    "status": "انتهت",
+    "type": "finished",
+    "league": "السعودية, الدوري السعودي",
+    "detailsUrl": "https://14.alkoraa.live/2025/02/ssc222hd.html",
     "streamUrl": ""
   }
 ]

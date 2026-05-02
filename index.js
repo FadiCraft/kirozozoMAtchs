@@ -2,13 +2,13 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://www.koraplay.live/matches-today/';
+const BASE_URL = 'https://d.syrlive.com/matches-today/';
 
 async function getStreamServer(matchUrl) {
     try {
         const { data } = await axios.get(matchUrl, { timeout: 10000 });
         const $ = cheerio.load(data);
-        // البحث عن رابط السيرفر داخل iframe
+        // البحث عن iframe داخل الصفحة
         const iframeSrc = $('iframe.cf').attr('src') || $('iframe').attr('src');
         return iframeSrc || "";
     } catch (e) {
@@ -18,52 +18,67 @@ async function getStreamServer(matchUrl) {
 
 async function scrapeMatches() {
     try {
-        console.log("Starting Scraper for Kiro Zozo...");
+        console.log("جاري استخراج المباريات من SyrLive...");
         const { data } = await axios.get(BASE_URL);
         const $ = cheerio.load(data);
         const matches = [];
 
-        $('.AY_Match').each((i, el) => {
-            const statusText = $(el).find('.MT_Stat').text().trim();
-            const detailsUrl = $(el).find('a').attr('href');
-            
-            // تحديد النوع برمجياً (Type) لسهولة الفلترة في Sketchware
-            let matchType = "upcoming"; // الافتراضي
-            if (statusText.includes("انتهت")) {
-                matchType = "finished";
-            } else if (statusText.includes("جاري") || statusText.includes("مباشر") || $(el).hasClass('live')) {
+        // استخراج المباريات من الهيكل الجديد
+        $('.match-container').each((i, el) => {
+            // تحديد نوع المباراة من الكلاس
+            let matchType = "upcoming"; // افتراضي
+            if ($(el).hasClass('live')) {
                 matchType = "live";
+            } else if ($(el).hasClass('end')) {
+                matchType = "finished";
             }
 
+            // استخراج رابط التفاصيل
+            const detailsUrl = $(el).find('a[title]').attr('href') || "";
+
             const match = {
-                team1: $(el).find('.TM1 .TM_Name').text().trim(),
-                team1Logo: $(el).find('.TM1 img').attr('data-src') || $(el).find('.TM1 img').attr('src'),
-                team2: $(el).find('.TM2 .TM_Name').text().trim(),
-                team2Logo: $(el).find('.TM2 img').attr('data-src') || $(el).find('.TM2 img').attr('src'),
-                time: $(el).find('.MT_Time').text().trim(),
-                result: $(el).find('.MT_Result').text().trim().replace(/\s+/g, ''),
-                status: statusText,
-                type: matchType, // الحقل الجديد للتمييز
-                league: $(el).find('.TourName').text().trim(),
+                team1: $(el).find('.right-team .team-name').text().trim(),
+                team1Logo: $(el).find('.right-team img').attr('data-src') || $(el).find('.right-team img').attr('src'),
+                team2: $(el).find('.left-team .team-name').text().trim(),
+                team2Logo: $(el).find('.left-team img').attr('data-src') || $(el).find('.left-team img').attr('src'),
+                time: $(el).find('.match-time').text().trim(),
+                result: $(el).find('.result').text().trim(),
+                status: $(el).find('.date').text().trim(),
+                type: matchType,
+                // استخراج القنوات والمعلق والبطولة من match-info
+                channel: $(el).find('.match-info ul li:nth-child(1) span').text().trim(),
+                commentator: $(el).find('.match-info ul li:nth-child(2) span').text().trim(),
+                league: $(el).find('.match-info ul li:nth-child(3) span').text().trim(),
                 detailsUrl: detailsUrl,
                 streamUrl: ""
             };
             matches.push(match);
         });
 
-        // الآن ندخل لصفحات المباريات "اللايف" و "القادمة" لجلب السيرفرات
+        // إذا لم توجد أي مباريات جديدة، احتفظ بالملف القديم
+        if (matches.length === 0) {
+            console.log("⚠️ لا توجد مباريات اليوم. سيتم الاحتفاظ بالملف السابق.");
+            if (fs.existsSync('matches.json')) {
+                console.log("تم الاحتفاظ بملف matches.json الحالي.");
+                return; // خروج بدون حفظ ملف فارغ
+            } else {
+                console.log("لا يوجد ملف سابق، جاري إنشاء ملف فارغ...");
+            }
+        }
+
+        // جلب السيرفرات للمباريات اللايف والقادمة فقط
         for (let match of matches) {
-            if (match.type !== "finished" && match.detailsUrl) {
-                console.log(`Getting stream for: ${match.team1} vs ${match.team2}`);
+            if ((match.type === "live" || match.type === "upcoming") && match.detailsUrl) {
+                console.log(`جاري جلب السيرفر لـ: ${match.team1} vs ${match.team2}`);
                 match.streamUrl = await getStreamServer(match.detailsUrl);
             }
         }
 
-        fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2));
-        console.log(`Successfully scraped ${matches.length} matches.`);
+        fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2), 'utf8');
+        console.log(`✅ تم استخراج ${matches.length} مباراة بنجاح.`);
 
     } catch (error) {
-        console.error('Error:', error.message);
+        console.error('❌ خطأ:', error.message);
     }
 }
 

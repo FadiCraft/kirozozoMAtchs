@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://d.syrlive.com/matches-today/';
+const BASE_URL = 'https://d.syrlive.com/matches-yesterday/';
 
 async function getStreamServer(matchUrl) {
     try {

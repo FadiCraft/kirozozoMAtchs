@@ -1,21 +1,5 @@
 [
   {
-    "team1": "إنتر ميامي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582e90666f.png",
-    "team2": "أورلاندو سيتي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582e90bfb4.png",
-    "time": "2:15 AM",
-    "result": "0-2",
-    "status": "جارية الآن",
-    "type": "live",
-    "channel": "Apple TV",
-    "commentator": "غير مدرج",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "detailsUrl": "https://www.syrlive.com/matches/inter-miami-vs-orlando-city/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "isRandom": false
-  },
-  {
     "team1": "سيلتا فيغو",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c09aab3.png",
     "team2": "إلتشي",
@@ -301,6 +285,22 @@
     "league": "الدوري الإسباني",
     "detailsUrl": "https://www.syrlive.com/matches/espanyol-vs-real-madrid/",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "isRandom": false
+  },
+  {
+    "team1": "إنتر ميامي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582e90666f.png",
+    "team2": "أورلاندو سيتي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582e90bfb4.png",
+    "time": "2:15 AM",
+    "result": "4-3",
+    "status": "إنتهت المباراة",
+    "type": "finished",
+    "channel": "Apple TV",
+    "commentator": "غير مدرج",
+    "league": "الدوري الأمريكي لكرة القدم",
+    "detailsUrl": "https://www.syrlive.com/matches/inter-miami-vs-orlando-city/",
+    "streamUrl": "",
     "isRandom": false
   }
 ]

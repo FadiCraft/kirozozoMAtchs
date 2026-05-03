@@ -24,42 +24,6 @@
     "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
   },
   {
-    "team1": "أستون فيلا",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "توتنهام",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8"
-  },
-  {
-    "team1": "الأهلي",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "الأخدود",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 3",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
-    "team1": "القادسية",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "النصر",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 1",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/master.m3u8"
-  },
-  {
     "team1": "إسبانيول",
     "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "team2": "ريال مدريد",
@@ -238,5 +202,41 @@
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
     "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
+  },
+  {
+    "team1": "أستون فيلا",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "توتنهام",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "الأهلي",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "الأخدود",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 3",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
+  },
+  {
+    "team1": "القادسية",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "النصر",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 1",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/master.m3u8"
   }
 ]

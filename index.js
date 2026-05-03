@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const BASE_URL = 'https://d.syrlive.com/matches-today/';
 
-// دالة للتحقق من عمل الرابط
+// دالة للتأكد من أن رابط الجودة يعمل قبل وضعه
 async function checkUrl(url) {
     if (!url) return "";
     try {
@@ -15,22 +15,21 @@ async function checkUrl(url) {
     }
 }
 
-// دالة لاستخراج الرابط المباشر من داخل السيرفر (iframe)
+// استخراج رابط m3u8 المباشر من داخل كود السيرفر (iframe)
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return null;
     try {
-        // إضافة User-Agent لضمان عدم الحظر
         const { data } = await axios.get(iframeUrl, { 
             headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
             timeout: 7000 
         });
 
-        // البحث عن روابط m3u8 داخل كود السيرفر
+        // البحث عن روابط m3u8
         const m3u8Regex = /https?:\/\/[^"']+\.m3u8[^"']*/g;
         const matches = data.match(m3u8Regex);
 
         if (matches && matches.length > 0) {
-            return matches[0].split('\\').join(''); // تنظيف الرابط من أي علامات هروب
+            return matches[0].split('\\').join(''); // تنظيف الرابط
         }
         return null;
     } catch (e) {
@@ -38,47 +37,59 @@ async function getDirectStream(iframeUrl) {
     }
 }
 
-async function getMatchDetails(matchUrl) {
+async function processStreamingData(matchUrl) {
+    let result = {
+        iframe: "", // سيوضع في streamUrl
+        auto: "",
+        p1080: "",
+        p720: "",
+        p480: "",
+        p144: ""
+    };
+
     try {
         const { data } = await axios.get(matchUrl, { timeout: 8000 });
         const $ = cheerio.load(data);
         
-        // 1. استخراج رابط السيرفر من الـ iframe
-        let iframeSrc = $('iframe.cf').attr('src') || $('iframe').attr('src');
-        
-        if (!iframeSrc) return { main: "" };
+        // 1. استخراج رابط السيرفر الأصلي (iframe)
+        result.iframe = $('iframe.cf').attr('src') || $('iframe').attr('src') || "";
 
-        // 2. محاولة استخراج الرابط المباشر (m3u8) من داخل صفحة السيرفر
-        const directM3u8 = await getDirectStream(iframeSrc);
-        
-        if (!directM3u8) return { main: iframeSrc }; // إذا لم نجد m3u8 نرجع رابط السيرفر كبديل
+        if (result.iframe) {
+            // 2. استخراج الرابط المباشر من داخل السيرفر
+            const directUrl = await getDirectStream(result.iframe);
+            
+            if (directUrl) {
+                result.auto = directUrl; // الرابط المستخرج يوضع في Auto
 
-        // 3. بناء الجودات بناءً على الرابط المستخرج
-        let results = {
-            main: directM3u8,
-            p1080: "",
-            p720: "",
-            p480: "",
-            p144: ""
-        };
-
-        // فحص إذا كان الرابط يتبع النمط المطلوب لتوليد الجودات
-        if (directM3u8.includes('_1080p')) {
-            results.p1080 = directM3u8;
-            results.p720 = await checkUrl(directM3u8.replace('_1080p', '_720p'));
-            results.p480 = await checkUrl(directM3u8.replace('_1080p', '_480p'));
-            results.p144 = await checkUrl(directM3u8.replace('_1080p', '_144p'));
+                // 3. توليد الروابط المباشرة للجودات بناءً على النمط (Replace)
+                // نفترض أن الرابط المستخرج هو الـ master أو 1080p لتوليد البقية
+                let pattern = directUrl.includes('master.m3u8') ? 'master.m3u8' : 'index.m3u8';
+                
+                // إذا كان الرابط يحتوي على جودة معينة مثل bein3_1080p/index.m3u8
+                if (directUrl.includes('_1080p')) {
+                    result.p1080 = directUrl;
+                    result.p720 = await checkUrl(directUrl.replace('_1080p', '_720p'));
+                    result.p480 = await checkUrl(directUrl.replace('_1080p', '_480p'));
+                    result.p144 = await checkUrl(directUrl.replace('_1080p', '_144p'));
+                } else {
+                    // محاولة بناء الروابط إذا كان الرابط الأساسي هو master.m3u8
+                    const base = directUrl.split(pattern)[0];
+                    result.p1080 = await checkUrl(`${base}1080p/${pattern}`);
+                    result.p720 = await checkUrl(`${base}720p/${pattern}`);
+                    result.p480 = await checkUrl(`${base}480p/${pattern}`);
+                    result.p144 = await checkUrl(`${base}144p/${pattern}`);
+                }
+            }
         }
-
-        return results;
     } catch (e) {
-        return { main: "" };
+        console.log("Error fetching details for a match");
     }
+    return result;
 }
 
 async function scrapeMatches() {
     try {
-        console.log("🚀 جاري فحص المباريات واستخراج الروابط المباشرة...");
+        console.log("🚀 جاري استخراج البيانات وتوزيع الجودات...");
         const { data } = await axios.get(BASE_URL);
         const $ = cheerio.load(data);
         const matches = [];
@@ -97,7 +108,8 @@ async function scrapeMatches() {
                 time: $(el).find('.match-time').text().trim(),
                 status: $(el).find('.date').text().trim(),
                 channel: $(el).find('.match-info ul li:nth-child(1) span').text().trim(),
-                streamUrl: "",
+                streamUrl: "", // سيرفر المشاهدة (iframe)
+                stream_Auto: "", // الرابط المباشر (m3u8)
                 stream_1080: "",
                 stream_720: "",
                 stream_480: "",
@@ -105,21 +117,22 @@ async function scrapeMatches() {
             };
 
             if (detailsUrl) {
-                console.log(`🔗 معالجة: ${match.team1} vs ${match.team2}`);
-                const streams = await getMatchDetails(detailsUrl);
+                console.log(`🔍 جاري معالجة: ${match.team1}...`);
+                const streamData = await processStreamingData(detailsUrl);
                 
-                match.streamUrl = streams.main || "";
-                match.stream_1080 = streams.p1080 || "";
-                match.stream_720 = streams.p720 || "";
-                match.stream_480 = streams.p480 || "";
-                match.stream_144 = streams.p144 || "";
+                match.streamUrl = streamData.iframe;
+                match.stream_Auto = streamData.auto;
+                match.stream_1080 = streamData.p1080;
+                match.stream_720 = streamData.p720;
+                match.stream_480 = streamData.p480;
+                match.stream_144 = streamData.p144;
             }
 
             matches.push(match);
         }
 
         fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2), 'utf8');
-        console.log("✅ تم التحديث بنجاح في ملف matches.json");
+        console.log("✅ تم الحفظ بنجاح في ملف matches.json");
 
     } catch (error) {
         console.error('❌ خطأ:', error.message);

@@ -7,13 +7,9 @@
     "time": "5:15 PM",
     "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
-    "detailsUrl": "https://www.syrlive.com/matches/getafe-vs-vallecano/",
+    "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "مان يونايتد",
@@ -23,13 +19,9 @@
     "time": "5:30 PM",
     "status": "جارية الآن",
     "channel": "بي إن سبورت 1",
-    "detailsUrl": "https://www.syrlive.com/matches/man-united-vs-liverpool/",
+    "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "أوكسير",
@@ -39,13 +31,9 @@
     "time": "6:15 PM",
     "status": "بعد قليل",
     "channel": "بي إن سبورت 4",
-    "detailsUrl": "https://www.syrlive.com/matches/auxerre-vs-angers/",
+    "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "نادي باريس",
@@ -55,13 +43,9 @@
     "time": "6:15 PM",
     "status": "بعد قليل",
     "channel": "بي إن سبورت 5",
-    "detailsUrl": "https://www.syrlive.com/matches/paris-fc-vs-brestois/",
+    "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/bein5_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/bein5_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/bein5_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/bein5_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/master.m3u8"
   },
   {
     "team1": "ستراسبورغ",
@@ -71,13 +55,9 @@
     "time": "6:15 PM",
     "status": "بعد قليل",
     "channel": "بي إن سبورت 6",
-    "detailsUrl": "https://www.syrlive.com/matches/strasbourg-vs-toulouse/",
+    "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/bein6_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/bein6_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/bein6_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/bein6_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/master.m3u8"
   },
   {
     "team1": "مونشنغلادباخ",
@@ -87,13 +67,9 @@
     "time": "6:30 PM",
     "status": "لم تبدأ بعد",
     "channel": "MBC Action",
-    "detailsUrl": "https://www.syrlive.com/matches/monchengladbach-vs-dortmund/",
+    "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/shahid1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/shahid1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/shahid1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/shahid1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/shahid1/master.m3u8"
   },
   {
     "team1": "ريال بيتيس",
@@ -103,13 +79,9 @@
     "time": "7:30 PM",
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 3",
-    "detailsUrl": "https://www.syrlive.com/matches/real-betis-vs-real-oviedo/",
+    "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "يوفنتوس",
@@ -119,13 +91,9 @@
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
     "channel": "StarzPlay",
-    "detailsUrl": "https://www.syrlive.com/matches/juventus-vs-hellas-verona/",
+    "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "ليون",
@@ -135,13 +103,9 @@
     "time": "9:45 PM",
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 4",
-    "detailsUrl": "https://www.syrlive.com/matches/lyon-vs-rennais/",
+    "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "إنتر ميلان",
@@ -151,13 +115,9 @@
     "time": "9:45 PM",
     "status": "لم تبدأ بعد",
     "channel": "StarzPlay",
-    "detailsUrl": "https://www.syrlive.com/matches/inter-vs-parma/",
+    "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "أستون فيلا",
@@ -167,13 +127,9 @@
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 2",
-    "detailsUrl": "https://www.syrlive.com/matches/aston-villa-vs-tottenham/",
+    "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/bein1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "الأهلي",
@@ -183,13 +139,9 @@
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
     "channel": "ثمانية 3",
-    "detailsUrl": "https://www.syrlive.com/matches/al-ahli-vs-al-okhdood/",
+    "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "القادسية",
@@ -199,13 +151,9 @@
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
     "channel": "ثمانية 1",
-    "detailsUrl": "https://www.syrlive.com/matches/al-qadsiah-vs-al-nassr-fc/",
+    "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/ssc2_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/ssc2_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/ssc2_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/ssc2_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/master.m3u8"
   },
   {
     "team1": "إسبانيول",
@@ -215,13 +163,9 @@
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 1",
-    "detailsUrl": "https://www.syrlive.com/matches/espanyol-vs-real-madrid/",
+    "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "إنتر ميامي",
@@ -231,13 +175,9 @@
     "time": "2:15 AM",
     "status": "إنتهت المباراة",
     "channel": "Apple TV",
-    "detailsUrl": "https://www.syrlive.com/matches/inter-miami-vs-orlando-city/",
+    "league": "الدوري الأمريكي لكرة القدم",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/ssc1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "بولونيا",
@@ -247,13 +187,9 @@
     "time": "1:30 PM",
     "status": "إنتهت المباراة",
     "channel": "StarzPlay",
-    "detailsUrl": "https://www.syrlive.com/matches/bologna-vs-cagliari/",
+    "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "سيلتا فيغو",
@@ -263,13 +199,9 @@
     "time": "3:00 PM",
     "status": "إنتهت المباراة",
     "channel": "بي إن سبورت 3",
-    "detailsUrl": "https://www.syrlive.com/matches/celta-vigo-vs-elche/",
+    "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/bein3_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "نادي ليل",
@@ -279,13 +211,9 @@
     "time": "4:00 PM",
     "status": "إنتهت المباراة",
     "channel": "بي إن سبورت 4",
-    "detailsUrl": "https://www.syrlive.com/matches/lille-vs-le-havre/",
+    "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/bein4_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "ساسولو",
@@ -295,13 +223,9 @@
     "time": "4:00 PM",
     "status": "إنتهت المباراة",
     "channel": "StarzPlay",
-    "detailsUrl": "https://www.syrlive.com/matches/sassuolo-vs-ac-milan/",
+    "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/ad1_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "بورنموث",
@@ -311,12 +235,8 @@
     "time": "4:00 PM",
     "status": "إنتهت المباراة",
     "channel": "بي إن سبورت 2",
-    "detailsUrl": "https://www.syrlive.com/matches/bournemouth-vs-crystal-palace/",
+    "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream_Auto": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8",
-    "stream_1080": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_1080p/master.m3u8",
-    "stream_720": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_720p/master.m3u8",
-    "stream_480": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_480p/master.m3u8",
-    "stream_144": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/bein2_144p/master.m3u8"
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8"
   }
 ]

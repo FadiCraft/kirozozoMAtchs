@@ -5,7 +5,7 @@
     "team2": "رين",
     "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "time": "9:45 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 4",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
@@ -17,7 +17,7 @@
     "team2": "بارما",
     "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "time": "9:45 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
@@ -32,8 +32,8 @@
     "status": "جارية الآن",
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "الأهلي",
@@ -65,7 +65,7 @@
     "team2": "ريال مدريد",
     "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "time": "10:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",

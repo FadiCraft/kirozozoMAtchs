@@ -1,34 +1,22 @@
 [
   {
-    "team1": "سيلتا فيغو",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c09aab3.png",
-    "team2": "إلتشي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c0a07c7.png",
-    "time": "3:00 PM",
-    "result": "0-2",
-    "status": "جارية الآن",
-    "type": "live",
-    "channel": "بي إن سبورت 3",
-    "commentator": "أحمد البلوشي",
-    "league": "الدوري الإسباني",
-    "detailsUrl": "https://www.syrlive.com/matches/celta-vigo-vs-elche/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "isRandom": false
-  },
-  {
     "team1": "نادي ليل",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c4c0578.png",
     "team2": "لوهافر",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c4c5e91.png",
     "time": "4:00 PM",
-    "result": "0-0",
+    "result": "1-1",
     "status": "جارية الآن",
     "type": "live",
     "channel": "بي إن سبورت 4",
     "commentator": "أحمد فؤاد",
     "league": "الدوري الفرنسي",
     "detailsUrl": "https://www.syrlive.com/matches/lille-vs-le-havre/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -37,14 +25,18 @@
     "team2": "ميلان",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582ce00e96.png",
     "time": "4:00 PM",
-    "result": "0-1",
+    "result": "0-2",
     "status": "جارية الآن",
     "type": "live",
     "channel": "StarzPlay",
     "commentator": "عبدالله السعدي",
     "league": "الدوري الإيطالي",
     "detailsUrl": "https://www.syrlive.com/matches/sassuolo-vs-ac-milan/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -53,14 +45,18 @@
     "team2": "كريستال بالاس",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582d5808a8.png",
     "time": "4:00 PM",
-    "result": "0-1",
+    "result": "0-2",
     "status": "جارية الآن",
     "type": "live",
     "channel": "بي إن سبورت 2",
     "commentator": "نوفل باشي",
     "league": "الدوري الإنجليزي",
     "detailsUrl": "https://www.syrlive.com/matches/bournemouth-vs-crystal-palace/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -70,13 +66,17 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c1a6297.png",
     "time": "5:15 PM",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "type": "upcoming",
     "channel": "بي إن سبورت 3",
     "commentator": "محمد المبروكي",
     "league": "الدوري الإسباني",
     "detailsUrl": "https://www.syrlive.com/matches/getafe-vs-vallecano/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -86,13 +86,17 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582d68d48a.png",
     "time": "5:30 PM",
     "result": "0-0",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "type": "upcoming",
     "channel": "بي إن سبورت 1",
     "commentator": "علي سعيد الكعبي",
     "league": "الدوري الإنجليزي",
     "detailsUrl": "https://www.syrlive.com/matches/man-united-vs-liverpool/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -108,7 +112,11 @@
     "commentator": "عامر الخوذيري",
     "league": "الدوري الفرنسي",
     "detailsUrl": "https://www.syrlive.com/matches/auxerre-vs-angers/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -124,7 +132,11 @@
     "commentator": "عبدالله الغامدي",
     "league": "الدوري الفرنسي",
     "detailsUrl": "https://www.syrlive.com/matches/paris-fc-vs-brestois/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -140,7 +152,11 @@
     "commentator": "أحمد عبده",
     "league": "الدوري الفرنسي",
     "detailsUrl": "https://www.syrlive.com/matches/strasbourg-vs-toulouse/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -156,7 +172,11 @@
     "commentator": "فهد عريشي",
     "league": "الدوري الألماني",
     "detailsUrl": "https://www.syrlive.com/matches/monchengladbach-vs-dortmund/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -172,7 +192,11 @@
     "commentator": "جواد بدة",
     "league": "الدوري الإسباني",
     "detailsUrl": "https://www.syrlive.com/matches/real-betis-vs-real-oviedo/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -188,7 +212,11 @@
     "commentator": "عامر عبدالله",
     "league": "الدوري الإيطالي",
     "detailsUrl": "https://www.syrlive.com/matches/juventus-vs-hellas-verona/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -204,7 +232,11 @@
     "commentator": "محمد بركات",
     "league": "الدوري الفرنسي",
     "detailsUrl": "https://www.syrlive.com/matches/lyon-vs-rennais/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -220,7 +252,11 @@
     "commentator": "فارس عوض",
     "league": "الدوري الإيطالي",
     "detailsUrl": "https://www.syrlive.com/matches/inter-vs-parma/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -236,7 +272,11 @@
     "commentator": "حفيظ دراجي",
     "league": "الدوري الإنجليزي",
     "detailsUrl": "https://www.syrlive.com/matches/aston-villa-vs-tottenham/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -252,7 +292,11 @@
     "commentator": "عبدالله الحربي",
     "league": "دوري روشن السعودي",
     "detailsUrl": "https://www.syrlive.com/matches/al-ahli-vs-al-okhdood/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -268,7 +312,11 @@
     "commentator": "فهد العتيبي",
     "league": "دوري روشن السعودي",
     "detailsUrl": "https://www.syrlive.com/matches/al-qadsiah-vs-al-nassr-fc/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -284,7 +332,11 @@
     "commentator": "حسن العيدروس",
     "league": "الدوري الإسباني",
     "detailsUrl": "https://www.syrlive.com/matches/espanyol-vs-real-madrid/",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -301,6 +353,10 @@
     "league": "الدوري الأمريكي لكرة القدم",
     "detailsUrl": "https://www.syrlive.com/matches/inter-miami-vs-orlando-city/",
     "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   },
   {
@@ -317,6 +373,30 @@
     "league": "الدوري الإيطالي",
     "detailsUrl": "https://www.syrlive.com/matches/bologna-vs-cagliari/",
     "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
+    "isRandom": false
+  },
+  {
+    "team1": "سيلتا فيغو",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c09aab3.png",
+    "team2": "إلتشي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f582c0a07c7.png",
+    "time": "3:00 PM",
+    "result": "1-3",
+    "status": "إنتهت المباراة",
+    "type": "finished",
+    "channel": "بي إن سبورت 3",
+    "commentator": "أحمد البلوشي",
+    "league": "الدوري الإسباني",
+    "detailsUrl": "https://www.syrlive.com/matches/celta-vigo-vs-elche/",
+    "streamUrl": "",
+    "stream_1080": "",
+    "stream_720": "",
+    "stream_480": "",
+    "stream_144": "",
     "isRandom": false
   }
 ]

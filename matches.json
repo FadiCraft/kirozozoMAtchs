@@ -1,53 +1,5 @@
 [
   {
-    "team1": "مان يونايتد",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "ليفربول",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "5:30 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
-  },
-  {
-    "team1": "أوكسير",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "أنجيه",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "6:15 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 4",
-    "league": "الدوري الفرنسي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8"
-  },
-  {
-    "team1": "نادي باريس",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "بريست",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "6:15 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 5",
-    "league": "الدوري الفرنسي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/master.m3u8"
-  },
-  {
-    "team1": "ستراسبورغ",
-    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "team2": "تولوز",
-    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "time": "6:15 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 6",
-    "league": "الدوري الفرنسي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/master.m3u8"
-  },
-  {
     "team1": "مونشنغلادباخ",
     "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "team2": "دورتموند",
@@ -65,7 +17,7 @@
     "team2": "ريال أوفييدو",
     "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "time": "7:30 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
@@ -238,5 +190,53 @@
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "team1": "مان يونايتد",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "ليفربول",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "5:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 1",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "أوكسير",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "أنجيه",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "6:15 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 4",
+    "league": "الدوري الفرنسي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein4/master.m3u8"
+  },
+  {
+    "team1": "نادي باريس",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "بريست",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "6:15 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 5",
+    "league": "الدوري الفرنسي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein5/master.m3u8"
+  },
+  {
+    "team1": "ستراسبورغ",
+    "team1Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "team2": "تولوز",
+    "team2Logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "time": "6:15 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 6",
+    "league": "الدوري الفرنسي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
+    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein6/master.m3u8"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الخليج",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f7d31fb0bba.png",
-    "team2": "الهلال",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f7d31fb6c35.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 1",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
     "team1": "أرسنال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f7d3242de84.png",
     "team2": "أتلتيكو مدريد",
@@ -21,7 +9,7 @@
     "channel": "بي إن سبورت 1",
     "league": "دوري أبطال أوروبا",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://16syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "سيراميكا",
@@ -58,5 +46,17 @@
     "league": "دوري Nile",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
     "stream": "https://fastly.live.brightcove.com/6386122937112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYxMjI5MzcxMTIifQ.HPPHHVyUxLnEyCqaO6AP7j1iCOBrMGE-zTe-7mV1-24/playlist-hls.m3u8"
+  },
+  {
+    "team1": "الخليج",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f7d31fb0bba.png",
+    "team2": "الهلال",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69f7d31fb6c35.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 1",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://15syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
   }
 ]

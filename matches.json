@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الأهلي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fa832f9b558.png",
-    "team2": "الفتح",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fa832fa1245.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 1",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://17syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
     "team1": "بايرن ميونخ",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fa833295f89.png",
     "team2": "باريس",
@@ -22,5 +10,17 @@
     "league": "دوري أبطال أوروبا",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://17syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "الأهلي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fa832f9b558.png",
+    "team2": "الفتح",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fa832fa1245.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 1",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://17syrialive.s3.eu-central-1.amazonaws.com/ssc1/master.m3u8"
   }
 ]

@@ -5,24 +5,55 @@ const fs = require('fs');
 const BASE_URL = 'https://d.syrlive.com/matches-today/';
 
 /**
- * استخراج رابط m3u8 المباشر من داخل كود السيرفر (iframe)
+ * دالة لاستخراج الرابط المباشر m3u8 من المشغل
+ * تم تحديثها لتتعامل مع حماية المشغلات الجديدة
  */
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return "";
+    
+    // تصحيح الرابط إذا كان يبدأ بـ //
+    const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
+
     try {
-        const { data } = await axios.get(iframeUrl, { 
-            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
-            timeout: 7000 
+        const { data } = await axios.get(fullIframeUrl, { 
+            headers: { 
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Referer': 'https://d.syrlive.com/',
+                'Origin': 'https://d.syrlive.com',
+                'Accept': '*/*'
+            },
+            timeout: 10000 
         });
 
-        const m3u8Regex = /https?:\/\/[^"']+\.m3u8[^"']*/g;
-        const matches = data.match(m3u8Regex);
+        // 1. البحث عن روابط m3u8 الصريحة
+        const m3u8Regex = /https?[:\/\w\.-]+\.m3u8[^\s"']*/gi;
+        let matches = data.match(m3u8Regex);
 
         if (matches && matches.length > 0) {
+            // تنظيف الرابط من أي علامات هروب (Backslashes)
             return matches[0].replace(/\\/g, ''); 
         }
+
+        // 2. البحث عن الروابط داخل سمة "source" في المشغل
+        const sourceRegex = /file\s*:\s*["']([^"']+\.m3u8[^"']*)["']/i;
+        const sourceMatch = data.match(sourceRegex);
+        if (sourceMatch) return sourceMatch[1];
+
+        // 3. البحث عن روابط Base64 (إذا كان المشغل يشفر الرابط)
+        const base64Regex = /["']([A-Za-z0-9+/]{50,})={0,2}["']/g;
+        let b64Matches;
+        while ((b64Matches = base64Regex.exec(data)) !== null) {
+            try {
+                let decoded = Buffer.from(b64Matches[1], 'base64').toString('utf-8');
+                if (decoded.includes('.m3u8')) {
+                    return decoded.match(/https?[:\/\w\.-]+\.m3u8[^\s"']*/i)[0];
+                }
+            } catch (e) {}
+        }
+
         return "";
     } catch (e) {
+        console.log(`⚠️ فشل الوصول للمشغل: ${fullIframeUrl}`);
         return "";
     }
 }
@@ -33,29 +64,35 @@ async function getDirectStream(iframeUrl) {
 async function processMatchStream(matchUrl) {
     let result = { iframe: "", direct: "" };
     try {
-        const { data } = await axios.get(matchUrl, { timeout: 8000 });
+        const { data } = await axios.get(matchUrl, { 
+            headers: { 'User-Agent': 'Mozilla/5.0' },
+            timeout: 8000 
+        });
         const $ = cheerio.load(data);
         
-        const iframeSrc = $('iframe.cf').attr('src') || $('iframe').attr('src') || "";
+        // جلب رابط الـ iframe مع دعم المشغل الجديد
+        const iframeSrc = $('iframe').attr('src') || $('iframe.cf').attr('src') || "";
         result.iframe = iframeSrc;
 
         if (iframeSrc) {
             result.direct = await getDirectStream(iframeSrc);
         }
     } catch (e) {
-        console.log("⚠️ فشل جلب بيانات البث للمباراة");
+        console.log(`⚠️ فشل جلب صفحة المباراة: ${matchUrl}`);
     }
     return result;
 }
 
 /**
- * السكريبت الرئيسي لجلب المباريات
+ * السكريبت الرئيسي
  */
 async function scrapeMatches() {
     try {
         console.log("🚀 جاري فحص المباريات واستخراج البيانات...");
         const { data } = await axios.get(BASE_URL, {
-            headers: { 'User-Agent': 'Mozilla/5.0' }
+            headers: { 
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' 
+            }
         });
         const $ = cheerio.load(data);
         const matches = [];
@@ -66,16 +103,10 @@ async function scrapeMatches() {
             const el = matchElements[i];
             const detailsUrl = $(el).find('a').attr('href') || "";
             
-            // استخراج الصور مع مراعاة الـ Lazy Loading (التحميل المتأخر)
             const getValidLogo = (sideSelector) => {
                 const imgTag = $(el).find(`${sideSelector} img`);
-                // الموقع يستخدم data-src للصورة الأصلية و src لصورة مؤقتة أحياناً
                 let logoUrl = imgTag.attr('data-src') || imgTag.attr('src') || "";
-                
-                // التأكد من أن الرابط يبدأ بـ http
-                if (logoUrl.startsWith('//')) {
-                    logoUrl = 'https:' + logoUrl;
-                }
+                if (logoUrl.startsWith('//')) logoUrl = 'https:' + logoUrl;
                 return logoUrl;
             };
 
@@ -93,21 +124,28 @@ async function scrapeMatches() {
             };
 
             if (detailsUrl) {
-                console.log(`🔍 فحص: ${match.team1} vs ${match.team2}`);
+                console.log(`🔍 جاري استخراج: ${match.team1} vs ${match.team2}`);
                 const streamData = await processMatchStream(detailsUrl);
                 
                 match.streamUrl = streamData.iframe;
                 match.stream = streamData.direct;
+                
+                if (match.stream) {
+                    console.log(`✅ تم العثور على الرابط المباشر!`);
+                } else {
+                    console.log(`❌ لم يتم العثور على رابط مباشر (قد يكون البث لم يبدأ بعد)`);
+                }
             }
 
             matches.push(match);
         }
 
         fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2), 'utf8');
-        console.log("✅ تم الحفظ بنجاح. ملف matches.json جاهز.");
+        console.log("---");
+        console.log(`✅ انتهى العمل. تم حفظ ${matches.length} مباراة في matches.json`);
 
     } catch (error) {
-        console.error('❌ خطأ في السكربت:', error.message);
+        console.error('❌ خطأ في السكربت الرئيسي:', error.message);
     }
 }
 

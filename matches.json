@@ -18,7 +18,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a77beda.png",
     "time": "3:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 4",
+    "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
@@ -54,7 +54,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a88b310.png",
     "time": "5:15 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 4",
+    "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
@@ -66,7 +66,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9cd4546b.png",
     "time": "5:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 3",
+    "channel": "بي إن سبورت 2",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
@@ -102,7 +102,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a99e44d.png",
     "time": "7:30 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 4",
+    "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
@@ -150,7 +150,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9d83f5e2.png",
     "time": "8:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "غير معروف",
+    "channel": "Apple TV",
     "league": "الدوري الأمريكي لكرة القدم",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
     "stream": "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8"
@@ -186,7 +186,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9d36c4b0.png",
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "القناة الأرضية الجزائرية",
+    "channel": "بي إن سبورت 2",
     "league": "كأس الكونفيدرالية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"

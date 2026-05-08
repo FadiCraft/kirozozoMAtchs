@@ -12,12 +12,24 @@
     "stream": ""
   },
   {
+    "team1": "ليفانتي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9253d1f9.png",
+    "team2": "أوساسونا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9254324b.png",
+    "time": "10:00 PM",
+    "status": "جارية الآن",
+    "channel": "بي إن سبورت 3",
+    "league": "الدوري الإسباني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": ""
+  },
+  {
     "team1": "دورتموند",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda92958296.png",
     "team2": "فرانكفورت",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9295e30a.png",
     "time": "9:30 PM",
-    "status": "جارية الآن",
+    "status": "إنتهت المباراة",
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
@@ -29,22 +41,10 @@
     "team2": "الهلال",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda95610914.png",
     "time": "9:00 PM",
-    "status": "جارية الآن",
+    "status": "إنتهت المباراة",
     "channel": "ثمانية 1",
     "league": "كأس خادم الحرمين الشريفين",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": ""
-  },
-  {
-    "team1": "ليفانتي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9253d1f9.png",
-    "team2": "أوساسونا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9254324b.png",
-    "time": "10:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": ""
   }
 ]

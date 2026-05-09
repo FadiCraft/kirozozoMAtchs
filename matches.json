@@ -1,17 +1,5 @@
 [
   {
-    "team1": "إلتشي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a775c32.png",
-    "team2": "ألافيس",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a77beda.png",
-    "time": "3:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
-  },
-  {
     "team1": "لايبزيج",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9bb3188a.png",
     "team2": "سانت باولي",
@@ -41,7 +29,7 @@
     "team2": "إسبانيول",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a88b310.png",
     "time": "5:15 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
@@ -53,7 +41,7 @@
     "team2": "وولفرهامبتون",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9cd4546b.png",
     "time": "5:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
@@ -65,7 +53,7 @@
     "team2": "بورنموث",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9ce54baa.png",
     "time": "5:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 5",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
@@ -77,7 +65,7 @@
     "team2": "مان يونايتد",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9cf65990.png",
     "time": "5:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
@@ -190,5 +178,17 @@
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "إلتشي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a775c32.png",
+    "team2": "ألافيس",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9a77beda.png",
+    "time": "3:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "الدوري الإسباني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   }
 ]

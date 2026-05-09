@@ -24,18 +24,6 @@
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
   },
   {
-    "team1": "لاتسيو",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9c5e58d4.png",
-    "team2": "إنتر ميلان",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9c5ec6aa.png",
-    "time": "7:00 PM",
-    "status": "جارية الآن",
-    "channel": "StarzPlay",
-    "league": "الدوري الإيطالي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
-  },
-  {
     "team1": "مان سيتي",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9d070200.png",
     "team2": "برينتفورد",
@@ -190,5 +178,17 @@
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "لاتسيو",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9c5e58d4.png",
+    "team2": "إنتر ميلان",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fda9c5ec6aa.png",
+    "time": "7:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "StarzPlay",
+    "league": "الدوري الإيطالي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   }
 ]

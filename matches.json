@@ -90,7 +90,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1128659.png",
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "منصة شاشا",
+    "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
@@ -114,7 +114,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1336485.png",
     "time": "9:45 PM",
     "status": "لم تبدأ بعد",
-    "channel": "منصة شاشا",
+    "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
@@ -150,7 +150,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecddeb683b.png",
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 4",
+    "channel": "بي إن سبورت 6",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
@@ -162,7 +162,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecde293f38.png",
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 3",
+    "channel": "بي إن سبورت 4",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
@@ -186,7 +186,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecde82cb07.png",
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 6",
+    "channel": "بي إن سبورت 5",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein6/master.m3u8"
@@ -198,7 +198,7 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecdeb3f2d0.png",
     "time": "10:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 5",
+    "channel": "بي إن سبورت 3",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
     "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"

@@ -20,8 +20,8 @@
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "لايبزيج",
@@ -56,8 +56,8 @@
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "برايتون",
@@ -68,8 +68,8 @@
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "فولهام",
@@ -104,8 +104,8 @@
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "فولفسبورغ",
@@ -116,8 +116,8 @@
     "status": "لم تبدأ بعد",
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
   },
   {
     "team1": "لاتسيو",
@@ -153,7 +153,7 @@
     "channel": "Apple TV",
     "league": "الدوري الأمريكي لكرة القدم",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8"
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   },
   {
     "team1": "ليتشي",
@@ -177,7 +177,7 @@
     "channel": "بي إن سبورت 8",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein8/",
-    "stream": "https://6syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
   },
   {
     "team1": "اتحاد العاصمة",
@@ -188,7 +188,7 @@
     "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 2",
     "league": "كأس الكونفيدرالية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

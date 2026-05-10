@@ -1,17 +1,5 @@
 [
   {
-    "team1": "أتلتيك بلباو",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33a9a33.png",
-    "team2": "فالنسيا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33af90d.png",
-    "time": "5:15 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
-  },
-  {
     "team1": "وست هام",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece195079d.png",
     "team2": "أرسنال",
@@ -29,7 +17,7 @@
     "team2": "خيتافي",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd34c0d91.png",
     "time": "7:30 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
@@ -53,7 +41,7 @@
     "team2": "نادي زد",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece2185c07.png",
     "time": "8:30 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "ON Sport 1",
     "league": "كأس مصر",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
@@ -226,5 +214,17 @@
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
     "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
+  },
+  {
+    "team1": "أتلتيك بلباو",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33a9a33.png",
+    "team2": "فالنسيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33af90d.png",
+    "time": "5:15 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "الدوري الإسباني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   }
 ]

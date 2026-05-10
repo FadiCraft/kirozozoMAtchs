@@ -1,47 +1,11 @@
 [
   {
-    "team1": "بيرنلي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece162102f.png",
-    "team2": "أستون فيلا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece16291f1.png",
-    "time": "4:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
-  },
-  {
-    "team1": "كريستال بالاس",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1734432.png",
-    "team2": "إيفرتون",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece173a4fe.png",
-    "time": "4:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 4",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
-  },
-  {
-    "team1": "نوتينغهام",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1844358.png",
-    "team2": "نيوكاسل",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1849997.png",
-    "time": "4:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
-  },
-  {
     "team1": "أتلتيك بلباو",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33a9a33.png",
     "team2": "فالنسيا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fecd33af90d.png",
     "time": "5:15 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
@@ -53,7 +17,7 @@
     "team2": "أرسنال",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1956816.png",
     "time": "6:30 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
@@ -81,7 +45,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "بيراميدز",
@@ -93,7 +57,7 @@
     "channel": "ON Sport 1",
     "league": "كأس مصر",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://fastly.live.brightcove.com/6386030131112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMzAxMzExMTIifQ.aZa3dfTqySgbsPGs64c0_JTfvR1mKUmvdlDJ1WTeDgo/playlist-hls.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
   },
   {
     "team1": "ميلان",
@@ -105,7 +69,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "الاتحاد",
@@ -117,7 +81,7 @@
     "channel": "ثمانية 1",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "برشلونة",
@@ -141,7 +105,7 @@
     "channel": "بي إن سبورت 6",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "موناكو",
@@ -189,7 +153,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
   },
   {
     "team1": "أوكسير",
@@ -201,7 +165,7 @@
     "channel": "بي إن سبورت 8",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein8/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
   },
   {
     "team1": "ريال مايوركا",
@@ -214,5 +178,53 @@
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "team1": "بيرنلي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece162102f.png",
+    "team2": "أستون فيلا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece16291f1.png",
+    "time": "4:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "كريستال بالاس",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1734432.png",
+    "team2": "إيفرتون",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece173a4fe.png",
+    "time": "4:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 4",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+  },
+  {
+    "team1": "نوتينغهام",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1844358.png",
+    "team2": "نيوكاسل",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_69fece1849997.png",
+    "time": "4:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 1",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "فيورنتينا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0095a791da9.png",
+    "team2": "جنوى",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0095a797b46.png",
+    "time": "4:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "StarzPlay",
+    "league": "الدوري الإيطالي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   }
 ]

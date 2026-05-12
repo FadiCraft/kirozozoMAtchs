@@ -1,35 +1,11 @@
 [
   {
-    "team1": "ريال بيتيس",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f4066cb67.png",
-    "team2": "إلتشي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f40672bd2.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "الدوري الإسباني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
-  },
-  {
-    "team1": "النصر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f408adf92.png",
-    "team2": "الهلال",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f408b3cac.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 1",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
     "team1": "أوساسونا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f40779c32.png",
     "team2": "أتلتيكو مدريد",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f4077fa45.png",
     "time": "10:30 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
@@ -46,5 +22,29 @@
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
     "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "ريال بيتيس",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f4066cb67.png",
+    "team2": "إلتشي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f40672bd2.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "الدوري الإسباني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "team1": "النصر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f408adf92.png",
+    "team2": "الهلال",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a00f408b3cac.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 1",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   }
 ]

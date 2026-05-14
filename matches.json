@@ -1,17 +1,5 @@
 [
   {
-    "team1": "سينسيناتي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a03bcf0bc817.png",
-    "team2": "إنتر ميامي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a03bcf0c261a.png",
-    "time": "2:30 AM",
-    "status": "جارية الآن",
-    "channel": "Apple TV",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
-  },
-  {
     "team1": "فالنسيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a03bce59b32a.png",
     "team2": "رايو فاليكانو",
@@ -58,5 +46,17 @@
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+  },
+  {
+    "team1": "سينسيناتي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a03bcf0bc817.png",
+    "team2": "إنتر ميامي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a03bcf0c261a.png",
+    "time": "2:30 AM",
+    "status": "إنتهت المباراة",
+    "channel": "Apple TV",
+    "league": "الدوري الأمريكي لكرة القدم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   }
 ]

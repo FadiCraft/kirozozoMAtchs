@@ -9,7 +9,7 @@
     "channel": "بي إن سبورت 8",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein8/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/bein8/master.m3u8"
   },
   {
     "team1": "جيرونا",
@@ -21,7 +21,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "الاتفاق",
@@ -33,7 +33,7 @@
     "channel": "ثمانية 1",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "ريال مدريد",
@@ -45,7 +45,7 @@
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "سينسيناتي",

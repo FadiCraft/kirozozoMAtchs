@@ -1,14 +1,14 @@
 [
   {
-    "team1": "أستون فيلا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0537acb6c26.png",
-    "team2": "ليفربول",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0537acbc9d8.png",
-    "time": "10:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "team1": "",
+    "team1Logo": "",
+    "team2": "",
+    "team2Logo": "",
+    "time": "",
+    "status": "",
+    "channel": "",
+    "league": "",
+    "streamUrl": "",
+    "stream": ""
   }
 ]

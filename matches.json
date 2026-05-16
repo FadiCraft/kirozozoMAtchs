@@ -1,75 +1,15 @@
 [
   {
-    "team1": "باير ليفركوزن",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648aba41e2.png",
-    "team2": "هامبورغ",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648abaa841.png",
-    "time": "4:30 PM",
-    "status": "جارية الآن",
-    "channel": "MBC شاهد | رياضة",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid5/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid5/master.m3u8"
-  },
-  {
-    "team1": "بايرن ميونخ",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648ad6e325.png",
-    "team2": "كولن",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648ad73a04.png",
-    "time": "4:30 PM",
-    "status": "جارية الآن",
-    "channel": "MBC شاهد | رياضة",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
-  },
-  {
     "team1": "فرانكفورت",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b030dce.png",
     "team2": "شتوتجارت",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b0379d7.png",
     "time": "4:30 PM",
-    "status": "جارية الآن",
+    "status": "إنتهت المباراة",
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid4/",
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
-  },
-  {
-    "team1": "فرايبورج",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648cc5c570.png",
-    "team2": "لايبزيج",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648cc62849.png",
-    "time": "4:30 PM",
-    "status": "جارية الآن",
-    "channel": "MBC شاهد | رياضة",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid3/master.m3u8"
-  },
-  {
-    "team1": "فيردر بريمن",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648d10a94b.png",
-    "team2": "دورتموند",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648d110b69.png",
-    "time": "4:30 PM",
-    "status": "جارية الآن",
-    "channel": "MBC شاهد | رياضة",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
-  },
-  {
-    "team1": "مونشنغلادباخ",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c2e6d.png",
-    "team2": "هوفنهايم",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c8b9a.png",
-    "time": "4:30 PM",
-    "status": "جارية الآن",
-    "channel": "MBC Action",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
   },
   {
     "team1": "تشيلسي",
@@ -130,5 +70,65 @@
     "league": "كأس الكونفيدرالية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "team1": "باير ليفركوزن",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648aba41e2.png",
+    "team2": "هامبورغ",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648abaa841.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC شاهد | رياضة",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid5/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid5/master.m3u8"
+  },
+  {
+    "team1": "بايرن ميونخ",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648ad6e325.png",
+    "team2": "كولن",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648ad73a04.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC شاهد | رياضة",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+  },
+  {
+    "team1": "فرايبورج",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648cc5c570.png",
+    "team2": "لايبزيج",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648cc62849.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC شاهد | رياضة",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid3/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid3/master.m3u8"
+  },
+  {
+    "team1": "فيردر بريمن",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648d10a94b.png",
+    "team2": "دورتموند",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648d110b69.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC شاهد | رياضة",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
+  },
+  {
+    "team1": "مونشنغلادباخ",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c2e6d.png",
+    "team2": "هوفنهايم",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c8b9a.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC Action",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
   }
 ]

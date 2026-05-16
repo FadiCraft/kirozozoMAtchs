@@ -9,7 +9,7 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid5/",
-    "stream": ""
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/shahid5/master.m3u8"
   },
   {
     "team1": "بايرن ميونخ",
@@ -21,7 +21,7 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   },
   {
     "team1": "فرانكفورت",
@@ -33,7 +33,7 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid4/",
-    "stream": ""
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
   },
   {
     "team1": "فرايبورج",
@@ -45,7 +45,7 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid3/",
-    "stream": "https://13syrialive.s3.eu-north-1.amazonaws.com/shahid3/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/shahid3/master.m3u8"
   },
   {
     "team1": "فيردر بريمن",
@@ -57,7 +57,19 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
-    "stream": "https://20syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
+  },
+  {
+    "team1": "مونشنغلادباخ",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c2e6d.png",
+    "team2": "هوفنهايم",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f963c8b9a.png",
+    "time": "4:30 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "MBC Action",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
   },
   {
     "team1": "تشيلسي",
@@ -93,7 +105,7 @@
     "channel": "بي إن سبورت 2",
     "league": "دوري أبطال آسيا 2",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "الأهلي",
@@ -105,7 +117,7 @@
     "channel": "قنوات ثمانية",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
-    "stream": "https://14syrialive.s3.eu-central-1.amazonaws.com/ssc2/master.m3u8"
+    "stream": "https://22syrialive.s3.us-east-2.amazonaws.com/ssc2/master.m3u8"
   },
   {
     "team1": "الزمالك",

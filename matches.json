@@ -1,17 +1,5 @@
 [
   {
-    "team1": "النصر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485fcd971.png",
-    "team2": "غامبا أوساكا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485fd4ca7.png",
-    "time": "8:45 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "دوري أبطال آسيا 2",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
-  },
-  {
     "team1": "الأهلي",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484c72de6.png",
     "team2": "الخلود",
@@ -130,5 +118,17 @@
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+  },
+  {
+    "team1": "النصر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485fcd971.png",
+    "team2": "غامبا أوساكا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485fd4ca7.png",
+    "time": "8:45 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "دوري أبطال آسيا 2",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

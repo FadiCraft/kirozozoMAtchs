@@ -1,29 +1,5 @@
 [
   {
-    "team1": "الأهلي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484c72de6.png",
-    "team2": "الخلود",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484c78b03.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 3",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ssc2/master.m3u8"
-  },
-  {
-    "team1": "الزمالك",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485571fe4.png",
-    "team2": "اتحاد العاصمة",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485577f40.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "كأس الكونفيدرالية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
-  },
-  {
     "team1": "باير ليفركوزن",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648aba41e2.png",
     "team2": "هامبورغ",
@@ -130,5 +106,29 @@
     "league": "دوري أبطال آسيا 2",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "الأهلي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484c72de6.png",
+    "team2": "الخلود",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484c78b03.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 3",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ssc2/master.m3u8"
+  },
+  {
+    "team1": "الزمالك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485571fe4.png",
+    "team2": "اتحاد العاصمة",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485577f40.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "كأس الكونفيدرالية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   }
 ]

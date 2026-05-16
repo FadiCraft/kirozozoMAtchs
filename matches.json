@@ -1,35 +1,11 @@
 [
   {
-    "team1": "فرانكفورت",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b030dce.png",
-    "team2": "شتوتجارت",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b0379d7.png",
-    "time": "4:30 PM",
-    "status": "إنتهت المباراة",
-    "channel": "MBC شاهد | رياضة",
-    "league": "الدوري الألماني",
-    "streamUrl": "https://player.syria-player.live/albaplayer/shahid4/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
-  },
-  {
-    "team1": "تشيلسي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648580f0a4.png",
-    "team2": "مان سيتي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485814f6f.png",
-    "time": "5:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "كأس الاتحاد الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
-  },
-  {
     "team1": "الهلال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484a7ea79.png",
     "team2": "نيوم",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06484a85114.png",
     "time": "7:05 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "ثمانية 1",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
@@ -96,6 +72,18 @@
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   },
   {
+    "team1": "فرانكفورت",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b030dce.png",
+    "team2": "شتوتجارت",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648b0379d7.png",
+    "time": "4:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "MBC شاهد | رياضة",
+    "league": "الدوري الألماني",
+    "streamUrl": "https://player.syria-player.live/albaplayer/shahid4/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
+  },
+  {
     "team1": "فرايبورج",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648cc5c570.png",
     "team2": "لايبزيج",
@@ -130,5 +118,17 @@
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
     "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
+  },
+  {
+    "team1": "تشيلسي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0648580f0a4.png",
+    "team2": "مان سيتي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a06485814f6f.png",
+    "time": "5:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 1",
+    "league": "كأس الاتحاد الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   }
 ]

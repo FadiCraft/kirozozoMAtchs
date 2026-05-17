@@ -5,11 +5,11 @@
     "team2": "بورتلاند تمبرز",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973891a.png",
     "time": "1:00 AM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "Apple TV",
     "league": "الدوري الأمريكي لكرة القدم",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+    "stream": ""
   },
   {
     "team1": "أرسنال",
@@ -21,6 +21,6 @@
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   }
 ]

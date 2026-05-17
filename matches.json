@@ -9,7 +9,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "إشبيلية",
@@ -21,7 +21,7 @@
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "رايو فاليكانو",
@@ -33,7 +33,7 @@
     "channel": "بي إن سبورت 6",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein6/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein6/master.m3u8"
   },
   {
     "team1": "أتلتيكو مدريد",
@@ -45,7 +45,7 @@
     "channel": "beIN Xtra 4",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinex4/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/beinex4/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/beinex4/master.m3u8"
   },
   {
     "team1": "أتلتيك بلباو",
@@ -57,7 +57,7 @@
     "channel": "beIN Xtra 3",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinex3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/beinex3/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/beinex3/master.m3u8"
   },
   {
     "team1": "ريال سوسيداد",
@@ -69,7 +69,7 @@
     "channel": "بي إن سبورت 5",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
   },
   {
     "team1": "الشباب",
@@ -77,11 +77,11 @@
     "team2": "الاتحاد",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f49f6995b.png",
     "time": "9:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "ثمانية 1",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "برشلونة",
@@ -93,7 +93,7 @@
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "نادي باريس",
@@ -105,7 +105,7 @@
     "channel": "بي إن سبورت 1",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "ستراسبورغ",
@@ -117,7 +117,7 @@
     "channel": "بي إن سبورت 7",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein7/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein7/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein7/master.m3u8"
   },
   {
     "team1": "نيس",
@@ -129,7 +129,7 @@
     "channel": "بي إن سبورت 6",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein6/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein6/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein6/master.m3u8"
   },
   {
     "team1": "مارسيليا",
@@ -141,7 +141,7 @@
     "channel": "بي إن سبورت 4",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "نادي ليل",
@@ -153,7 +153,7 @@
     "channel": "بي إن سبورت 5",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
   },
   {
     "team1": "ليون",
@@ -165,7 +165,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "جنوى",
@@ -237,7 +237,7 @@
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "إنتر ميلان",
@@ -261,7 +261,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "إيفرتون",
@@ -273,7 +273,7 @@
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "ليدز يونايتد",
@@ -285,7 +285,7 @@
     "channel": "بي إن سبورت 4",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "وولفرهامبتون",
@@ -297,7 +297,7 @@
     "channel": "بي إن سبورت 5",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
   },
   {
     "team1": "صن داونز",
@@ -309,6 +309,6 @@
     "channel": "بي إن سبورت 2",
     "league": "دوري أبطال أفريقيا",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

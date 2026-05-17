@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الشباب",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f49f63d8a.png",
-    "team2": "الاتحاد",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f49f6995b.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ثمانية 1",
-    "league": "دوري روشن السعودي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
     "team1": "برشلونة",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f40d2baad.png",
     "team2": "ريال بيتيس",
@@ -310,5 +298,17 @@
     "league": "الدوري الإسباني",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
     "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+  },
+  {
+    "team1": "الشباب",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f49f63d8a.png",
+    "team2": "الاتحاد",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a07f49f6995b.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "ثمانية 1",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   }
 ]

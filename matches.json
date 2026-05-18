@@ -1,26 +1,26 @@
 [
   {
-    "team1": "أرسنال",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a09449205141.png",
-    "team2": "بيرنلي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944920addb.png",
-    "time": "10:00 PM",
-    "status": "جارية الآن",
+    "team1": "بورنموث",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c6bc7c9.png",
+    "team2": "مان سيتي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c6c3421.png",
+    "time": "9:30 PM",
+    "status": "لم تبدأ بعد",
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
-    "team1": "إنتر ميامي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973225f.png",
-    "team2": "بورتلاند تمبرز",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973891a.png",
-    "time": "1:00 AM",
-    "status": "إنتهت المباراة",
-    "channel": "Apple TV",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": ""
+    "team1": "تشيلسي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c8466bf.png",
+    "team2": "توتنهام",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c84e583.png",
+    "time": "10:15 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 2",
+    "league": "الدوري الإنجليزي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

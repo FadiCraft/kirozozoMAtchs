@@ -1,17 +1,5 @@
 [
   {
-    "team1": "إنتر ميامي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973225f.png",
-    "team2": "بورتلاند تمبرز",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973891a.png",
-    "time": "1:00 AM",
-    "status": "جارية الآن",
-    "channel": "Apple TV",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": ""
-  },
-  {
     "team1": "أرسنال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a09449205141.png",
     "team2": "بيرنلي",
@@ -22,5 +10,17 @@
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+  },
+  {
+    "team1": "إنتر ميامي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973225f.png",
+    "team2": "بورتلاند تمبرز",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0944973891a.png",
+    "time": "1:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "Apple TV",
+    "league": "الدوري الأمريكي لكرة القدم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": ""
   }
 ]

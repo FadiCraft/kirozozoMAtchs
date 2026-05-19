@@ -5,11 +5,11 @@
     "team2": "مان سيتي",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c6c3421.png",
     "time": "9:30 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 1",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   },
   {
     "team1": "تشيلسي",
@@ -17,10 +17,10 @@
     "team2": "توتنهام",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c84e583.png",
     "time": "10:15 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 2",
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

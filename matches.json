@@ -1,26 +1,62 @@
 [
   {
-    "team1": "بورنموث",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c6bc7c9.png",
-    "team2": "مان سيتي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c6c3421.png",
-    "time": "9:30 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "team1": "بيراميدز",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d58f256.png",
+    "team2": "سموحة",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d595418.png",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "On Sport Plus",
+    "league": "دوري Nile",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": ""
   },
   {
-    "team1": "تشيلسي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c8466bf.png",
-    "team2": "توتنهام",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86c84e583.png",
-    "time": "10:15 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "الدوري الإنجليزي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "team1": "الزمالك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d6a2f23.png",
+    "team2": "سيراميكا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d6a9ee6.png",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "ON Sport 1",
+    "league": "دوري Nile",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
+    "stream": "https://fastly.live.brightcove.com/6386122937112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYxMjI5MzcxMTIifQ.HPPHHVyUxLnEyCqaO6AP7j1iCOBrMGE-zTe-7mV1-24/playlist-hls.m3u8"
+  },
+  {
+    "team1": "المصري",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d7aa3ef.png",
+    "team2": "الأهلي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d7b0910.png",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "On Sport Max",
+    "league": "دوري Nile",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
+    "stream": "https://21syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+  },
+  {
+    "team1": "الخليج",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86cf72dba.png",
+    "team2": "الأهلي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86cf79838.png",
+    "time": "9:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "قنوات ثمانية",
+    "league": "دوري روشن السعودي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://24syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+  },
+  {
+    "team1": "فرايبورج",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d94e99f.png",
+    "team2": "أستون فيلا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0b86d9542c7.png",
+    "time": "10:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 1",
+    "league": "الدوري الأوروبي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   }
 ]

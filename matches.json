@@ -9,7 +9,7 @@
     "channel": "غير معروف",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   },
   {
     "team1": "فولفسبورغ",
@@ -21,7 +21,7 @@
     "channel": "MBC شاهد | رياضة",
     "league": "الدوري الألماني",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
   },
   {
     "team1": "الفيحاء",
@@ -30,10 +30,10 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0cd35e0f517.png",
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "قنوات ثمانية",
+    "channel": "ثمانية 2",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "النصر",
@@ -42,10 +42,10 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0cd360452fb.png",
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "قنوات ثمانية",
+    "channel": "ثمانية 1",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc2/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ssc2/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ssc2/master.m3u8"
   },
   {
     "team1": "الاتحاد",
@@ -54,9 +54,9 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0cd36369a2f.png",
     "time": "9:00 PM",
     "status": "لم تبدأ بعد",
-    "channel": "قنوات ثمانية",
+    "channel": "ثمانية 5",
     "league": "دوري روشن السعودي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc3/",
-    "stream": "https://9syrialive.s3.us-east-2.amazonaws.com/ssc3/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ssc3/master.m3u8"
   }
 ]

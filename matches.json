@@ -6,10 +6,10 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a0e213a74ee8.png",
     "time": "9:45 PM",
     "status": "لم تبدأ بعد",
-    "channel": "غير معروف",
+    "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream": "https://23syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   },
   {
     "team1": "لانس",
@@ -21,6 +21,6 @@
     "channel": "بي إن سبورت 1",
     "league": "كأس فرنسا",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
   }
 ]

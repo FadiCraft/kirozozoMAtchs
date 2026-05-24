@@ -1,17 +1,5 @@
 [
   {
-    "team1": "نابولي",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a10fb20acbad.png",
-    "team2": "أودينيزي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a10fb20b219c.png",
-    "time": "7:00 PM",
-    "status": "جارية الآن",
-    "channel": "StarzPlay",
-    "league": "الدوري الإيطالي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
-  },
-  {
     "team1": "هيلاس فيرونا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a10fb25920fe.png",
     "team2": "روما",
@@ -21,7 +9,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid2/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/shahid2/master.m3u8"
   },
   {
     "team1": "تورينو",
@@ -33,7 +21,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid1/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/shahid1/master.m3u8"
   },
   {
     "team1": "ميلان",
@@ -45,7 +33,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid3/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/shahid3/master.m3u8"
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/shahid3/master.m3u8"
   },
   {
     "team1": "كريمونيسي",
@@ -57,7 +45,7 @@
     "channel": "StarzPlay",
     "league": "الدوري الإيطالي",
     "streamUrl": "https://player.syria-player.live/albaplayer/shahid4/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/shahid4/master.m3u8"
   },
   {
     "team1": "فياريال",
@@ -202,5 +190,17 @@
     "league": "الدوري الإنجليزي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
     "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/bein5/master.m3u8"
+  },
+  {
+    "team1": "نابولي",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a10fb20acbad.png",
+    "team2": "أودينيزي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a10fb20b219c.png",
+    "time": "7:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "StarzPlay",
+    "league": "الدوري الإيطالي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ad1/",
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8"
   }
 ]

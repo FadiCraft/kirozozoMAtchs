@@ -1,17 +1,5 @@
 [
   {
-    "team1": "المغرب",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1382096e630.png",
-    "team2": "بوروندي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a13820974d79.png",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "channel": "غير معروف",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
-  },
-  {
     "team1": "سانت إتيان",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a138203e5648.png",
     "team2": "نيس",
@@ -22,5 +10,17 @@
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
     "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "المغرب",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1382096e630.png",
+    "team2": "بوروندي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a13820974d79.png",
+    "time": "7:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "غير معروف",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
   }
 ]

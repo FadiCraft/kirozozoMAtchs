@@ -1,14 +1,14 @@
 [
   {
-    "team1": "كريستال بالاس",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a159b6b3bb0d.png",
-    "team2": "رايو فاليكانو",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a159b6b42c6b.png",
-    "time": "10:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "دوري المؤتمر الأوروبي",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://29syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "team1": "مصر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a165fd8a6b50.png",
+    "team2": "روسيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a165fd8aeb2d.png",
+    "time": "9:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "ON Sport 1",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
+    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
   }
 ]

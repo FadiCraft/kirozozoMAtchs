@@ -1,26 +1,38 @@
 [
   {
-    "team1": "مصر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a165fd8a6b50.png",
-    "team2": "روسيا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a165fd8aeb2d.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "ON Sport 1",
+    "team1": "أندورا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4c4d961.png",
+    "team2": "العراق",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4c53581.png",
+    "time": "7:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "قناة الرابعة +4",
     "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
+    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
   },
   {
-    "team1": "أيرلندا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b41561cd.png",
-    "team2": "قطر",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b415bf9a.png",
+    "team1": "نيس",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b494d686.png",
+    "team2": "سانت إتيان",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4956772.png",
     "time": "9:45 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 3",
+    "league": "الدوري الفرنسي",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+  },
+  {
+    "team1": "البوسنة والهرسك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4e42e6b.png",
+    "team2": "مقدونيا الشمالية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4e495bd.png",
+    "time": "9:30 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

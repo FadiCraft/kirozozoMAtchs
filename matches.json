@@ -5,11 +5,11 @@
     "team2": "العراق",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a178b4c53581.png",
     "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "قناة الرابعة +4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://25syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
+    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
   },
   {
     "team1": "نيس",
@@ -21,7 +21,7 @@
     "channel": "بي إن سبورت 3",
     "league": "الدوري الفرنسي",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   },
   {
     "team1": "البوسنة والهرسك",
@@ -33,6 +33,6 @@
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://28syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   }
 ]

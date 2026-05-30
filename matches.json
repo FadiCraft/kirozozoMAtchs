@@ -4,12 +4,12 @@
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b3646.png",
     "team2": "السعودية",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b9c0c.png",
-    "time": "2:30 AM",
-    "status": "لم تبدأ بعد",
+    "time": "2:00 AM",
+    "status": "بعد قليل",
     "channel": "تطبيق STC TV",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   },
   {
     "team1": "سويسرا",
@@ -21,7 +21,7 @@
     "channel": "الأردن الرياضية",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
   },
   {
     "team1": "تشيكيا",
@@ -33,7 +33,7 @@
     "channel": "بي إن سبورت 4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "بولندا",
@@ -45,7 +45,7 @@
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://31syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "ألمانيا",
@@ -57,7 +57,7 @@
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://31syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "أمريكا",
@@ -69,6 +69,6 @@
     "channel": "On Sport Plus",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
   }
 ]

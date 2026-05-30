@@ -1,14 +1,74 @@
 [
   {
-    "team1": "باريس",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a19a0ff6fd8c.png",
-    "team2": "أرسنال",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a19a0ff769d6.png",
-    "time": "8:00 PM",
-    "status": "إنتهت المباراة",
-    "channel": "بي إن سبورت 1",
-    "league": "دوري أبطال أوروبا",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://35syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8"
+    "team1": "الاكوادور",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b3646.png",
+    "team2": "السعودية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b9c0c.png",
+    "time": "2:30 AM",
+    "status": "لم تبدأ بعد",
+    "channel": "تطبيق STC TV",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://26syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
+  },
+  {
+    "team1": "سويسرا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3afd260d8.png",
+    "team2": "الأردن",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3afd2bd66.png",
+    "time": "4:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "الأردن الرياضية",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
+    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+  },
+  {
+    "team1": "تشيكيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3aff25da9.png",
+    "team2": "كوسوفو",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3aff2c622.png",
+    "time": "5:00 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 4",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+  },
+  {
+    "team1": "بولندا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b036ab6c.png",
+    "team2": "أوكرانيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b0370580.png",
+    "time": "6:30 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://31syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "ألمانيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b05a84e7.png",
+    "team2": "فنلندا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b05ae0d0.png",
+    "time": "9:45 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "بي إن سبورت 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://31syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+  },
+  {
+    "team1": "أمريكا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b07994c9.png",
+    "team2": "السنغال",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b079f2ae.png",
+    "time": "10:30 PM",
+    "status": "لم تبدأ بعد",
+    "channel": "On Sport Plus",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
+    "stream": "https://30syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الاكوادور",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b3646.png",
-    "team2": "السعودية",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b9c0c.png",
-    "time": "2:30 AM",
-    "status": "إنتهت المباراة",
-    "channel": "تطبيق STC TV",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
-  },
-  {
     "team1": "سويسرا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3afd260d8.png",
     "team2": "الأردن",
@@ -70,5 +58,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
     "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
+  },
+  {
+    "team1": "الاكوادور",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b3646.png",
+    "team2": "السعودية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3af9b9c0c.png",
+    "time": "2:30 AM",
+    "status": "إنتهت المباراة",
+    "channel": "تطبيق STC TV",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8"
   }
 ]

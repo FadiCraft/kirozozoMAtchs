@@ -5,7 +5,7 @@
     "team2": "الأردن",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3afd2bd66.png",
     "time": "4:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "الأردن الرياضية",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
@@ -17,7 +17,7 @@
     "team2": "كوسوفو",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3aff2c622.png",
     "time": "5:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
@@ -32,8 +32,8 @@
     "status": "لم تبدأ بعد",
     "channel": "beIN Xtra 3",
     "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinex3/",
+    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/beinex3/master.m3u8"
   },
   {
     "team1": "ألمانيا",

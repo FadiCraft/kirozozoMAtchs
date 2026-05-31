@@ -1,17 +1,5 @@
 [
   {
-    "team1": "بولندا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b036ab6c.png",
-    "team2": "أوكرانيا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b0370580.png",
-    "time": "6:30 PM",
-    "status": "جارية الآن",
-    "channel": "beIN Xtra 3",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinex3/",
-    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/beinex3/master.m3u8"
-  },
-  {
     "team1": "ألمانيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b05a84e7.png",
     "team2": "فنلندا",
@@ -70,5 +58,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
     "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+  },
+  {
+    "team1": "بولندا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b036ab6c.png",
+    "team2": "أوكرانيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b0370580.png",
+    "time": "6:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Xtra 3",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinex3/",
+    "stream": "https://27syrialive.s3.us-east-2.amazonaws.com/beinex3/master.m3u8"
   }
 ]

@@ -66,9 +66,9 @@
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/05/alba_img_6a1a3b098c608.png",
     "time": "12:30 AM",
     "status": "إنتهت المباراة",
-    "channel": "أبو ظبي الرياضية 1",
+    "channel": "غير معروف",
     "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/time3/master.m3u8"
+    "streamUrl": "",
+    "stream": ""
   }
 ]

@@ -9,7 +9,7 @@
     "channel": "بي إن سبورت 4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://www123w.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://syrialive-906628864357-us-east-2-an.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
   },
   {
     "team1": "هولندا",
@@ -21,7 +21,7 @@
     "channel": "تطبيق TOD",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://41syrialive.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+    "stream": "https://syrialive-906628864357-us-east-2-an.s3.us-east-2.amazonaws.com/time1/master.m3u8"
   },
   {
     "team1": "بولندا",
@@ -33,7 +33,7 @@
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://41syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
+    "stream": "https://syrialive-906628864357-us-east-2-an.s3.us-east-2.amazonaws.com/bein2/master.m3u8"
   },
   {
     "team1": "لوكسمبورغ",
@@ -57,6 +57,6 @@
     "channel": "بي إن سبورت 3",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://www123w.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
+    "stream": "https://syrialive-906628864357-us-east-2-an.s3.us-east-2.amazonaws.com/bein3/master.m3u8"
   }
 ]

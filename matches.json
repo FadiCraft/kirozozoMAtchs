@@ -1,62 +1,14 @@
 [
   {
-    "team1": "إسبانيا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a89cacfd.png",
-    "team2": "العراق",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a89d15b6.png",
-    "time": "10:00 PM",
-    "status": "جارية الآن",
-    "channel": "العراقية الرياضية",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://live.ktooranb.cfd/live2/index.m3u8"
-  },
-  {
-    "team1": "فرنسا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8b4647a.png",
-    "team2": "كوت ديفوار",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8b4cbca.png",
-    "time": "10:10 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://hls.syrlive.online/bein1/master.m3u8"
-  },
-  {
-    "team1": "أيرلندا الشمالية",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8fb1317.png",
-    "team2": "غينيا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8fb80b7.png",
-    "time": "7:00 PM",
-    "status": "إنتهت المباراة",
-    "channel": "بي إن سبورت 4",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://hls.syrlive.online/bein4/master.m3u8"
-  },
-  {
-    "team1": "لبنان",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a99e564f.png",
-    "team2": "اليمن",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a99eb53c.png",
-    "time": "7:00 PM",
-    "status": "إنتهت المباراة",
-    "channel": "الكأس 1",
-    "league": "تصفيات كأس آسيا",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://hls.syrlive.online/time2/master.m3u8"
-  },
-  {
-    "team1": "السويد",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8d63d0c.png",
-    "team2": "اليونان",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a1f9a8d68f14.png",
-    "time": "8:00 PM",
-    "status": "إنتهت المباراة",
-    "channel": "بي إن سبورت 2",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://hls.syrlive.online/bein2/master.m3u8"
+    "team1": "",
+    "team1Logo": "",
+    "team2": "",
+    "team2Logo": "",
+    "time": "",
+    "status": "",
+    "channel": "",
+    "league": "",
+    "streamUrl": "",
+    "stream": ""
   }
 ]

@@ -9,7 +9,7 @@
     "channel": "بي إن سبورت 4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://syrialive-906628864357-us-east-2-an.s3.us-east-2.amazonaws.com/bein4/master.m3u8"
+    "stream": "https://hls.syrlive.online/bein4/master.m3u8"
   },
   {
     "team1": "لبنان",
@@ -21,7 +21,7 @@
     "channel": "الكأس 1",
     "league": "تصفيات كأس آسيا",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://36syrialive.s3.us-east-2.amazonaws.com/time2/master.m3u8"
+    "stream": "https://hls.syrlive.online/time2/master.m3u8"
   },
   {
     "team1": "السويد",
@@ -33,7 +33,7 @@
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://pub-7ae853b47f9c4b1bbb8417eaa095c928.r2.dev/bein1/master.m3u8"
+    "stream": "https://hls.syrlive.online/bein2/master.m3u8"
   },
   {
     "team1": "إسبانيا",
@@ -45,7 +45,7 @@
     "channel": "تطبيق TOD",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://efefwe-939144829536-us-east-2-an.s3.us-east-2.amazonaws.com/time1/master.m3u8"
+    "stream": "https://hls.syrlive.online/time1/master.m3u8"
   },
   {
     "team1": "فرنسا",
@@ -57,6 +57,6 @@
     "channel": "بي إن سبورت 1",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://lu4iot973i.execute-api.eu-central-1.amazonaws.com/bein1_hls.m3u8"
+    "stream": "https://hls.syrlive.online/bein1/master.m3u8"
   }
 ]

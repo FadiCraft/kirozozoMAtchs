@@ -1,53 +1,5 @@
 [
   {
-    "team1": "سلوفاكيا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113973ae51.png",
-    "team2": "مونتينيغرو",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139740c90.png",
-    "time": "7:30 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://hls.syrlive.online/bein2/master.m3u8"
-  },
-  {
-    "team1": "مولدوفا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139d759e3.png",
-    "team2": "بلغاريا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139d7c458.png",
-    "time": "8:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 1",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://hls.syrlive.online/bein1/master.m3u8"
-  },
-  {
-    "team1": "المجر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ab9c455.png",
-    "team2": "فنلندا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113aba482b.png",
-    "time": "8:45 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 4",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
-    "stream": "https://hls.syrlive.online/bein4/master.m3u8"
-  },
-  {
-    "team1": "أذربيجان",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ad772b1.png",
-    "team2": "مالطا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ad7d049.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://hls.syrlive.online/bein3/master.m3u8"
-  },
-  {
     "team1": "المكسيك",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21137acb9ac.png",
     "team2": "صربيا",
@@ -82,5 +34,53 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
     "stream": "https://live.ktooranb.cfd/live2/index.m3u8"
+  },
+  {
+    "team1": "سلوفاكيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113973ae51.png",
+    "team2": "مونتينيغرو",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139740c90.png",
+    "time": "7:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://hls.syrlive.online/bein2/master.m3u8"
+  },
+  {
+    "team1": "مولدوفا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139d759e3.png",
+    "team2": "بلغاريا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139d7c458.png",
+    "time": "8:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 1",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://hls.syrlive.online/bein1/master.m3u8"
+  },
+  {
+    "team1": "المجر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ab9c455.png",
+    "team2": "فنلندا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113aba482b.png",
+    "time": "8:45 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 4",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
+    "stream": "https://hls.syrlive.online/bein4/master.m3u8"
+  },
+  {
+    "team1": "أذربيجان",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ad772b1.png",
+    "team2": "مالطا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2113ad7d049.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://hls.syrlive.online/bein3/master.m3u8"
   }
 ]

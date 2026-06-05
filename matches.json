@@ -1,23 +1,11 @@
 [
   {
-    "team1": "تايلاند",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a211387905b3.png",
-    "team2": "الكويت",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21138797e4f.png",
-    "time": "3:30 PM",
-    "status": "جارية الآن",
-    "channel": "الكويت الرياضية",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://hls.syrlive.online/time2/master.m3u8"
-  },
-  {
     "team1": "روسيا البيضاء",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21138de2f1f.png",
     "team2": "سوريا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21138de8887.png",
     "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "أنا سوريا",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
@@ -29,7 +17,7 @@
     "team2": "مونتينيغرو",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21139740c90.png",
     "time": "7:30 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
@@ -82,5 +70,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://hls.syrlive.online/bein3/master.m3u8"
+  },
+  {
+    "team1": "تايلاند",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a211387905b3.png",
+    "team2": "الكويت",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a21138797e4f.png",
+    "time": "3:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "الكويت الرياضية",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
+    "stream": "https://hls.syrlive.online/time2/master.m3u8"
   }
 ]

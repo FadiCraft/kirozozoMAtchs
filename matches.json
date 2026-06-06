@@ -1,17 +1,5 @@
 [
   {
-    "team1": "بورتوريكو",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d4e0407a.png",
-    "team2": "السعودية",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d4e09688.png",
-    "time": "2:00 AM",
-    "status": "إنتهت المباراة",
-    "channel": "تطبيق STC TV",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://hls.syrlive.online/ssc1/master.m3u8"
-  },
-  {
     "team1": "بلجيكا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d6fe126f.png",
     "team2": "تونس",
@@ -130,5 +118,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
     "stream": "https://hls.syrlive.online/time2/master.m3u8"
+  },
+  {
+    "team1": "بورتوريكو",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d4e0407a.png",
+    "team2": "السعودية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d4e09688.png",
+    "time": "2:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "تطبيق STC TV",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://hls.syrlive.online/ssc1/master.m3u8"
   }
 ]

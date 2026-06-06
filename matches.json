@@ -1,27 +1,15 @@
 [
   {
-    "team1": "بلجيكا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d6fe126f.png",
-    "team2": "تونس",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d6fe713d.png",
-    "time": "4:00 PM",
-    "status": "جارية الآن",
-    "channel": "الوطنية 1",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://hls.syrlive.online/time1/master.m3u8"
-  },
-  {
     "team1": "قرغيزستان",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b11f2254.png",
     "team2": "فلسطين",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b1204497.png",
     "time": "5:30 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "فلسطين الرياضية",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://hls.syrlive.online/time3/master.m3u8"
+    "stream": ""
   },
   {
     "team1": "البرتغال",
@@ -130,5 +118,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
     "stream": "https://hls.syrlive.online/ssc1/master.m3u8"
+  },
+  {
+    "team1": "بلجيكا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d6fe126f.png",
+    "team2": "تونس",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d6fe713d.png",
+    "time": "4:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "الوطنية 1",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
+    "stream": "https://hls.syrlive.online/time1/master.m3u8"
   }
 ]

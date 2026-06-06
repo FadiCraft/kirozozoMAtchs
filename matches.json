@@ -1,17 +1,5 @@
 [
   {
-    "team1": "قرغيزستان",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b11f2254.png",
-    "team2": "فلسطين",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b1204497.png",
-    "time": "5:30 PM",
-    "status": "جارية الآن",
-    "channel": "فلسطين الرياضية",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": ""
-  },
-  {
     "team1": "البرتغال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d5d2b216.png",
     "team2": "تشيلي",
@@ -29,7 +17,7 @@
     "team2": "جزر الكايمان",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b16376f0.png",
     "time": "8:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "بي إن سبورت 7",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein7/",
@@ -130,5 +118,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
     "stream": "https://hls.syrlive.online/time1/master.m3u8"
+  },
+  {
+    "team1": "قرغيزستان",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b11f2254.png",
+    "team2": "فلسطين",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b1204497.png",
+    "time": "5:30 PM",
+    "status": "إنتهت المباراة",
+    "channel": "فلسطين الرياضية",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": ""
   }
 ]

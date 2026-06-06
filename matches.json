@@ -5,7 +5,7 @@
     "team2": "تشيلي",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a221d5d324a1.png",
     "time": "8:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 2",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
@@ -17,7 +17,7 @@
     "team2": "جزر الكايمان",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b16376f0.png",
     "time": "8:00 PM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 7",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein7/",
@@ -29,7 +29,7 @@
     "team2": "ويلز",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b1e96d5c.png",
     "time": "8:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 4",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein4/",
@@ -53,7 +53,7 @@
     "team2": "لوكسمبورغ",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a234b2233ba0.png",
     "time": "9:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "بعد قليل",
     "channel": "بي إن سبورت 5",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein5/",
@@ -129,6 +129,6 @@
     "channel": "فلسطين الرياضية",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": ""
+    "stream": "https://hls.syrlive.online/time3/master.m3u8"
   }
 ]

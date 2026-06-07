@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a23792500679.png",
-    "team2": "هندوراس",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a237925065aa.png",
-    "time": "3:00 AM",
-    "status": "جارية الآن",
-    "channel": "أبو ظبي الرياضية 2",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
-    "stream": "https://hls.syrlive.online/time3/master.m3u8"
-  },
-  {
     "team1": "الدنمارك",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a237965033cd.png",
     "team2": "أوكرانيا",
@@ -82,5 +70,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/time4/",
     "stream": "https://hls.syrlive.online/time4/master.m3u8"
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a23792500679.png",
+    "team2": "هندوراس",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a237925065aa.png",
+    "time": "3:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "أبو ظبي الرياضية 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time3/",
+    "stream": "https://hls.syrlive.online/time3/master.m3u8"
   }
 ]

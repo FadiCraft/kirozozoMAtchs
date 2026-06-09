@@ -1,17 +1,5 @@
 [
   {
-    "team1": "أذربيجان",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f569935c1.png",
-    "team2": "سان مارينو",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5699ab47.png",
-    "time": "9:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 3",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
-    "stream": "https://1hls.syrlive.online/bein3/master.m3u8"
-  },
-  {
     "team1": "بيرو",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f4f16f18e.png",
     "team2": "إسبانيا",
@@ -46,5 +34,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://1hls.syrlive.online/bein1/master.m3u8"
+  },
+  {
+    "team1": "أذربيجان",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f569935c1.png",
+    "team2": "سان مارينو",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5699ab47.png",
+    "time": "9:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 3",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
+    "stream": "https://1hls.syrlive.online/bein3/master.m3u8"
   }
 ]

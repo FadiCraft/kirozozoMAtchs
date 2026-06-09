@@ -1,17 +1,5 @@
 [
   {
-    "team1": "بيرو",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f4f16f18e.png",
-    "team2": "إسبانيا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f4f174d2e.png",
-    "time": "5:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "بي إن سبورت 2",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://1hls.syrlive.online/bein2/master.m3u8"
-  },
-  {
     "team1": "أرمينيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5b0ef589.png",
     "team2": "مولدوفا",
@@ -46,5 +34,17 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
     "stream": "https://1hls.syrlive.online/bein3/master.m3u8"
+  },
+  {
+    "team1": "بيرو",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f4f16f18e.png",
+    "team2": "إسبانيا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f4f174d2e.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://1hls.syrlive.online/bein2/master.m3u8"
   }
 ]

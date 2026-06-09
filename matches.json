@@ -1,35 +1,11 @@
 [
   {
-    "team1": "أرمينيا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5b0ef589.png",
-    "team2": "مولدوفا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5b100b80.png",
-    "time": "6:00 PM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت 2",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
-    "stream": "https://1hls.syrlive.online/bein2/master.m3u8"
-  },
-  {
-    "team1": "المجر",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5675488a.png",
-    "team2": "كازاخستان",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5675af34.png",
-    "time": "8:00 PM",
-    "status": "بعد قليل",
-    "channel": "بي إن سبورت 1",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
-    "stream": "https://1hls.syrlive.online/bein1/master.m3u8"
-  },
-  {
     "team1": "أذربيجان",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f569935c1.png",
     "team2": "سان مارينو",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5699ab47.png",
     "time": "9:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "بي إن سبورت 3",
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein3/",
@@ -46,5 +22,29 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
     "stream": "https://1hls.syrlive.online/bein2/master.m3u8"
+  },
+  {
+    "team1": "أرمينيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5b0ef589.png",
+    "team2": "مولدوفا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5b100b80.png",
+    "time": "6:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 2",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein2/",
+    "stream": "https://1hls.syrlive.online/bein2/master.m3u8"
+  },
+  {
+    "team1": "المجر",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5675488a.png",
+    "team2": "كازاخستان",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a25f5675af34.png",
+    "time": "8:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت 1",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
+    "stream": "https://1hls.syrlive.online/bein1/master.m3u8"
   }
 ]

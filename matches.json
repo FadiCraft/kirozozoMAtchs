@@ -1,41 +1,5 @@
 [
   {
-    "team1": "السنغال",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2759249039d.png",
-    "team2": "السعودية",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2759249600e.png",
-    "time": "2:00 AM",
-    "status": "جارية الآن",
-    "channel": "تطبيق STC TV",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
-    "stream": "https://1hls.syrlive.online/ssc1/master.m3u8"
-  },
-  {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275926c4d2d.png",
-    "team2": "أيسلندا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275926ca449.png",
-    "time": "4:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "أبو ظبي الرياضية 1",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
-    "stream": "https://1hls.syrlive.online/time2/master.m3u8"
-  },
-  {
-    "team1": "فنزويلا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275928c4763.png",
-    "team2": "العراق",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275928cad19.png",
-    "time": "4:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "العراقية الرياضية",
-    "league": "مباراة ودية",
-    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
-    "stream": "https://1hls.syrlive.online/time1/master.m3u8"
-  },
-  {
     "team1": "البرتغال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a27592b88738.png",
     "team2": "نيجيريا",
@@ -58,5 +22,41 @@
     "league": "مباراة ودية",
     "streamUrl": "https://player.syria-player.live/albaplayer/bein1/",
     "stream": "https://1hls.syrlive.online/bein1/master.m3u8"
+  },
+  {
+    "team1": "السنغال",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2759249039d.png",
+    "team2": "السعودية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2759249600e.png",
+    "time": "2:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "تطبيق STC TV",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/ssc1/",
+    "stream": "https://1hls.syrlive.online/ssc1/master.m3u8"
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275926c4d2d.png",
+    "team2": "أيسلندا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275926ca449.png",
+    "time": "4:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "أبو ظبي الرياضية 1",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time2/",
+    "stream": "https://1hls.syrlive.online/time2/master.m3u8"
+  },
+  {
+    "team1": "فنزويلا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275928c4763.png",
+    "team2": "العراق",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a275928cad19.png",
+    "time": "4:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "العراقية الرياضية",
+    "league": "مباراة ودية",
+    "streamUrl": "https://player.syria-player.live/albaplayer/time1/",
+    "stream": "https://1hls.syrlive.online/time1/master.m3u8"
   }
 ]

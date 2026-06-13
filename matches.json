@@ -5,11 +5,11 @@
     "team2": "سويسرا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e90ce4e.png",
     "time": "10:00 PM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
+    "status": "جارية الآن",
+    "channel": "بي إن سبورت (مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max1/master.m3u8"
+    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max3/master.m3u8"
   },
   {
     "team1": "أمريكا",
@@ -21,6 +21,6 @@
     "channel": "بي إن سبورت (مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max1/master.m3u8"
+    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max3/master.m3u8"
   }
 ]

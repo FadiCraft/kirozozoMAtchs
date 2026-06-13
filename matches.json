@@ -1,17 +1,5 @@
 [
   {
-    "team1": "أمريكا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e6ee49c.png",
-    "team2": "باراغواي",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e700abd.png",
-    "time": "4:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://cup.yallashoo.live/max1/index.m3u8"
-  },
-  {
     "team1": "قطر",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e9070df.png",
     "team2": "سويسرا",
@@ -21,6 +9,18 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://cup.yallashoo.live/max1/index.m3u8"
+    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "أمريكا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e6ee49c.png",
+    "team2": "باراغواي",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2b69e700abd.png",
+    "time": "4:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت (مجانية)",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://3cup-live.s3.eu-west-3.amazonaws.com/max1/master.m3u8"
   }
 ]

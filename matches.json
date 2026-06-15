@@ -1,17 +1,5 @@
 [
   {
-    "team1": "السويد",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2df0dd27958.png",
-    "team2": "تونس",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2df0dd2d365.png",
-    "time": "5:00 AM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت (مجانية)",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://11cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
-  },
-  {
     "team1": "إسبانيا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2df0de3c8a8.png",
     "team2": "الرأس الأخضر",
@@ -21,7 +9,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://11cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://12cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "بلجيكا",
@@ -33,7 +21,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://11cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://12cup-live.s3.eu-north-1.amazonaws.com/max4/master.m3u8"
   },
   {
     "team1": "كوت ديفوار",
@@ -45,6 +33,18 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://11cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://12cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "السويد",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2df0dd27958.png",
+    "team2": "تونس",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2df0dd2d365.png",
+    "time": "5:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت (مجانية)",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": "https://12cup-live.s3.eu-north-1.amazonaws.com/max4/master.m3u8"
   }
 ]

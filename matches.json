@@ -5,11 +5,11 @@
     "team2": "أوروغواي",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a2f287c608d6.png",
     "time": "1:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
+    "status": "جارية الآن",
+    "channel": "بي إن سبورت (مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://15cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://17cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "إيران",
@@ -33,6 +33,6 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://15cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://17cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "team1": "النمسا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efcd06cd.png",
-    "team2": "الأردن",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efcd5bdc.png",
-    "time": "7:00 AM",
-    "status": "جارية الآن",
-    "channel": "بي إن سبورت (مجانية)",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://25cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
-  },
-  {
     "team1": "البرتغال",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efdea435.png",
     "team2": "الكونغو",
@@ -33,7 +21,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://25cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "العراق",
@@ -45,7 +33,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://25cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "الأرجنتين",
@@ -58,5 +46,17 @@
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
     "stream": "https://24cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "النمسا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efcd06cd.png",
+    "team2": "الأردن",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efcd5bdc.png",
+    "time": "7:06 AM",
+    "status": "إنتهت المباراة",
+    "channel": "بي إن سبورت (مجانية)",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
+    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
   }
 ]

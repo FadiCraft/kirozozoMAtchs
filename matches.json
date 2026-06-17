@@ -1,17 +1,5 @@
 [
   {
-    "team1": "البرتغال",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efdea435.png",
-    "team2": "الكونغو",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efdf02d6.png",
-    "time": "8:00 PM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
-  },
-  {
     "team1": "إنجلترا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307eff0a476.png",
     "team2": "كرواتيا",
@@ -21,7 +9,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://1cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "العراق",
@@ -33,7 +21,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://1cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "الأرجنتين",
@@ -45,7 +33,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
+    "stream": "https://29cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "النمسا",
@@ -57,6 +45,18 @@
     "channel": "بي إن سبورت (مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://26cup-live.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
+    "stream": "https://1cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+  },
+  {
+    "team1": "البرتغال",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efdea435.png",
+    "team2": "الكونغو",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a307efdf02d6.png",
+    "time": "8:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://29cup-live.s3.eu-north-1.amazonaws.com/max1/master.m3u8"
   }
 ]

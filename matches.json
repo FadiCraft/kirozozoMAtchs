@@ -1,17 +1,5 @@
 [
   {
-    "team1": "المكسيك",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a336e2b5c36f.png",
-    "team2": "كوريا الجنوبية",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a336e2b61dd8.png",
-    "time": "4:00 AM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 2",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://10cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
-  },
-  {
     "team1": "أمريكا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a336e2c719f1.png",
     "team2": "أستراليا",
@@ -21,7 +9,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://10cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://12cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "كندا",
@@ -33,6 +21,18 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://10cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://12cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+  },
+  {
+    "team1": "المكسيك",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a336e2b5c36f.png",
+    "team2": "كوريا الجنوبية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a336e2b61dd8.png",
+    "time": "4:00 AM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 2",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://12cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   }
 ]

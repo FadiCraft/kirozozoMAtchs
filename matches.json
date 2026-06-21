@@ -5,11 +5,11 @@
     "team2": "الرأس الأخضر",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f5f48ff2.png",
     "time": "1:00 AM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://34cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://35cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "نيوزيلندا",
@@ -33,7 +33,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://34cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://35cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "فرنسا",

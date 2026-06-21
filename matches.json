@@ -1,17 +1,5 @@
 [
   {
-    "team1": "إسبانيا",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a36f0b4a3e0f.png",
-    "team2": "السعودية",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a36f0b4aa236.png",
-    "time": "7:00 PM",
-    "status": "جارية الآن",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://29cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
-  },
-  {
     "team1": "بلجيكا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a36f0b5b7f32.png",
     "team2": "إيران",
@@ -33,7 +21,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://29cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://30cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "تونس",
@@ -46,5 +34,17 @@
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
     "stream": "https://28cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+  },
+  {
+    "team1": "إسبانيا",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a36f0b4a3e0f.png",
+    "team2": "السعودية",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a36f0b4aa236.png",
+    "time": "7:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://30cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   }
 ]

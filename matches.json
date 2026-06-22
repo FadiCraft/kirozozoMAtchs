@@ -1,17 +1,5 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f616ddd5.png",
-    "team2": "النمسا",
-    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f6175d7b.png",
-    "time": "8:00 PM",
-    "status": "لم تبدأ بعد",
-    "channel": "beIN Max 1",
-    "league": "كأس العالم",
-    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://35cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
-  },
-  {
     "team1": "فرنسا",
     "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f6288f09.png",
     "team2": "العراق",
@@ -21,7 +9,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://36cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+    "stream": "https://38cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "أوروغواي",
@@ -33,7 +21,7 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://35cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://38cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "نيوزيلندا",
@@ -45,6 +33,18 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": "https://36cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+    "stream": "https://38cup.s3.us-east-2.amazonaws.com/max2/master.m3u8"
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f616ddd5.png",
+    "team2": "النمسا",
+    "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a377f6175d7b.png",
+    "time": "8:00 PM",
+    "status": "إنتهت المباراة",
+    "channel": "beIN Max 1",
+    "league": "كأس العالم",
+    "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
+    "stream": "https://38cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   }
 ]

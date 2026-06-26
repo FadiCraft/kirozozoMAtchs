@@ -5,11 +5,11 @@
     "team2": "هولندا",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23a194eb.png",
     "time": "2:00 AM",
-    "status": "بعد قليل",
-    "channel": "beIN Max 3",
+    "status": "جارية الآن",
+    "channel": "بي إن سبورت (قناة جديدة مجانية)",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax3/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max3/master.m3u8"
+    "stream": "https://59cup.s3.us-east-2.amazonaws.com/max3/master.m3u8"
   },
   {
     "team1": "اليابان",
@@ -17,11 +17,11 @@
     "team2": "السويد",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a3ca23b07599.png",
     "time": "2:00 AM",
-    "status": "بعد قليل",
+    "status": "جارية الآن",
     "channel": "beIN Max 4",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax4/",
-    "stream": "https://56cup.s3.us-east-2.amazonaws.com/max4/master.m3u8"
+    "stream": "https://59cup.s3.us-east-2.amazonaws.com/max4/master.m3u8"
   },
   {
     "team1": "تركيا",

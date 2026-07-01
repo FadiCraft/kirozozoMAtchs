@@ -5,11 +5,11 @@
     "team2": "الكونغو",
     "team2Logo": "https://www.syrlive.com/wp-content/uploads/2026/06/alba_img_6a42e4950d1cf.png",
     "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "جارية الآن",
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://77cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   },
   {
     "team1": "بلجيكا",
@@ -45,6 +45,6 @@
     "channel": "beIN Max 1",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax1/",
-    "stream": "https://77cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
+    "stream": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8"
   }
 ]

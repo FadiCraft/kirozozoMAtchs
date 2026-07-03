@@ -9,7 +9,7 @@
     "channel": "beIN Max 2",
     "league": "كأس العالم",
     "streamUrl": "https://player.syria-player.live/albaplayer/beinmax2/",
-    "stream": ""
+    "stream": "https://85cup.s3.eu-north-1.amazonaws.com/max2/master.m3u8"
   },
   {
     "team1": "كولومبيا",

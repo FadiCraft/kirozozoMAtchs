@@ -3,6 +3,7 @@ const fs = require('fs');
 
 const BASE_URL = 'https://www.korax90.net/matches-today';
 
+// دالة التقاط الروابط من الشبكة
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
     const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
@@ -12,27 +13,25 @@ async function getDirectStream(browser, iframeUrl) {
         let page;
         try {
             page = await browser.newPage();
-            // إعدادات إضافية لتجنب اكتشاف البوت
-            await page.setExtraHTTPHeaders({
-                'Referer': 'https://www.google.com/',
-                'Accept-Language': 'en-US,en;q=0.9,ar;q=0.8'
-            });
+            // محاكاة متصفح حقيقي بالكامل
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36');
-
-            const timeout = setTimeout(async () => {
-                if (!found) { await page.close().catch(() => {}); resolve(""); }
-            }, 15000);
-
+            
             page.on('request', (request) => {
                 if (request.url().includes('.m3u8') && !found) {
                     found = true;
-                    clearTimeout(timeout);
                     resolve(request.url());
                     page.close().catch(() => {});
                 }
             });
 
-            await page.goto(fullIframeUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
+            await page.goto(fullIframeUrl, { waitUntil: 'networkidle2', timeout: 25000 });
+            
+            // محاكاة نقرة للبدء (ضرورية للمشغلات)
+            await page.mouse.click(500, 300).catch(() => {});
+            
+            setTimeout(() => {
+                if (!found) { page.close().catch(() => {}); resolve(""); }
+            }, 12000);
         } catch (e) {
             if (page) await page.close().catch(() => {});
             resolve("");
@@ -46,19 +45,13 @@ async function scrapeMatches() {
         console.log("🚀 جاري تهيئة المتصفح...");
         browser = await puppeteer.launch({ 
             headless: "new", 
-            args: [
-                '--no-sandbox', 
-                '--disable-setuid-sandbox', 
-                '--disable-blink-features=AutomationControlled',
-                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
-            ] 
+            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-blink-features=AutomationControlled'] 
         });
 
         const page = await browser.newPage();
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36');
         
         console.log("🔍 جاري فتح الموقع...");
-        // استخدام waitForSelector لضمان تحميل الصفحة قبل الاستخراج
         await page.goto(BASE_URL, { waitUntil: 'networkidle2', timeout: 30000 });
 
         const matches = await page.evaluate(() => {
@@ -91,7 +84,7 @@ async function scrapeMatches() {
         }
 
         fs.writeFileSync('match1.json', JSON.stringify(matches, null, 2), 'utf8');
-        console.log("✅ تم الحفظ بنجاح!");
+        console.log("✅ انتهى العمل. تم حفظ البيانات في match1.json");
 
     } catch (error) {
         console.error('❌ خطأ فادح:', error.message);

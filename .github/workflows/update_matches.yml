@@ -17,11 +17,10 @@ jobs:
         with:
           node-version: '18'
 
-      # خطوة جديدة: تثبيت مكتبات النظام الضرورية لتشغيل متصفح Puppeteer على سيرفرات أوبونتو
       - name: Install Puppeteer System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libasound2
+          sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libasound2t64
 
       - name: Install Node Dependencies
         run: npm install axios cheerio puppeteer

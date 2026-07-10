@@ -1,10 +1,7 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 const BASE_URL = 'https://www.korax90.net/matches-today';
-const DOMAIN = 'https://www.korax90.net';
 
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
@@ -15,23 +12,27 @@ async function getDirectStream(browser, iframeUrl) {
         let page;
         try {
             page = await browser.newPage();
+            // إعدادات إضافية لتجنب اكتشاف البوت
+            await page.setExtraHTTPHeaders({
+                'Referer': 'https://www.google.com/',
+                'Accept-Language': 'en-US,en;q=0.9,ar;q=0.8'
+            });
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36');
-            
+
             const timeout = setTimeout(async () => {
                 if (!found) { await page.close().catch(() => {}); resolve(""); }
             }, 15000);
 
-            page.on('request', async (request) => {
-                const url = request.url();
-                if (url.includes('.m3u8') && !found) {
+            page.on('request', (request) => {
+                if (request.url().includes('.m3u8') && !found) {
                     found = true;
                     clearTimeout(timeout);
-                    await page.close().catch(() => {});
-                    resolve(url);
+                    resolve(request.url());
+                    page.close().catch(() => {});
                 }
             });
 
-            await page.goto(fullIframeUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+            await page.goto(fullIframeUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
         } catch (e) {
             if (page) await page.close().catch(() => {});
             resolve("");
@@ -43,55 +44,57 @@ async function scrapeMatches() {
     let browser;
     try {
         console.log("🚀 جاري تهيئة المتصفح...");
-        browser = await puppeteer.launch({ headless: "new", args: ['--no-sandbox', '--disable-setuid-sandbox'] });
-
-        console.log("🔍 جاري فحص المباريات...");
-        // ترويسات قوية لتجاوز الحظر
-        const { data } = await axios.get(BASE_URL, {
-            headers: { 
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-                'Referer': 'https://www.google.com/',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
-            }
+        browser = await puppeteer.launch({ 
+            headless: "new", 
+            args: [
+                '--no-sandbox', 
+                '--disable-setuid-sandbox', 
+                '--disable-blink-features=AutomationControlled',
+                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+            ] 
         });
-        
-        const $ = cheerio.load(data);
-        const matches = [];
-        const currentTime = new Date().toLocaleString('ar-EG');
 
-        $('.match-item').each((i, el) => {
-            const buttonEl = $(el).find('button.match-row');
-            const streamUrl = buttonEl.attr('data-frame') || "";
-            const teams = $(el).find('.team');
-            
-            const match = {
-                team1: $(teams[0]).find('.team-name').text().trim(),
-                team1Logo: $(teams[0]).find('img').attr('src') || "",
-                team2: $(teams[1]).find('.team-name').text().trim(),
-                team2Logo: $(teams[1]).find('img').attr('src') || "",
-                time: $(el).find('.score-time').text().trim(),
-                status: $(el).find('.status-badge').text().trim(),
-                channel: "غير متوفر",
-                league: $(el).find('.league').text().trim(),
-                LastTime: currentTime,
-                streamUrl: streamUrl,
-                stream: ""
-            };
-            matches.push(match);
+        const page = await browser.newPage();
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36');
+        
+        console.log("🔍 جاري فتح الموقع...");
+        // استخدام waitForSelector لضمان تحميل الصفحة قبل الاستخراج
+        await page.goto(BASE_URL, { waitUntil: 'networkidle2', timeout: 30000 });
+
+        const matches = await page.evaluate(() => {
+            const items = [];
+            document.querySelectorAll('.match-item').forEach(el => {
+                const btn = el.querySelector('button.match-row');
+                const teams = el.querySelectorAll('.team');
+                items.push({
+                    team1: teams[0]?.querySelector('.team-name')?.innerText.trim() || "",
+                    team1Logo: teams[0]?.querySelector('img')?.src || "",
+                    team2: teams[1]?.querySelector('.team-name')?.innerText.trim() || "",
+                    team2Logo: teams[1]?.querySelector('img')?.src || "",
+                    time: el.querySelector('.score-time')?.innerText.trim() || "",
+                    status: el.querySelector('.status-badge')?.innerText.trim() || "",
+                    league: el.querySelector('.league')?.innerText.trim() || "",
+                    streamUrl: btn?.getAttribute('data-frame') || "",
+                    channel: "غير متوفر",
+                    LastTime: new Date().toLocaleString('ar-EG'),
+                    stream: ""
+                });
+            });
+            return items;
         });
 
         for (let match of matches) {
             if (match.streamUrl) {
-                console.log(`⏳ جاري استخراج: ${match.team1}`);
+                console.log(`⏳ جاري استخراج بث: ${match.team1}`);
                 match.stream = await getDirectStream(browser, match.streamUrl);
             }
         }
 
         fs.writeFileSync('match1.json', JSON.stringify(matches, null, 2), 'utf8');
-        console.log("✅ تم الحفظ في match1.json");
+        console.log("✅ تم الحفظ بنجاح!");
 
     } catch (error) {
-        console.error('❌ خطأ:', error.message);
+        console.error('❌ خطأ فادح:', error.message);
     } finally {
         if (browser) await browser.close();
     }

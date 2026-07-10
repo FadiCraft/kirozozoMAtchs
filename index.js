@@ -2,11 +2,12 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://d.syrlive.com/matches-today/';
+// الرابط الجديد للموقع
+const BASE_URL = 'https://www.korax90.net/matches-today';
+const DOMAIN = 'https://www.korax90.net';
 
 /**
- * دالة لاستخراج الرابط المباشر m3u8 من المشغل
- * تم تحديثها لتتعامل مع حماية المشغلات الجديدة
+ * دالة لاستخراج الرابط المباشر m3u8 من المشغل (السيرفر)
  */
 async function getDirectStream(iframeUrl) {
     if (!iframeUrl) return "";
@@ -18,8 +19,8 @@ async function getDirectStream(iframeUrl) {
         const { data } = await axios.get(fullIframeUrl, { 
             headers: { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Referer': 'https://d.syrlive.com/',
-                'Origin': 'https://d.syrlive.com',
+                'Referer': DOMAIN,
+                'Origin': DOMAIN,
                 'Accept': '*/*'
             },
             timeout: 10000 
@@ -30,7 +31,6 @@ async function getDirectStream(iframeUrl) {
         let matches = data.match(m3u8Regex);
 
         if (matches && matches.length > 0) {
-            // تنظيف الرابط من أي علامات هروب (Backslashes)
             return matches[0].replace(/\\/g, ''); 
         }
 
@@ -46,7 +46,8 @@ async function getDirectStream(iframeUrl) {
             try {
                 let decoded = Buffer.from(b64Matches[1], 'base64').toString('utf-8');
                 if (decoded.includes('.m3u8')) {
-                    return decoded.match(/https?[:\/\w\.-]+\.m3u8[^\s"']*/i)[0];
+                    const m = decoded.match(/https?[:\/\w\.-]+\.m3u8[^\s"']*/i);
+                    if (m) return m[0];
                 }
             } catch (e) {}
         }
@@ -59,32 +60,7 @@ async function getDirectStream(iframeUrl) {
 }
 
 /**
- * فحص صفحة المباراة لجلب السيرفر والرابط المباشر
- */
-async function processMatchStream(matchUrl) {
-    let result = { iframe: "", direct: "" };
-    try {
-        const { data } = await axios.get(matchUrl, { 
-            headers: { 'User-Agent': 'Mozilla/5.0' },
-            timeout: 8000 
-        });
-        const $ = cheerio.load(data);
-        
-        // جلب رابط الـ iframe مع دعم المشغل الجديد
-        const iframeSrc = $('iframe').attr('src') || $('iframe.cf').attr('src') || "";
-        result.iframe = iframeSrc;
-
-        if (iframeSrc) {
-            result.direct = await getDirectStream(iframeSrc);
-        }
-    } catch (e) {
-        console.log(`⚠️ فشل جلب صفحة المباراة: ${matchUrl}`);
-    }
-    return result;
-}
-
-/**
- * السكريبت الرئيسي
+ * السكريبت الرئيسي لاستخراج المباريات
  */
 async function scrapeMatches() {
     try {
@@ -94,55 +70,68 @@ async function scrapeMatches() {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' 
             }
         });
+        
         const $ = cheerio.load(data);
         const matches = [];
+        
+        // جلب الوقت الحالي لتخزينه في LastTime
+        const currentTime = new Date().toLocaleString('ar-EG');
 
-        const matchElements = $('.match-container');
+        // تحديد عناصر المباريات بناءً على هيكل HTML الجديد
+        const matchElements = $('.match-item');
 
         for (let i = 0; i < matchElements.length; i++) {
             const el = matchElements[i];
-            const detailsUrl = $(el).find('a').attr('href') || "";
             
-            const getValidLogo = (sideSelector) => {
-                const imgTag = $(el).find(`${sideSelector} img`);
-                let logoUrl = imgTag.attr('data-src') || imgTag.attr('src') || "";
-                if (logoUrl.startsWith('//')) logoUrl = 'https:' + logoUrl;
+            // استخراج زر المباراة الذي يحتوي على الرابط
+            const buttonEl = $(el).find('button.match-row');
+            const streamUrl = buttonEl.attr('data-frame') || "";
+
+            // استخراج فريقي المباراة
+            const teams = $(el).find('.team');
+            const team1El = $(teams[0]);
+            const team2El = $(teams[1]);
+
+            // دالة مساعدة لجلب روابط الشعارات وتصحيحها إذا كانت نسبية
+            const getValidLogo = (teamEl) => {
+                let logoUrl = teamEl.find('img').attr('src') || "";
+                if (logoUrl.startsWith('/')) logoUrl = DOMAIN + logoUrl;
                 return logoUrl;
             };
 
             const match = {
-                team1: $(el).find('.right-team .team-name').text().trim(),
-                team1Logo: getValidLogo('.right-team'),
-                team2: $(el).find('.left-team .team-name').text().trim(),
-                team2Logo: getValidLogo('.left-team'),
-                time: $(el).find('.match-time').text().trim(),
-                status: $(el).find('.date').text().trim(),
-                channel: $(el).find('.match-info ul li:nth-child(1) span').text().trim(),
-                league: $(el).find('.match-info ul li:nth-child(3) span').text().trim(),
-                streamUrl: "", 
+                team1: team1El.find('.team-name').text().trim(),
+                team1Logo: getValidLogo(team1El),
+                team2: team2El.find('.team-name').text().trim(),
+                team2Logo: getValidLogo(team2El),
+                time: $(el).find('.score-time').text().trim(),
+                status: $(el).find('.status-badge').text().trim(),
+                channel: "غير متوفر", // القناة غير موجودة بشكل صريح في كود HTML المرفق لذلك نضعها كقيمة افتراضية
+                league: $(el).find('.league').text().trim(),
+                LastTime: currentTime,
+                streamUrl: streamUrl, 
                 stream: ""     
             };
 
-            if (detailsUrl) {
-                console.log(`🔍 جاري استخراج: ${match.team1} vs ${match.team2}`);
-                const streamData = await processMatchStream(detailsUrl);
-                
-                match.streamUrl = streamData.iframe;
-                match.stream = streamData.direct;
+            // إذا كان هناك رابط مشغل، نقوم بفحصه لجلب الرابط المباشر
+            if (streamUrl) {
+                console.log(`🔍 جاري استخراج بث: ${match.team1} vs ${match.team2}`);
+                match.stream = await getDirectStream(streamUrl);
                 
                 if (match.stream) {
                     console.log(`✅ تم العثور على الرابط المباشر!`);
                 } else {
-                    console.log(`❌ لم يتم العثور على رابط مباشر (قد يكون البث لم يبدأ بعد)`);
+                    console.log(`❌ لم يتم العثور على رابط مباشر (قد يكون البث لم يبدأ أو السيرفر محمي)`);
                 }
             }
 
             matches.push(match);
         }
 
-        fs.writeFileSync('matches.json', JSON.stringify(matches, null, 2), 'utf8');
+        // حفظ البيانات في الملف الجديد match1.json
+        fs.writeFileSync('match1.json', JSON.stringify(matches, null, 2), 'utf8');
         console.log("---");
-        console.log(`✅ انتهى العمل. تم حفظ ${matches.length} مباراة في matches.json`);
+        console.log(`✅ انتهى العمل. تم حفظ ${matches.length} مباراة في match1.json وفق الهيكلية المطلوبة.`);
 
     } catch (error) {
         console.error('❌ خطأ في السكربت الرئيسي:', error.message);

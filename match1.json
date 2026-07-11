@@ -10,7 +10,7 @@
     "streamUrl": "https://y2.yallashhot.com/albaplayer/ya-1/?serv=1",
     "channel": "غير متوفر",
     "LastTime": "١٠‏/٧‏/٢٠٢٦، ٤:٠٥:٣٥ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "stream": "https://s3.us-east-2.amazonaws.com/cvv010/live/stream/360p/tracks-v1a1/mono.m3u8"
   },
   {
     "team1": "إسبانيا",
@@ -23,7 +23,7 @@
     "streamUrl": "https://y2.yallashhot.com/albaplayer/ya-1/?serv=1",
     "channel": "غير متوفر",
     "LastTime": "١٠‏/٧‏/٢٠٢٦، ٤:٠٥:٣٥ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "stream": "https://s3.us-east-2.amazonaws.com/cvv010/live/stream/360p/tracks-v1a1/mono.m3u8"
   },
   {
     "team1": "النرويج",
@@ -36,7 +36,7 @@
     "streamUrl": "https://y2.yallashhot.com/albaplayer/ya-1/?serv=1",
     "channel": "غير متوفر",
     "LastTime": "١٠‏/٧‏/٢٠٢٦، ٤:٠٥:٣٥ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "stream": "https://s3.us-east-2.amazonaws.com/cvv010/live/stream/360p/tracks-v1a1/mono.m3u8"
   },
   {
     "team1": "الأرجنتين",
@@ -49,7 +49,7 @@
     "streamUrl": "https://y2.yallashhot.com/albaplayer/ya-1/?serv=1",
     "channel": "غير متوفر",
     "LastTime": "١٠‏/٧‏/٢٠٢٦، ٤:٠٥:٣٥ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "stream": "https://s3.us-east-2.amazonaws.com/cvv010/live/stream/360p/tracks-v1a1/mono.m3u8"
   },
   {
     "team1": "فرنسا",
@@ -62,6 +62,6 @@
     "streamUrl": "https://hello.1yallashoot.com/splayer/Live1.php",
     "channel": "غير متوفر",
     "LastTime": "١٠‏/٧‏/٢٠٢٦، ٤:٠٥:٣٥ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "stream": "https://s3.us-east-2.amazonaws.com/cvv010/live/stream/360p/tracks-v1a1/mono.m3u8"
   }
 ]

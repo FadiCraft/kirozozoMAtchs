@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-const BASE_URL = 'https://www.korax90.net/matches-today';
+const BASE_URL = 'https://www.korax90.co/matches-today';
 
 // دالة التقاط الروابط من الشبكة
 async function getDirectStream(browser, iframeUrl) {

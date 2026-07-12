@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f39b.png",
-    "team2": "سويسرا",
-    "team2Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f566.png",
-    "time": "0 - 0",
-    "status": "مباشر الآن",
-    "league": "كأس العالم ربع نهائي",
-    "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٧‏/٢٠٢٦، ١:١٢:٣١ ص",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
-  {
     "team1": "يانيك سينر",
     "team1Logo": "https://www.korax90.co/uploads/1783805948_6a52b7fca082a.png",
     "team2": "ألكسندر زفيريف",
@@ -22,7 +9,7 @@
     "league": "ويمبلدون النهائي",
     "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٧‏/٢٠٢٦، ١:١٢:٣١ ص",
+    "LastTime": "١٢‏/٧‏/٢٠٢٦، ٤:٤٢:٢٣ ص",
     "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -35,7 +22,20 @@
     "league": "كأس العالم ربع نهائي",
     "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٧‏/٢٠٢٦، ١:١٢:٣١ ص",
+    "LastTime": "١٢‏/٧‏/٢٠٢٦، ٤:٤٢:٢٣ ص",
+    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f39b.png",
+    "team2": "سويسرا",
+    "team2Logo": "https://www.korax90.co/uploads/1783466830_6a4d8b4e2f566.png",
+    "time": "1 - 3",
+    "status": "انتهت",
+    "league": "كأس العالم ربع نهائي",
+    "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٢‏/٧‏/٢٠٢٦، ٤:٤٢:٢٣ ص",
     "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "team1": "فرنسا",
-    "team1Logo": "https://www.korax90.co/uploads/1783813214_6a52d45e00c85.png",
-    "team2": "إسبانيا",
-    "team2Logo": "https://www.korax90.co/uploads/1783813214_6a52d45e00e48.png",
-    "time": "1 - 0",
-    "status": "مباشر الآن",
-    "league": "كأس العالم نصف نهائي",
-    "streamUrl": "https://hello.teri-kora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/٧‏/٢٠٢٦، ٨:٤٧:٥٣ م",
-    "stream": "https://1.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
-  {
     "team1": "إنجلترا",
     "team1Logo": "https://www.korax90.co/uploads/1783991881_6a558e4921bc6.png",
     "team2": "الأرجنتين",
@@ -20,9 +7,22 @@
     "time": "20:00",
     "status": "لم تبدأ بعد",
     "league": "كأس العالم نصف نهائي",
-    "streamUrl": "https://hello.1yallashoot.com/splayer/Live1.php",
+    "streamUrl": "https://www.korax90.co/wc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٧‏/٢٠٢٦، ٨:٤٧:٥٣ م",
+    "LastTime": "١٤‏/٧‏/٢٠٢٦، ٩:٤٢:٥٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "فرنسا",
+    "team1Logo": "https://www.korax90.co/uploads/1783813214_6a52d45e00c85.png",
+    "team2": "إسبانيا",
+    "team2Logo": "https://www.korax90.co/uploads/1783813214_6a52d45e00e48.png",
+    "time": "2 - 0",
+    "status": "انتهت",
+    "league": "كأس العالم نصف نهائي",
+    "streamUrl": "https://www.korax90.co/wc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٤‏/٧‏/٢٠٢٦، ٩:٤٢:٥٢ م",
     "stream": ""
   }
 ]

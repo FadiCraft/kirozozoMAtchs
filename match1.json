@@ -9,7 +9,20 @@
     "league": "كأس العالم المركز الثالث",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٧‏/٢٠٢٦، ١١:٣٠:١٣ م",
-    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١:٠٢:٣٨ ص",
+    "stream": "https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "إسبانيا",
+    "team1Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90bba.png",
+    "team2": "الأرجنتين",
+    "team2Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90df7.png",
+    "time": "20:00",
+    "status": "لم تبدأ بعد",
+    "league": "كأس العالم النهائي",
+    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١:٠٢:٣٨ ص",
+    "stream": "https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   }
 ]

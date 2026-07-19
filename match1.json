@@ -1,29 +1,16 @@
 [
   {
-    "team1": "إسبانيا",
-    "team1Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90bba.png",
-    "team2": "الأرجنتين",
-    "team2Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90df7.png",
-    "time": "0 - 0",
-    "status": "🔴 مباشر الآن",
-    "league": "كأس العالم النهائي",
-    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-4.vkuser.net/hls/18001607002778.m3u8/sig/6YxdvRr6FHo/expires/1784582884744/srcIp/20.124.222.81/urls/178.237.23.91/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
-  },
-  {
     "team1": "سبورتينغ لشبونة",
     "team1Logo": "https://www.korax90.co/uploads/1784381738_6a5b812a422fb.png",
     "team2": "ستراسبورغ",
     "team2Logo": "https://www.korax90.co/uploads/1784381738_6a5b812a42591.png",
     "time": "20:15",
-    "status": "21:46:57",
+    "status": "20:46:07",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-11.vkuser.net/hls/18001607002778.m3u8/sig/Z1W4OVcPdBA/expires/1784582889923/srcIp/20.124.222.81/urls/178.237.23.49/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
   },
   {
     "team1": "فرنسا",
@@ -35,8 +22,8 @@
     "league": "كأس العالم المركز الثالث",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-5.vkuser.net/hls/18001607002778.m3u8/sig/FBL-vguJYSE/expires/1784582891253/srcIp/20.124.222.81/urls/185.226.55.91/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
   },
   {
     "team1": "كراكوفيا",
@@ -48,8 +35,8 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-5.vkuser.net/hls/18001607002778.m3u8/sig/-G2OuY0__lQ/expires/1784582892444/srcIp/20.124.222.81/urls/185.226.55.91/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
   },
   {
     "team1": "شتورم غراتس",
@@ -61,8 +48,8 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-4.vkuser.net/hls/18001607002778.m3u8/sig/eapbHrudzUE/expires/1784582893678/srcIp/20.124.222.81/urls/178.237.23.91/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
   },
   {
     "team1": "ريو آفي",
@@ -74,7 +61,20 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٩:٢٨:٠٣ م",
-    "stream": "https://oklive6-11.vkuser.net/hls/18001607002778.m3u8/sig/uQHCIMZCl68/expires/1784582894848/srcIp/20.124.222.81/urls/178.237.23.49/clientType/0/srcAg/CHROME/mid/15419693473434/video.m3u8?p"
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "إسبانيا",
+    "team1Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90bba.png",
+    "team2": "الأرجنتين",
+    "team2Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90df7.png",
+    "time": "0 - 1",
+    "status": "✓ انتهت",
+    "league": "كأس العالم النهائي",
+    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١٠:٢٨:٥٤ م",
+    "stream": ""
   }
 ]

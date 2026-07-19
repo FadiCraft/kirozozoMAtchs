@@ -1,41 +1,15 @@
 [
   {
-    "team1": "كراكوفيا",
-    "team1Logo": "https://www.korax90.co/uploads/1784380610_6a5b7cc262862.png",
-    "team2": "إشبيلية",
-    "team2Logo": "https://www.korax90.co/uploads/1784380610_6a5b7cc2629c3.png",
-    "time": "0 - 0",
-    "status": "🔴 مباشر الآن",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
-    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
-  {
-    "team1": "شتورم غراتس",
-    "team1Logo": "https://www.korax90.co/uploads/1784380545_6a5b7c81ca4eb.png",
-    "team2": "الهلال",
-    "team2Logo": "https://www.korax90.co/uploads/1784380545_6a5b7c81ca7e4.png",
-    "time": "0 - 0",
-    "status": "🔴 مباشر الآن",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
-    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
-  {
     "team1": "ريو آفي",
     "team1Logo": "https://www.korax90.co/uploads/1784456536_6a5ca5584afa7.png",
     "team2": "الأهلي",
     "team2Logo": "https://www.korax90.co/uploads/1784456536_6a5ca5584b297.png",
-    "time": "17:00",
+    "time": "0 - 0",
     "status": "🔴 مباشر الآن",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -44,11 +18,11 @@
     "team2": "الأرجنتين",
     "team2Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90df7.png",
     "time": "20:00",
-    "status": "02:51:26",
+    "status": "01:43:34",
     "league": "كأس العالم النهائي",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -61,7 +35,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -74,7 +48,33 @@
     "league": "كأس العالم المركز الثالث",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٤:٠٨:٣٤ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
+    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "كراكوفيا",
+    "team1Logo": "https://www.korax90.co/uploads/1784380610_6a5b7cc262862.png",
+    "team2": "إشبيلية",
+    "team2Logo": "https://www.korax90.co/uploads/1784380610_6a5b7cc2629c3.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
+    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "شتورم غراتس",
+    "team1Logo": "https://www.korax90.co/uploads/1784380545_6a5b7c81ca4eb.png",
+    "team2": "الهلال",
+    "team2Logo": "https://www.korax90.co/uploads/1784380545_6a5b7c81ca7e4.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ٥:١٦:٢٦ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   }
 ]

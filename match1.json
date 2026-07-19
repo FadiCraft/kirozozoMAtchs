@@ -5,11 +5,11 @@
     "team2": "إشبيلية",
     "team2Logo": "https://www.korax90.co/uploads/1784380610_6a5b7cc2629c3.png",
     "time": "15:00",
-    "status": "14:27:38",
+    "status": "12:50:23",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١١:٣٢:٢٢ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١:٠٩:٣٧ ص",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -18,11 +18,11 @@
     "team2": "الهلال",
     "team2Logo": "https://www.korax90.co/uploads/1784380545_6a5b7c81ca7e4.png",
     "time": "18:00",
-    "status": "17:27:38",
+    "status": "15:50:23",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١١:٣٢:٢٢ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١:٠٩:٣٧ ص",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -31,11 +31,24 @@
     "team2": "الأرجنتين",
     "team2Logo": "https://www.korax90.co/uploads/1784151183_6a57fc8f90df7.png",
     "time": "20:00",
-    "status": "19:27:38",
+    "status": "17:50:23",
     "league": "كأس العالم النهائي",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١١:٣٢:٢٢ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١:٠٩:٣٧ ص",
+    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "سبورتينغ لشبونة",
+    "team1Logo": "https://www.korax90.co/uploads/1784381738_6a5b812a422fb.png",
+    "team2": "ستراسبورغ",
+    "team2Logo": "https://www.korax90.co/uploads/1784381738_6a5b812a42591.png",
+    "time": "20:15",
+    "status": "غدًا\n🗓",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١:٠٩:٣٧ ص",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -48,7 +61,7 @@
     "league": "كأس العالم المركز الثالث",
     "streamUrl": "https://zabi.terikoora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٧‏/٢٠٢٦، ١١:٣٢:٢٢ م",
+    "LastTime": "١٩‏/٧‏/٢٠٢٦، ١:٠٩:٣٧ ص",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   }
 ]

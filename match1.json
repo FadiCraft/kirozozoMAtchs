@@ -1,31 +1,5 @@
 [
   {
-    "team1": "إستريلا أمادورا",
-    "team1Logo": "https://www.korax90.co/uploads/1785571831_6a6da9f717f59.png",
-    "team2": "النصر",
-    "team2Logo": "https://www.korax90.co/uploads/1785571831_6a6da9f718629.png",
-    "time": "0 - 0",
-    "status": "🔴 مباشر الآن",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
-    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
-  },
-  {
-    "team1": "مصر - سيدات",
-    "team1Logo": "https://www.korax90.co/uploads/1785591889_6a6df8510e092.png",
-    "team2": "مالاوي - سيدات",
-    "team2Logo": "https://www.korax90.co/uploads/1785591889_6a6df8510e3b3.png",
-    "time": "0 - 0",
-    "status": "🔴 مباشر الآن",
-    "league": "كأس أمم أفريقيا للسيدات, الجولة 2",
-    "streamUrl": "https://player.simokora.com/splayer/Live2.php",
-    "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
-    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
-  },
-  {
     "team1": "جيرونا",
     "team1Logo": "https://www.korax90.co/uploads/1785583436_6a6dd74c48192.png",
     "team2": "أرسنال",
@@ -33,10 +7,10 @@
     "time": "0 - 0",
     "status": "🔴 مباشر الآن",
     "league": "مباراة ودية - أندية",
-    "streamUrl": "https://player.simokora.com/splayer/Live3.php",
+    "streamUrl": "https://player.simokora.com/splayer/Live4.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
-    "stream": "https://3.simokora.com/my-hls/0wo68p0w54v/master.m3u8"
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/4v561xgucp9/master.m3u8"
   },
   {
     "team1": "نيجيريا - سيدات",
@@ -44,11 +18,11 @@
     "team2": "زامبيا - سيدات",
     "team2Logo": "https://www.korax90.co/uploads/1785591949_6a6df88db30d1.png",
     "time": "21:00",
-    "status": "01:21:07",
+    "status": "00:03:41",
     "league": "كأس أمم أفريقيا للسيدات, الجولة 2",
     "streamUrl": "https://player.simokora.com/splayer/Live2.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -57,11 +31,76 @@
     "team2": "كولومبوس كرو",
     "team2Logo": "https://www.korax90.co/uploads/1785586046_6a6de17eb8b20.png",
     "time": "00:30",
-    "status": "04:51:07",
+    "status": "03:33:41",
     "league": "الدوري الأمريكي لكرة القدم الجولة 18 - مباراة الذهاب",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "آيندهوفن",
+    "team1Logo": "https://www.korax90.co/uploads/1785611960_6a6e46b89a02e.png",
+    "team2": "إي زد آلكمار",
+    "team2Logo": "https://www.korax90.co/uploads/1785611960_6a6e46b89a148.png",
+    "time": "17:00",
+    "status": "20:03:41",
+    "league": "كأس السوبر الهولندي النهائي",
+    "streamUrl": "https://player.simokora.com/splayer/Live3.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/0wo68p0w54v/master.m3u8"
+  },
+  {
+    "team1": "غانا - سيدات",
+    "team1Logo": "https://www.korax90.co/uploads/1785612211_6a6e47b38c2cd.png",
+    "team2": "الكاميرون - سيدات",
+    "team2Logo": "https://www.korax90.co/uploads/1785612211_6a6e47b38c400.png",
+    "time": "18:00",
+    "status": "21:03:41",
+    "league": "كأس أمم أفريقيا للسيدات, الجولة 2",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": ""
+  },
+  {
+    "team1": "غلطة سراي",
+    "team1Logo": "https://www.korax90.co/uploads/1785612421_6a6e4885e92ae.png",
+    "team2": "رين",
+    "team2Logo": "https://www.korax90.co/uploads/1785612421_6a6e4885e9965.png",
+    "time": "19:00",
+    "status": "22:03:41",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://player.simokora.com/splayer/Live4.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/4v561xgucp9/master.m3u8"
+  },
+  {
+    "team1": "مالي - سيدات",
+    "team1Logo": "https://www.korax90.co/uploads/1785612262_6a6e47e6bcc8b.png",
+    "team2": "الرأس الأخضر - سيدات",
+    "team2Logo": "https://www.korax90.co/uploads/1785612262_6a6e47e6bcd2e.png",
+    "time": "21:00",
+    "status": "غدًا\n🗓",
+    "league": "كأس أمم أفريقيا للسيدات, الجولة 2",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": ""
+  },
+  {
+    "team1": "ليفربول",
+    "team1Logo": "https://www.korax90.co/uploads/1785612320_6a6e48204cb37.png",
+    "team2": "ليدز يونايتد",
+    "team2Logo": "https://www.korax90.co/uploads/1785612320_6a6e48204cc2c.png",
+    "time": "21:00",
+    "status": "غدًا\n🗓",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -74,7 +113,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -87,7 +126,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -100,7 +139,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -108,12 +147,38 @@
     "team1Logo": "https://www.korax90.co/uploads/1785570972_6a6da69cebd35.png",
     "team2": "فيورنتينا",
     "team2Logo": "https://www.korax90.co/uploads/1785570972_6a6da69cebf2b.png",
-    "time": "0 - 0",
+    "time": "2 - 2",
     "status": "✓ انتهت",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live4.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ٦:٣٨:٥٣ م",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
     "stream": "https://3.simokora.com/my-hls/4v561xgucp9/master.m3u8"
+  },
+  {
+    "team1": "إستريلا أمادورا",
+    "team1Logo": "https://www.korax90.co/uploads/1785571831_6a6da9f717f59.png",
+    "team2": "النصر",
+    "team2Logo": "https://www.korax90.co/uploads/1785571831_6a6da9f718629.png",
+    "time": "2 - 4",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "مصر - سيدات",
+    "team1Logo": "https://www.korax90.co/uploads/1785591889_6a6df8510e092.png",
+    "team2": "مالاوي - سيدات",
+    "team2Logo": "https://www.korax90.co/uploads/1785591889_6a6df8510e3b3.png",
+    "time": "3 - 1",
+    "status": "✓ انتهت",
+    "league": "كأس أمم أفريقيا للسيدات, الجولة 2",
+    "streamUrl": "https://player.simokora.com/splayer/Live2.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ٧:٥٦:١٩ م",
+    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   }
 ]

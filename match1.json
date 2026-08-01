@@ -1,29 +1,16 @@
 [
   {
-    "team1": "تشيلسي",
-    "team1Logo": "https://www.korax90.co/uploads/1785573811_6a6db1b3f2db0.png",
-    "team2": "توتنهام",
-    "team2Logo": "https://www.korax90.co/uploads/1785573811_6a6db1b3f2ef3.png",
+    "team1": "مان سيتي",
+    "team1Logo": "https://www.korax90.co/uploads/1785573867_6a6db1eb94bca.png",
+    "team2": "إنتر ميلان",
+    "team2Logo": "https://www.korax90.co/uploads/1785573867_6a6db1eb956b8.png",
     "time": "0 - 0",
     "status": "🔴 مباشر الآن",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ١١:٠٤:٠٤ ص",
-    "stream": ""
-  },
-  {
-    "team1": "مان سيتي",
-    "team1Logo": "https://www.korax90.co/uploads/1785573867_6a6db1eb94bca.png",
-    "team2": "إنتر ميلان",
-    "team2Logo": "https://www.korax90.co/uploads/1785573867_6a6db1eb956b8.png",
-    "time": "12:30",
-    "status": "00:25:57",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ١١:٠٤:٠٤ ص",
-    "stream": ""
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
     "team1": "مان يونايتد",
@@ -31,12 +18,12 @@
     "team2": "أتلتيكو مدريد",
     "team2Logo": "https://www.korax90.co/uploads/1785574047_6a6db29f94001.png",
     "time": "14:00",
-    "status": "01:55:57",
+    "status": "00:48:05",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ١١:٠٤:٠٤ ص",
-    "stream": ""
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
     "team1": "ريال مدريد",
@@ -44,12 +31,12 @@
     "team2": "فيورنتينا",
     "team2Logo": "https://www.korax90.co/uploads/1785570972_6a6da69cebf2b.png",
     "time": "17:00",
-    "status": "04:55:57",
+    "status": "03:48:05",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ١١:٠٤:٠٤ ص",
-    "stream": ""
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
     "team1": "إستريلا أمادورا",
@@ -57,11 +44,50 @@
     "team2": "النصر",
     "team2Logo": "https://www.korax90.co/uploads/1785571831_6a6da9f718629.png",
     "time": "18:00",
-    "status": "05:55:57",
+    "status": "04:48:05",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://player.simokora.com/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٨‏/٢٠٢٦، ١١:٠٤:٠٤ ص",
-    "stream": ""
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "جيرونا",
+    "team1Logo": "https://www.korax90.co/uploads/1785583436_6a6dd74c48192.png",
+    "team2": "أرسنال",
+    "team2Logo": "https://www.korax90.co/uploads/1785583436_6a6dd74c48522.png",
+    "time": "19:00",
+    "status": "05:48:05",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "إنتر ميامي",
+    "team1Logo": "https://www.korax90.co/uploads/1785586046_6a6de17eb8477.png",
+    "team2": "كولومبوس كرو",
+    "team2Logo": "https://www.korax90.co/uploads/1785586046_6a6de17eb8b20.png",
+    "time": "00:30",
+    "status": "11:18:05",
+    "league": "الدوري الأمريكي لكرة القدم الجولة 18 - مباراة الذهاب",
+    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "تشيلسي",
+    "team1Logo": "https://www.korax90.co/uploads/1785573811_6a6db1b3f2db0.png",
+    "team2": "توتنهام",
+    "team2Logo": "https://www.korax90.co/uploads/1785573811_6a6db1b3f2ef3.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://player.simokora.com/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/٨‏/٢٠٢٦، ١٢:١١:٥٥ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   }
 ]

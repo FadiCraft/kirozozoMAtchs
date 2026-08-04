@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "team1": "ألميريا",
+    "team1Logo": "https://www.korax90.co/uploads/1785845980_6a71d8dc6e1f8.png",
+    "team2": "النصر",
+    "team2Logo": "https://www.korax90.co/uploads/1785845980_6a71d8dc6e2d3.png",
+    "time": "18:00",
+    "status": "04:38:02",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/٨‏/٢٠٢٦، ١٢:٢١:٥٨ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "الشباب",
+    "team1Logo": "https://www.korax90.co/uploads/1785677319_6a6f460774a1a.png",
+    "team2": "مولودية الجزائر",
+    "team2Logo": "https://www.korax90.co/uploads/1785677319_6a6f460774aeb.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://www.korax90.co/splayer/Live4.php",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/٨‏/٢٠٢٦، ١٢:٢١:٥٨ م",
+    "stream": "https://3.simokora.com/my-hls/4v561xgucp9/master.m3u8"
+  },
+  {
+    "team1": "الأهلي",
+    "team1Logo": "https://www.korax90.co/uploads/1785677026_6a6f44e2e7232.png",
+    "team2": "الهلال",
+    "team2Logo": "https://www.korax90.co/uploads/1785677026_6a6f44e2e7313.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/٨‏/٢٠٢٦، ١٢:٢١:٥٨ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "السنغال - سيدات",
+    "team1Logo": "https://www.korax90.co/uploads/1785677114_6a6f453ab8959.png",
+    "team2": "المغرب - سيدات",
+    "team2Logo": "https://www.korax90.co/uploads/1785677114_6a6f453ab8a15.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "كأس أمم أفريقيا للسيدات, الجولة 3",
+    "streamUrl": "https://www.korax90.co/splayer/Live2.php",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/٨‏/٢٠٢٦، ١٢:٢١:٥٨ م",
+    "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
+  },
+  {
+    "team1": "كينيا - سيدات",
+    "team1Logo": "https://www.korax90.co/uploads/1785677206_6a6f4596795f5.png",
+    "team2": "الجزائر - سيدات",
+    "team2Logo": "https://www.korax90.co/uploads/1785677206_6a6f4596796de.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "كأس أمم أفريقيا للسيدات, الجولة 3",
+    "streamUrl": "https://www.korax90.co/splayer/Live3.php",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/٨‏/٢٠٢٦، ١٢:٢١:٥٨ م",
+    "stream": "https://3.simokora.com/my-hls/0wo68p0w54v/master.m3u8"
+  }
+]

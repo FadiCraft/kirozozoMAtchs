@@ -1,41 +1,15 @@
 [
   {
-    "team1": "نجوم الدوري الكوري",
-    "team1Logo": "https://www.korax90.co/uploads/1785890085_6a7285252b917.png",
-    "team2": "مان سيتي",
-    "team2Logo": "https://www.korax90.co/uploads/1785890085_6a7285252b996.png",
-    "time": "12:00",
-    "status": "🔴 مباشر الآن",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
-    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
-  },
-  {
-    "team1": "ميلان",
-    "team1Logo": "https://www.korax90.co/uploads/1785890184_6a72858852323.png",
-    "team2": "إنتر ميلان",
-    "team2Logo": "https://www.korax90.co/uploads/1785890184_6a728588523c8.png",
-    "time": "12:00",
-    "status": "🔴 مباشر الآن",
-    "league": "مباراة ودية - أندية",
-    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
-    "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
-    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
-  },
-  {
     "team1": "تشيلسي",
     "team1Logo": "https://www.korax90.co/uploads/1785890249_6a7285c98cb71.png",
     "team2": "يوفنتوس",
     "team2Logo": "https://www.korax90.co/uploads/1785890249_6a7285c98cc19.png",
-    "time": "12:30",
-    "status": "00:16:53",
+    "time": "0 - 0",
+    "status": "🔴 مباشر الآن",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -44,11 +18,11 @@
     "team2": "الأهلي",
     "team2Logo": "https://www.korax90.co/uploads/1785890307_6a728603f0a04.png",
     "time": "16:00",
-    "status": "03:46:53",
+    "status": "01:54:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -57,11 +31,11 @@
     "team2": "الشحانية",
     "team2Logo": "https://www.korax90.co/uploads/1785890655_6a72875ff3882.png",
     "time": "16:30",
-    "status": "04:16:53",
+    "status": "02:24:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -70,11 +44,11 @@
     "team2": "الاتفاق",
     "team2Logo": "https://www.korax90.co/uploads/1785889899_6a72846b4a6f7.png",
     "time": "16:45",
-    "status": "04:31:53",
+    "status": "02:39:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -83,11 +57,11 @@
     "team2": "أوساسونا",
     "team2Logo": "https://www.korax90.co/uploads/1785890437_6a7286855d182.png",
     "time": "17:30",
-    "status": "05:16:53",
+    "status": "03:24:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -96,11 +70,11 @@
     "team2": "سيلتا فيغو",
     "team2Logo": "https://www.korax90.co/uploads/1785890504_6a7286c88c9f5.png",
     "time": "19:00",
-    "status": "06:46:53",
+    "status": "04:54:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -109,11 +83,11 @@
     "team2": "ريال بيتيس",
     "team2Logo": "https://www.korax90.co/uploads/1785890558_6a7286fe2efea.png",
     "time": "19:30",
-    "status": "07:16:53",
+    "status": "05:24:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -122,11 +96,11 @@
     "team2": "باريس",
     "team2Logo": "https://www.korax90.co/uploads/1785890600_6a7287280f256.png",
     "time": "20:00",
-    "status": "07:46:53",
+    "status": "05:54:11",
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -135,11 +109,11 @@
     "team2": "أتلتيكو سان لويس",
     "team2Logo": "https://www.korax90.co/uploads/1785890757_6a7287c5248ec.png",
     "time": "12:30",
-    "status": "غدًا\n🗓",
+    "status": "22:24:11",
     "league": "كأس الدوريات الجولة 1",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -152,7 +126,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live2.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/h9asfma10d5/master.m3u8"
   },
   {
@@ -165,7 +139,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   },
   {
@@ -178,7 +152,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live3.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/0wo68p0w54v/master.m3u8"
   },
   {
@@ -191,7 +165,7 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live4.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/4v561xgucp9/master.m3u8"
   },
   {
@@ -204,7 +178,7 @@
     "league": "كأس أمم أفريقيا للسيدات الجولة 3",
     "streamUrl": "https://www.korax90.co/splayer/Live5.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": ""
   },
   {
@@ -217,7 +191,7 @@
     "league": "كأس أمم أفريقيا للسيدات الجولة 3",
     "streamUrl": "https://www.korax90.co/splayer/Live6.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": ""
   },
   {
@@ -230,7 +204,33 @@
     "league": "مباراة ودية - أندية",
     "streamUrl": "https://www.korax90.co/splayer/Live1.php",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/٨‏/٢٠٢٦، ١١:١٣:٠٧ ص",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "نجوم الدوري الكوري",
+    "team1Logo": "https://www.korax90.co/uploads/1785890085_6a7285252b917.png",
+    "team2": "مان سيتي",
+    "team2Logo": "https://www.korax90.co/uploads/1785890085_6a7285252b996.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
+    "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
+  },
+  {
+    "team1": "ميلان",
+    "team1Logo": "https://www.korax90.co/uploads/1785890184_6a72858852323.png",
+    "team2": "إنتر ميلان",
+    "team2Logo": "https://www.korax90.co/uploads/1785890184_6a728588523c8.png",
+    "time": "0 - 0",
+    "status": "✓ انتهت",
+    "league": "مباراة ودية - أندية",
+    "streamUrl": "https://www.korax90.co/splayer/Live1.php",
+    "channel": "غير متوفر",
+    "LastTime": "٥‏/٨‏/٢٠٢٦، ١:٠٥:٤٩ م",
     "stream": "https://3.simokora.com/my-hls/uktmlo48gga/master.m3u8"
   }
 ]

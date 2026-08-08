@@ -1,31 +1,5 @@
 [
   {
-    "team1": "نابولي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d8a7d8a8d988d984d98a.webp",
-    "team2": "سيلتا فيجو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b3d98ad984d8aad8a7-d981d98ad8acd988.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
-    "stream": ""
-  },
-  {
-    "team1": "فالنسيا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d8a7d984d986d8b3d98ad8a7.webp",
-    "team2": "نيوكاسل يونايتد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
-    "stream": ""
-  },
-  {
     "team1": "يوفنتوس",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d98ad988d981d986d8aad988d8b3-1.webp",
     "team2": "إنتر ميلان",
@@ -35,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   },
   {
@@ -48,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   },
   {
@@ -61,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   },
   {
@@ -74,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   },
   {
@@ -87,7 +61,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "نابولي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d8a7d8a8d988d984d98a.webp",
+    "team2": "سيلتا فيجو",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b3d98ad984d8aad8a7-d981d98ad8acd988.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "فالنسيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d8a7d984d986d8b3d98ad8a7.webp",
+    "team2": "نيوكاسل يونايتد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   },
   {
@@ -100,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٥٥:٠١ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٩:٣٧:٠٣ م",
     "stream": ""
   }
 ]

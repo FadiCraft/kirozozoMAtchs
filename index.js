@@ -4,7 +4,7 @@ const fs = require('fs');
 const BASE_URL = 'https://fabor-tv.to/matches-today/';
 const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 
-// دالة التقاط الروابط من الشبكة
+// دالة التقاط الروابط من الشبكة (بدون تغيير)
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
     const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
@@ -26,7 +26,7 @@ async function getDirectStream(browser, iframeUrl) {
 
             await page.goto(fullIframeUrl, { waitUntil: 'networkidle2', timeout: 25000 });
             
-            // محاكاة نقرة للبدء
+            // محاكاة نقرة للبدء (ضرورية للمشغلات)
             await page.mouse.click(500, 300).catch(() => {});
             
             setTimeout(() => {
@@ -57,6 +57,7 @@ async function scrapeMatches() {
         // 1. استخراج البيانات الأساسية وروابط صفحات المباريات
         const matches = await page.evaluate(() => {
             const items = [];
+            // تحديد الحاويات الخاصة بكل مباراة
             document.querySelectorAll('.AY_Match').forEach(el => {
                 const linkElement = el.querySelector('a');
                 const matchUrl = linkElement ? linkElement.href : "";
@@ -81,47 +82,42 @@ async function scrapeMatches() {
 
         console.log(`✅ تم العثور على ${matches.length} مباريات، جاري البحث عن الروابط...`);
 
-        // 2. المرور على كل مباراة للحصول على رابط السيرفر
+        // 2. المرور على كل مباراة للحصول على رابط السيرفر (iframe)
         for (let match of matches) {
             if (match.matchUrl) {
                 console.log(`\n🔗 جاري فحص مباراة: ${match.team1} ضد ${match.team2}`);
                 
                 let frameUrl = "";
 
+                // التحقق إذا كان الرابط يوجه لصفحة داخلية للموقع أم أنه رابط خارجي للمشغل مباشرة
                 if (match.matchUrl.includes('fabor-tv.to/matches/')) {
                     let matchPage;
                     try {
                         matchPage = await browser.newPage();
                         await matchPage.setUserAgent(USER_AGENT);
                         
-                        await matchPage.goto(match.matchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+                        await matchPage.goto(match.matchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
 
-                        // انتظار إضافي لضمان تحميل الجافا سكربت للمشغل
-                        await new Promise(r => setTimeout(r, 4000));
-
+                        // استخراج رابط السيرفر من iframe#player
                         frameUrl = await matchPage.evaluate(() => {
-                            // البحث عن أي iframe يحتوي على النطاق الخاص بالسيرفر
-                            const iframes = Array.from(document.querySelectorAll('iframe'));
-                            const targetIframe = iframes.find(iframe => iframe.src && iframe.src.includes('fabortvcdn'));
-                            return targetIframe ? targetIframe.src : "";
+                            const iframe = document.querySelector('iframe#player');
+                            return iframe ? iframe.src : "";
                         });
-                        
-                        if (!frameUrl) console.log("⚠️ لم يتم العثور على مشغل الفيديو في الصفحة.");
-
                     } catch (err) {
                         console.log(`⚠️ حدث خطأ أثناء فتح صفحة المباراة: ${err.message}`);
                     } finally {
                         if (matchPage) await matchPage.close(); 
                     }
                 } else {
+                    // إذا كان الرابط خارجياً (مثل المشغل مباشرة)
                     frameUrl = match.matchUrl;
                 }
 
                 match.streamUrl = frameUrl;
 
-                // 3. إذا وجدنا رابط السيرفر، نقوم باستخراج البث
+                // 3. إذا وجدنا رابط السيرفر، نقوم بتشغيل دالة استخراج الـ m3u8
                 if (match.streamUrl) {
-                    console.log(`⏳ جاري استخراج بث الـ m3u8...`);
+                    console.log(`⏳ جاري استخراج بث الـ m3u8 من المشغل...`);
                     match.stream = await getDirectStream(browser, match.streamUrl);
                     if(match.stream) console.log(`✅ تم العثور على البث بنجاح`);
                     else console.log(`❌ لم يتم العثور على ملف m3u8`);
@@ -131,6 +127,7 @@ async function scrapeMatches() {
             }
         }
 
+        // مسح matchUrl من النتيجة النهائية لتطابق الهيكل السابق
         matches.forEach(m => delete m.matchUrl);
 
         fs.writeFileSync('match1.json', JSON.stringify(matches, null, 2), 'utf8');

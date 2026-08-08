@@ -4,6 +4,9 @@ const fs = require('fs');
 const BASE_URL = 'https://fabor-tv.to/matches-today/';
 const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 
+// دالة مساعدة للنوم (بديلة عن waitForTimeout)
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 // دالة التقاط الروابط من الشبكة (محسنة)
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
@@ -42,14 +45,14 @@ async function getDirectStream(browser, iframeUrl) {
             });
             
             // انتظار إضافي لتحميل المشغل
-            await page.waitForTimeout(5000);
+            await sleep(5000);
             
             // محاولة النقر على زر التشغيل إذا وجد
             try {
                 const playButton = await page.$('button[aria-label="Play"], .play-button, .vjs-big-play-button');
                 if (playButton) {
                     await playButton.click();
-                    await page.waitForTimeout(3000);
+                    await sleep(3000);
                 }
             } catch (e) {
                 // تجاهل الخطأ
@@ -86,7 +89,7 @@ async function scrapeMatches() {
         await page.goto(BASE_URL, { waitUntil: 'networkidle2', timeout: 30000 });
         
         // انتظار إضافي للتأكد من تحميل جميع المباريات
-        await page.waitForTimeout(3000);
+        await sleep(3000);
 
         // استخراج البيانات الأساسية وروابط صفحات المباريات
         const matches = await page.evaluate(() => {
@@ -138,7 +141,7 @@ async function scrapeMatches() {
                     });
                     
                     // انتظار إضافي لضمان تنفيذ JavaScript
-                    await matchPage.waitForTimeout(5000);
+                    await sleep(5000);
 
                     // محاولة انتظار ظهور عنصر iframe#player مع مهلة زمنية
                     try {
@@ -195,7 +198,7 @@ async function scrapeMatches() {
                 }
                 
                 // تأخير بسيط بين كل مباراة لتجنب الحظر
-                await page.waitForTimeout(2000);
+                await sleep(2000);
             }
         }
 

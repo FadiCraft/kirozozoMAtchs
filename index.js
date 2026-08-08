@@ -1,5 +1,13 @@
+// === هذا السطر يحل مشكلة المتصفح في ريندر ===
+const path = require('path');
+process.env.PUPPETEER_CACHE_DIR = path.join(__dirname, '.cache', 'puppeteer');
+// ============================================
+
+const express = require('express');
 const puppeteer = require('puppeteer');
-const fs = require('fs');
+
+const app = express();
+const PORT = process.env.PORT || 3000;
 
 const BASE_URL = 'https://fabor-tv.to/matches-today/';
 const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
@@ -7,7 +15,7 @@ const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 // دالة مساعدة للنوم (بديلة عن waitForTimeout)
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// دالة التقاط الروابط من الشبكة (محسنة)
+// دالة التقاط الروابط من الشبكة (كما هي من الكود الخاص بك)
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
     const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
@@ -26,7 +34,6 @@ async function getDirectStream(browser, iframeUrl) {
             page = await browser.newPage();
             await page.setUserAgent(USER_AGENT);
             
-            // اعتراض الطلبات للبحث عن m3u8
             await page.setRequestInterception(true);
             page.on('request', (request) => {
                 const url = request.url();
@@ -44,10 +51,8 @@ async function getDirectStream(browser, iframeUrl) {
                 timeout: 30000 
             });
             
-            // انتظار إضافي لتحميل المشغل
             await sleep(5000);
             
-            // محاولة النقر على زر التشغيل إذا وجد
             try {
                 const playButton = await page.$('button[aria-label="Play"], .play-button, .vjs-big-play-button');
                 if (playButton) {
@@ -66,10 +71,11 @@ async function getDirectStream(browser, iframeUrl) {
     });
 }
 
-async function scrapeMatches() {
+// الـ API الرئيسي المباشر (بدون تخزين)
+app.get('/api/matches', async (req, res) => {
     let browser;
     try {
-        console.log("🚀 جاري تهيئة المتصفح...");
+        console.log("🚀 جاري تهيئة المتصفح وبدء الجلب المباشر...");
         browser = await puppeteer.launch({ 
             headless: "new", 
             args: [
@@ -88,10 +94,8 @@ async function scrapeMatches() {
         console.log("🔍 جاري فتح الموقع الرئيسي...");
         await page.goto(BASE_URL, { waitUntil: 'networkidle2', timeout: 30000 });
         
-        // انتظار إضافي للتأكد من تحميل جميع المباريات
         await sleep(3000);
 
-        // استخراج البيانات الأساسية وروابط صفحات المباريات
         const matches = await page.evaluate(() => {
             const items = [];
             document.querySelectorAll('.AY_Match').forEach(el => {
@@ -116,9 +120,9 @@ async function scrapeMatches() {
             return items;
         });
 
-        console.log(`✅ تم العثور على ${matches.length} مباريات، جاري البحث عن الروابط...`);
+        console.log(`✅ تم العثور على ${matches.length} مباريات، جاري استخراج روابط m3u8...`);
 
-        // المرور على كل مباراة للحصول على رابط السيرفر (iframe)
+        // المرور على كل مباراة لاستخراج الـ m3u8
         for (let i = 0; i < matches.length; i++) {
             const match = matches[i];
             if (match.matchUrl) {
@@ -132,35 +136,24 @@ async function scrapeMatches() {
                     await matchPage.setUserAgent(USER_AGENT);
                     await matchPage.setViewport({ width: 1366, height: 768 });
                     
-                    console.log(`   📄 فتح صفحة المباراة: ${match.matchUrl}`);
-                    
-                    // استخدام networkidle2 للانتظار حتى يكتمل تحميل الصفحة
                     await matchPage.goto(match.matchUrl, { 
                         waitUntil: 'networkidle2', 
                         timeout: 30000 
                     });
                     
-                    // انتظار إضافي لضمان تنفيذ JavaScript
                     await sleep(5000);
 
-                    // محاولة انتظار ظهور عنصر iframe#player مع مهلة زمنية
                     try {
                         await matchPage.waitForSelector('iframe#player', { 
                             timeout: 10000,
                             visible: true 
                         });
                         
-                        // استخراج رابط السيرفر من iframe#player
                         frameUrl = await matchPage.evaluate(() => {
                             const iframe = document.querySelector('iframe#player');
                             return iframe ? iframe.src : "";
                         });
-                        
-                        console.log(`   ✅ تم العثور على iframe: ${frameUrl}`);
                     } catch (err) {
-                        console.log(`   ⚠️ لم يتم العثور على iframe#player (Timeout): ${err.message}`);
-                        
-                        // محاولة بديلة: البحث عن أي iframe
                         frameUrl = await matchPage.evaluate(() => {
                             const iframes = document.querySelectorAll('iframe');
                             for (let iframe of iframes) {
@@ -170,51 +163,41 @@ async function scrapeMatches() {
                             }
                             return "";
                         });
-                        
-                        if (frameUrl) {
-                            console.log(`   ✅ تم العثور على iframe بديل: ${frameUrl}`);
-                        }
                     }
 
                     match.streamUrl = frameUrl;
 
-                    // إذا وجدنا رابط السيرفر، نقوم بتشغيل دالة استخراج الـ m3u8
                     if (match.streamUrl) {
-                        console.log(`   ⏳ جاري استخراج بث الـ m3u8 من المشغل...`);
                         match.stream = await getDirectStream(browser, match.streamUrl);
-                        if (match.stream) {
-                            console.log(`   ✅ تم العثور على البث بنجاح!`);
-                        } else {
-                            console.log(`   ❌ لم يتم العثور على ملف m3u8`);
-                        }
-                    } else {
-                        console.log(`   ❌ لم يتم العثور على سيرفر لهذه المباراة`);
                     }
                     
                 } catch (err) {
-                    console.log(`   ⚠️ حدث خطأ أثناء فتح صفحة المباراة: ${err.message}`);
+                    console.log(`⚠️ خطأ في صفحة المباراة: ${err.message}`);
                 } finally {
                     if (matchPage) await matchPage.close().catch(() => {});
                 }
                 
-                // تأخير بسيط بين كل مباراة لتجنب الحظر
                 await sleep(2000);
             }
         }
 
-        // مسح matchUrl من النتيجة النهائية
+        // مسح matchUrl وإرجاع النتيجة مباشرة بدون حفظ في ملف
         const finalMatches = matches.map(({ matchUrl, ...rest }) => rest);
 
-        fs.writeFileSync('match1.json', JSON.stringify(finalMatches, null, 2), 'utf8');
-        console.log("\n🎉 انتهى العمل. تم حفظ البيانات في match1.json");
-        console.log(`📊 إجمالي المباريات: ${finalMatches.length}`);
-        console.log(`📺 المباريات التي تم العثور على بث لها: ${finalMatches.filter(m => m.stream).length}`);
+        console.log("🎉 اكتمل الجلب وتم إرسال البيانات.");
+        
+        // إرسال البيانات للمستخدم مباشرة
+        res.json(finalMatches);
 
     } catch (error) {
         console.error('❌ خطأ فادح:', error.message);
+        res.status(500).json({ error: error.message });
     } finally {
         if (browser) await browser.close();
     }
-}
+});
 
-scrapeMatches();
+app.listen(PORT, () => {
+    console.log(`🚀 السيرفر يعمل على المنفذ: ${PORT}`);
+    console.log(`👉 ادخل إلى: http://localhost:${PORT}/api/matches`);
+});

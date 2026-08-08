@@ -4,7 +4,6 @@ const fs = require('fs');
 const BASE_URL = 'https://fabor-tv.to/matches-today/';
 const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 
-// دالة التقاط الروابط من الشبكة (بدون تغيير)
 async function getDirectStream(browser, iframeUrl) {
     if (!iframeUrl) return "";
     const fullIframeUrl = iframeUrl.startsWith('//') ? `https:${iframeUrl}` : iframeUrl;
@@ -54,10 +53,8 @@ async function scrapeMatches() {
         console.log("🔍 جاري فتح الموقع الرئيسي...");
         await page.goto(BASE_URL, { waitUntil: 'networkidle2', timeout: 30000 });
 
-        // 1. استخراج البيانات الأساسية وروابط صفحات المباريات
         const matches = await page.evaluate(() => {
             const items = [];
-            // تحديد الحاويات الخاصة بكل مباراة
             document.querySelectorAll('.AY_Match').forEach(el => {
                 const linkElement = el.querySelector('a');
                 const matchUrl = linkElement ? linkElement.href : "";
@@ -82,23 +79,28 @@ async function scrapeMatches() {
 
         console.log(`✅ تم العثور على ${matches.length} مباريات، جاري البحث عن الروابط...`);
 
-        // 2. المرور على كل مباراة للحصول على رابط السيرفر (iframe)
         for (let match of matches) {
             if (match.matchUrl) {
                 console.log(`\n🔗 جاري فحص مباراة: ${match.team1} ضد ${match.team2}`);
                 
                 let frameUrl = "";
 
-                // التحقق إذا كان الرابط يوجه لصفحة داخلية للموقع أم أنه رابط خارجي للمشغل مباشرة
                 if (match.matchUrl.includes('fabor-tv.to/matches/')) {
                     let matchPage;
                     try {
                         matchPage = await browser.newPage();
                         await matchPage.setUserAgent(USER_AGENT);
                         
-                        await matchPage.goto(match.matchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
+                        // تم تغيير domcontentloaded إلى networkidle2 لإعطاء فرصة للسكربتات بالعمل
+                        await matchPage.goto(match.matchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
 
-                        // استخراج رابط السيرفر من iframe#player
+                        // انتظار صريح لظهور السيرفر (iframe) لتفادي سحب البيانات قبل ظهورها
+                        try {
+                            await matchPage.waitForSelector('iframe#player', { timeout: 10000 });
+                        } catch (e) {
+                            console.log("⚠️ لم يظهر السيرفر خلال الوقت المحدد (قد لا يتوفر بث).");
+                        }
+
                         frameUrl = await matchPage.evaluate(() => {
                             const iframe = document.querySelector('iframe#player');
                             return iframe ? iframe.src : "";
@@ -109,13 +111,11 @@ async function scrapeMatches() {
                         if (matchPage) await matchPage.close(); 
                     }
                 } else {
-                    // إذا كان الرابط خارجياً (مثل المشغل مباشرة)
                     frameUrl = match.matchUrl;
                 }
 
                 match.streamUrl = frameUrl;
 
-                // 3. إذا وجدنا رابط السيرفر، نقوم بتشغيل دالة استخراج الـ m3u8
                 if (match.streamUrl) {
                     console.log(`⏳ جاري استخراج بث الـ m3u8 من المشغل...`);
                     match.stream = await getDirectStream(browser, match.streamUrl);
@@ -127,7 +127,6 @@ async function scrapeMatches() {
             }
         }
 
-        // مسح matchUrl من النتيجة النهائية لتطابق الهيكل السابق
         matches.forEach(m => delete m.matchUrl);
 
         fs.writeFileSync('match1.json', JSON.stringify(matches, null, 2), 'utf8');

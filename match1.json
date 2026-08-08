@@ -9,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -22,20 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "برشلونة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9.webp",
-    "team2": "نوتنجهام فورست",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d988d8aad986d8acd987d8a7d985-d981d988d8b1d8b3d8aa.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://fabortvto.hes-goals.mov/?m=4803401&p=87350",
-    "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   },
   {
@@ -100,7 +87,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:٠٦:٣٥ م",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
+    "stream": ""
+  },
+  {
+    "team1": "برشلونة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9.webp",
+    "team2": "نوتنجهام فورست",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d988d8aad986d8acd987d8a7d985-d981d988d8b1d8b3d8aa.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://fabortvto.hes-goals.mov/?m=4803401&p=87350",
+    "channel": "غير متوفر",
+    "LastTime": "٨‏/٨‏/٢٠٢٦، ٨:١٢:١١ م",
     "stream": ""
   }
 ]

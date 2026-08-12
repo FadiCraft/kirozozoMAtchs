@@ -1,31 +1,5 @@
 [
   {
-    "team1": "أرسنال",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8b1d8b3d986d8a7d984-3.webp",
-    "team2": "كومو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d983d988d985d988.webp",
-    "time": "19:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764907&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
-    "stream": ""
-  },
-  {
-    "team1": "مانشستر يونايتد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d986d8b4d8b3d8aad8b1-d98ad988d986d8a7d98ad8aad8af-1.webp",
-    "team2": "ليدز يونايتد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad8afd8b2-d98ad988d986d8a7d98ad8aad8af-1.webp",
-    "time": "19:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764910&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
-    "stream": ""
-  },
-  {
     "team1": "باريس سان جيرمان",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-2.webp",
     "team2": "أستون فيلا",
@@ -35,20 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4728413&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
-    "stream": ""
-  },
-  {
-    "team1": "ديبورتيفو لاكورونيا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7.webp",
-    "team2": "ريال مدريد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d98ad8a7d984-d985d8afd8b1d98ad8af-2.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4763803&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
     "stream": ""
   },
   {
@@ -56,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d985d8bad8b1d8a8-d8b3d98ad8afd8a7d8aa-1.webp",
     "team2": "الكاميرون - سيدات",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d983d8a7d985d98ad8b1d988d986-d8b3d98ad8afd8a7d8aa.webp",
-    "time": "8:00 PM",
-    "status": "تبدأ قريباً  \n7m",
+    "time": "21:00",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4807675&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
     "stream": ""
   },
   {
@@ -74,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
     "stream": ""
   },
   {
@@ -87,7 +48,46 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٧:٥٣:٠٠ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "أرسنال",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8b1d8b3d986d8a7d984-3.webp",
+    "team2": "كومو",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d983d988d985d988.webp",
+    "time": "19:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "مانشستر يونايتد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d986d8b4d8b3d8aad8b1-d98ad988d986d8a7d98ad8aad8af-1.webp",
+    "team2": "ليدز يونايتد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad8afd8b2-d98ad988d986d8a7d98ad8aad8af-1.webp",
+    "time": "19:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764910&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "ديبورتيفو لاكورونيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7.webp",
+    "team2": "ريال مدريد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d98ad8a7d984-d985d8afd8b1d98ad8af-2.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4763803&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٨:٥٣:٤٥ م",
     "stream": ""
   }
 ]

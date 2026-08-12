@@ -1,18 +1,5 @@
 [
   {
-    "team1": "المغرب - سيدات",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d985d8bad8b1d8a8-d8b3d98ad8afd8a7d8aa-1.webp",
-    "team2": "الكاميرون - سيدات",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d983d8a7d985d98ad8b1d988d986-d8b3d98ad8afd8a7d8aa.webp",
-    "time": "21:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4807675&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
-    "stream": ""
-  },
-  {
     "team1": "نيوكاسل يونايتد",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af-1.webp",
     "team2": "إيفرتون",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   },
   {
@@ -87,7 +74,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/٨‏/٢٠٢٦، ٩:٥٤:٠٥ م",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "المغرب - سيدات",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d985d8bad8b1d8a8-d8b3d98ad8afd8a7d8aa-1.webp",
+    "team2": "الكاميرون - سيدات",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d983d8a7d985d98ad8b1d988d986-d8b3d98ad8afd8a7d8aa.webp",
+    "time": "21:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4807675&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٢‏/٨‏/٢٠٢٦، ١٠:٥٠:١٦ م",
     "stream": ""
   }
 ]

@@ -4,12 +4,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-1.webp",
     "team2": "الفيصلي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8b5d984d98a.webp",
-    "time": "6:00 PM",
-    "status": "تبدأ قريباً  \n26m",
+    "time": "19:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787205&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٥:٣٣:٤٤ م",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٦:٣١:١٥ م",
     "stream": ""
   },
   {
@@ -17,25 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8bad984d8b7d8a9-d8b3d8b1d8a7d98a.webp",
     "team2": "كورام بيليديسبور",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d983d988d8b1d8a7d985-d8a8d98ad984d98ad8afd98ad8b3d8a8d988d8b1.webp",
-    "time": "6:30 PM",
-    "status": "لم تبدأ بعد",
+    "time": "19:30",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764264&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٥:٣٣:٤٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "أتالانتا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad8a7d984d8a7d986d8aad8a7.webp",
-    "team2": "أتلتيك بلباو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983-d8a8d984d8a8d8a7d988-1.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٥:٣٣:٤٤ م",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٦:٣١:١٥ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٥:٣٣:٤٤ م",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٦:٣١:١٥ م",
     "stream": ""
   }
 ]

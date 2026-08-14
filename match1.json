@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الهلال",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-1.webp",
-    "team2": "الفيصلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8b5d984d98a.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787205&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٧:٣٥:٥١ م",
-    "stream": ""
-  },
-  {
     "team1": "غلطة سراي",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8bad984d8b7d8a9-d8b3d8b1d8a7d98a.webp",
     "team2": "كورام بيليديسبور",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764264&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٧:٣٥:٥١ م",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٨:١٣:٤٧ م",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٧:٣٥:٥١ م",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٨:١٣:٤٧ م",
+    "stream": ""
+  },
+  {
+    "team1": "الهلال",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-1.webp",
+    "team2": "الفيصلي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8b5d984d98a.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787205&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٤‏/٨‏/٢٠٢٦، ٨:١٣:٤٧ م",
     "stream": ""
   }
 ]

@@ -5,11 +5,11 @@
     "team2": "مانشستر سيتي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d986d8b4d8b3d8aad8b1-d8b3d98ad8aad98a-2.webp",
     "time": "2:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n23m",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4733214&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   },
   {
@@ -20,22 +20,9 @@
     "time": "2:30 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4807149&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "بيرنلي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d98ad8b1d986d984d98a.webp",
-    "team2": "وست هام يونايتد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d988d8b3d8aa-d987d8a7d985-d98ad988d986d8a7d98ad8aad8af.webp",
-    "time": "3:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   },
   {
@@ -74,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "لانس",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d8a7d986d8b3.webp",
+    "team2": "باريس سان جيرمان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-3.webp",
+    "time": "6:45 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   },
   {
@@ -87,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١٢:٥١:٣٤ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ١:٣٦:١٤ م",
     "stream": ""
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "team1": "إسبانيول",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8b3d8a8d8a7d986d98ad988d984.webp",
-    "team2": "ليفانتي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8a7d986d8aad98a.webp",
-    "time": "18:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750513&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
-    "stream": ""
-  },
-  {
     "team1": "لانس",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d8a7d986d8b3.webp",
     "team2": "باريس سان جيرمان",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4730705&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   },
   {
@@ -87,7 +74,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٦:٥١:١٩ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
+    "stream": ""
+  },
+  {
+    "team1": "إسبانيول",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8b3d8a8d8a7d986d98ad988d984.webp",
+    "team2": "ليفانتي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8a7d986d8aad98a.webp",
+    "time": "18:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750513&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٧:٢٥:٥١ م",
     "stream": ""
   }
 ]

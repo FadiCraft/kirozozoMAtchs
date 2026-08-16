@@ -1,18 +1,5 @@
 [
   {
-    "team1": "لانس",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d8a7d986d8b3.webp",
-    "team2": "باريس سان جيرمان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-3.webp",
-    "time": "19:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4730705&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
-    "stream": ""
-  },
-  {
     "team1": "ناشفيل",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d8a7d8b4d981d98ad984.webp",
     "team2": "انتر ميامي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   },
   {
@@ -87,7 +74,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٣٦:١٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "لانس",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d8a7d986d8b3.webp",
+    "team2": "باريس سان جيرمان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-3.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4730705&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٨:٥٧:٤٣ م",
     "stream": ""
   }
 ]

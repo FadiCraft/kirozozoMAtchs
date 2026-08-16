@@ -1,28 +1,15 @@
 [
   {
-    "team1": "راسينج سانتاندير",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d8a7d8b3d98ad986d8ac-d8b3d8a7d986d8aad8a7d986d8afd98ad8b1.webp",
-    "team2": "فياريال",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8a7d8b1d98ad8a7d984.webp",
-    "time": "16:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750520&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
-    "stream": ""
-  },
-  {
     "team1": "إسبانيول",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8b3d8a8d8a7d986d98ad988d984.webp",
     "team2": "ليفانتي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8a7d986d8aad98a.webp",
     "time": "18:00",
-    "status": "بعد قليل",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750513&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   },
   {
@@ -74,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "راسينج سانتاندير",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d8a7d8b3d98ad986d8ac-d8b3d8a7d986d8aad8a7d986d8afd98ad8b1.webp",
+    "team2": "فياريال",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8a7d8b1d98ad8a7d984.webp",
+    "time": "16:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750520&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   },
   {
@@ -87,7 +87,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4797337&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٤:٥٩:٠٥ م",
+    "LastTime": "١٦‏/٨‏/٢٠٢٦، ٥:٢٨:٤٢ م",
     "stream": ""
   }
 ]

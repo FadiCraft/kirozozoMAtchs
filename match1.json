@@ -1,18 +1,5 @@
 [
   {
-    "team1": "ديبورتيفو لاكورونيا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7-1.webp",
-    "team2": "إلتشي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d984d8aad8b4d98a.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750512&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٨:٤١:٤٦ م",
-    "stream": ""
-  },
-  {
     "team1": "الأنوار",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a3d986d988d8a7d8b1.webp",
     "team2": "الأهلي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٨:٤١:٤٦ م",
+    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٩:١٢:٠٤ م",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٨:٤١:٤٦ م",
+    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٩:١٢:٠٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "ديبورتيفو لاكورونيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7-1.webp",
+    "team2": "إلتشي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d984d8aad8b4d98a.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750512&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٧‏/٨‏/٢٠٢٦، ٩:١٢:٠٤ م",
     "stream": ""
   }
 ]

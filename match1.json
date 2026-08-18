@@ -1,54 +1,15 @@
 [
   {
-    "team1": "هايدينهايم",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d987d8a7d98ad8afd98ad986d987d8a7d98ad985.webp",
-    "team2": "بايرن ميونخ",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d98ad8b1d986-d985d98ad988d986d8ae-3.webp",
-    "time": "17:00",
-    "status": "انتهت",
+    "team1": "أتلتيكو مدريد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-2.webp",
+    "team2": "مالقا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d984d982d8a7.webp",
+    "time": "7:00 PM",
+    "status": "لم تبدأ بعد",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ١٠:٥٩:٠٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "النجمة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8acd985d8a9.webp",
-    "team2": "الاتحاد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-1.webp",
-    "time": "17:15",
-    "status": "انتهت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ١٠:٥٩:٠٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "الدرعية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-1.webp",
-    "time": "19:00",
-    "status": "انتهت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ١٠:٥٩:٠٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "فنربخشة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d986d8b1d8a8d8aed8b4d8a9-1.webp",
-    "team2": "أولمبيك ليون",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d984d985d8a8d98ad983-d984d98ad988d986.webp",
-    "time": "20:00",
-    "status": "انتهت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ١٠:٥٩:٠٤ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ١١:٣٠:٥٢ م",
     "stream": ""
   }
 ]

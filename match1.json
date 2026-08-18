@@ -1,18 +1,5 @@
 [
   {
-    "team1": "هايدينهايم",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d987d8a7d98ad8afd98ad986d987d8a7d98ad985.webp",
-    "team2": "بايرن ميونخ",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d98ad8b1d986-d985d98ad988d986d8ae-3.webp",
-    "time": "17:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4805030&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٥:٠٥:١٠ م",
-    "stream": ""
-  },
-  {
     "team1": "النجمة",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8acd985d8a9.webp",
     "team2": "الاتحاد",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726574&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٥:٠٥:١٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
     "stream": ""
   },
   {
@@ -30,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
     "team2": "النصر",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-1.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "19:00",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726572&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٥:٠٥:١٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
     "stream": ""
   },
   {
@@ -48,7 +35,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٥:٠٥:١٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "هايدينهايم",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d987d8a7d98ad8afd98ad986d987d8a7d98ad985.webp",
+    "team2": "بايرن ميونخ",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d98ad8b1d986-d985d98ad988d986d8ae-3.webp",
+    "time": "17:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4805030&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
     "stream": ""
   }
 ]

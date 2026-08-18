@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الدرعية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-1.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726572&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٧:٥٦:٣٠ م",
-    "stream": ""
-  },
-  {
     "team1": "فنربخشة",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d986d8b1d8a8d8aed8b4d8a9-1.webp",
     "team2": "أولمبيك ليون",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4809607&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٧:٥٦:٣٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٨:٣٢:٤٦ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٧:٥٦:٣٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٨:٣٢:٤٦ م",
     "stream": ""
   },
   {
@@ -48,7 +35,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٧:٥٦:٣٠ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٨:٣٢:٤٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "الدرعية",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-1.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726572&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٨:٣٢:٤٦ م",
     "stream": ""
   }
 ]

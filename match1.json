@@ -1,18 +1,5 @@
 [
   {
-    "team1": "النجمة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8acd985d8a9.webp",
-    "team2": "الاتحاد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-1.webp",
-    "time": "17:15",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726574&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
-    "stream": ""
-  },
-  {
     "team1": "الدرعية",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
     "team2": "النصر",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4726572&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٥٤:٢٣ م",
     "stream": ""
   },
   {
@@ -31,11 +18,11 @@
     "team2": "أولمبيك ليون",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d984d985d8a8d98ad983-d984d98ad988d986.webp",
     "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n5m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٥٤:٢٣ م",
     "stream": ""
   },
   {
@@ -46,9 +33,22 @@
     "time": "17:00",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4805030&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٠٤:٥٦ م",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٥٤:٢٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "النجمة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8acd985d8a9.webp",
+    "team2": "الاتحاد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-1.webp",
+    "time": "17:15",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٨‏/٨‏/٢٠٢٦، ٦:٥٤:٢٣ م",
     "stream": ""
   }
 ]

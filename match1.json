@@ -1,18 +1,5 @@
 [
   {
-    "team1": "أتلتيكو مدريد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-2.webp",
-    "team2": "مالقا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d984d982d8a7.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750510&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
-    "stream": ""
-  },
-  {
     "team1": "فيلادلفيا يونيون",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad984d8a7d8afd984d981d98ad8a7-d98ad988d986d98ad988d986.webp",
     "team2": "انتر ميامي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٩:٤٨:١٠ م",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٩:٤٨:١٠ م",
+    "stream": ""
+  },
+  {
+    "team1": "أتلتيكو مدريد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-2.webp",
+    "team2": "مالقا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d984d982d8a7.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٩:٤٨:١٠ م",
     "stream": ""
   }
 ]

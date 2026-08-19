@@ -1,18 +1,5 @@
 [
   {
-    "team1": "برشلونة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9-2.webp",
-    "team2": "الأهلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a3d987d984d98a-4.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4788296&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٧:١٦:٤٩ م",
-    "stream": ""
-  },
-  {
     "team1": "أتلتيكو مدريد",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-2.webp",
     "team2": "مالقا",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750510&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٧:١٦:٤٩ م",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٧:١٦:٤٩ م",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
+    "stream": ""
+  },
+  {
+    "team1": "برشلونة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9-2.webp",
+    "team2": "الأهلي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a3d987d984d98a-4.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/٨‏/٢٠٢٦، ٨:٤٧:٥٧ م",
     "stream": ""
   }
 ]

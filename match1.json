@@ -1,18 +1,5 @@
 [
   {
-    "team1": "طرابزون سبور",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b7d8b1d8a7d8a8d8b2d988d986-d8b3d8a8d988d8b1-1.webp",
-    "team2": "فيرينتسفاروشي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8b1d98ad986d8aad8b3d981d8a7d8b1d988d8b4d98a-1.webp",
-    "time": "18:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4814178&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٦:٤٩:٤٩ م",
-    "stream": ""
-  },
-  {
     "team1": "الفيحاء",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8add8a7d8a1.webp",
     "team2": "الهلال",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787296&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٦:٤٩:٤٩ م",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٦:٤٩:٤٩ م",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
+    "stream": ""
+  },
+  {
+    "team1": "طرابزون سبور",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b7d8b1d8a7d8a8d8b2d988d986-d8b3d8a8d988d8b1-1.webp",
+    "team2": "فيرينتسفاروشي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8b1d98ad986d8aad8b3d981d8a7d8b1d988d8b4d98a-1.webp",
+    "time": "18:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4814178&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
     "stream": ""
   }
 ]

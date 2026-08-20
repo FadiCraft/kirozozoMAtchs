@@ -1,18 +1,5 @@
 [
   {
-    "team1": "فيلادلفيا يونيون",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad984d8a7d8afd984d981d98ad8a7-d98ad988d986d98ad988d986.webp",
-    "team2": "انتر ميامي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-1.webp",
-    "time": "00:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4621437&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ١:٤٦:٣٧ ص",
-    "stream": ""
-  },
-  {
     "team1": "طرابزون سبور",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b7d8b1d8a7d8a8d8b2d988d986-d8b3d8a8d988d8b1-1.webp",
     "team2": "فيرينتسفاروشي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ١:٤٦:٣٧ ص",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٢:٤٥:١٣ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ١:٤٦:٣٧ ص",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٢:٤٥:١٣ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ١:٤٦:٣٧ ص",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٢:٤٥:١٣ ص",
+    "stream": ""
+  },
+  {
+    "team1": "فيلادلفيا يونيون",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad984d8a7d8afd984d981d98ad8a7-d98ad988d986d98ad988d986.webp",
+    "team2": "انتر ميامي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-1.webp",
+    "time": "00:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٢:٤٥:١٣ ص",
     "stream": ""
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الفيحاء",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8add8a7d8a1.webp",
-    "team2": "الهلال",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-3.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787296&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
-    "stream": ""
-  },
-  {
     "team1": "فيلادلفيا يونيون",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad984d8a7d8afd984d981d98ad8a7-d98ad988d986d98ad988d986.webp",
     "team2": "انتر ميامي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٥٧:١٢ م",
     "stream": ""
   },
   {
@@ -33,9 +20,22 @@
     "time": "18:00",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4814178&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٢٣:٢٧ م",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٥٧:١٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "الفيحاء",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d981d98ad8add8a7d8a1.webp",
+    "team2": "الهلال",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-3.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787296&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٠‏/٨‏/٢٠٢٦، ٧:٥٧:١٢ م",
     "stream": ""
   }
 ]

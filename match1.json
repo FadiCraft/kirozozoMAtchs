@@ -1,18 +1,5 @@
 [
   {
-    "team1": "القادسية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d982d8a7d8afd8b3d98ad8a9.webp",
-    "team2": "الاتحاد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-2.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787358&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٧:٤٤:٤٧ م",
-    "stream": ""
-  },
-  {
     "team1": "أولمبيك مارسيليا",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d984d985d8a8d98ad983-d985d8a7d8b1d8b3d98ad984d98ad8a7-2.webp",
     "team2": "ستراسبورج",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4735294&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٧:٤٤:٤٧ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٨:٠٨:٥٦ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4741712&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٧:٤٤:٤٧ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٨:٠٨:٥٦ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750897&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٧:٤٤:٤٧ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٨:٠٨:٥٦ م",
     "stream": ""
   },
   {
@@ -61,7 +48,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٧:٤٤:٤٧ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٨:٠٨:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "القادسية",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d982d8a7d8afd8b3d98ad8a9.webp",
+    "team2": "الاتحاد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-2.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787358&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٨:٠٨:٥٦ م",
     "stream": ""
   }
 ]

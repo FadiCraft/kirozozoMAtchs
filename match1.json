@@ -1,28 +1,15 @@
 [
   {
-    "team1": "الرياض",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8b1d98ad8a7d8b6.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-2.webp",
-    "time": "17:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787313&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٢٠:٥٦ م",
-    "stream": ""
-  },
-  {
     "team1": "القادسية",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d982d8a7d8afd8b3d98ad8a9.webp",
     "team2": "الاتحاد",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-2.webp",
     "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n2m",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787358&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٢٠:٥٦ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٥٨:٠٤ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٢٠:٥٦ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٥٨:٠٤ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٢٠:٥٦ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٥٨:٠٤ م",
     "stream": ""
   },
   {
@@ -61,7 +48,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٢٠:٥٦ م",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٥٨:٠٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "الرياض",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8b1d98ad8a7d8b6.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-2.webp",
+    "time": "17:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787313&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢١‏/٨‏/٢٠٢٦، ٥:٥٨:٠٤ م",
     "stream": ""
   }
 ]

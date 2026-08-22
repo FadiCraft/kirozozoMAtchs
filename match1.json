@@ -1,18 +1,5 @@
 [
   {
-    "team1": "أتلتيك بلباو",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983-d8a8d984d8a8d8a7d988-2.webp",
-    "team2": "إشبيلية",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8b4d8a8d98ad984d98ad8a9-1.webp",
-    "time": "16:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750900&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
-    "stream": ""
-  },
-  {
     "team1": "إنتر ميلان",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d986d8aad8b1-d985d98ad984d8a7d986-3.webp",
     "team2": "مونزا",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732354&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4741717&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -43,25 +30,25 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8bad8b2d984-d8a7d984d985d8add984d8a9.webp",
     "team2": "بيراميدز",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d98ad8b1d8a7d985d98ad8afd8b2.webp",
-    "time": "5:00 PM",
-    "status": "تبدأ قريباً  \n1m",
+    "time": "18:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4804566&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
-    "stream": ""
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
+    "stream": "https://fastly.live.brightcove.com/6386030131112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMzAxMzExMTIifQ.aZa3dfTqySgbsPGs64c0_JTfvR1mKUmvdlDJ1WTeDgo/playlist-hls.m3u8"
   },
   {
     "team1": "فالنسيا",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d8a7d984d986d8b3d98ad8a7-1.webp",
     "team2": "سيلتا فيجو",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b3d98ad984d8aad8a7-d981d98ad8acd988-1.webp",
-    "time": "5:30 PM",
-    "status": "لم تبدأ بعد",
+    "time": "18:30",
+    "status": "بعد قليل",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750891&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -100,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -113,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -126,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -139,7 +126,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   },
   {
@@ -152,7 +139,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٤:٥٨:٤٩ م",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "أتلتيك بلباو",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983-d8a8d984d8a8d8a7d988-2.webp",
+    "team2": "إشبيلية",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8b4d8a8d98ad984d98ad8a9-1.webp",
+    "time": "16:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750900&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٢‏/٨‏/٢٠٢٦، ٥:٢٩:٥٣ م",
     "stream": ""
   }
 ]

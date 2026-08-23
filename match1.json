@@ -1,31 +1,5 @@
 [
   {
-    "team1": "أتلتيكو مدريد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-3.webp",
-    "team2": "فياريال",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8a7d8b1d98ad8a7d984-1.webp",
-    "time": "16:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750899&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
-    "stream": ""
-  },
-  {
-    "team1": "نيوكاسل يونايتد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af-2.webp",
-    "team2": "ليفربول",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8b1d8a8d988d984-2.webp",
-    "time": "16:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4741720&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
-    "stream": ""
-  },
-  {
     "team1": "طرابزون سبور",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b7d8b1d8a7d8a8d8b2d988d986-d8b3d8a8d988d8b1-2.webp",
     "team2": "باشاك شهير",
@@ -35,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764259&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -48,7 +22,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732352&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -57,11 +31,11 @@
     "team2": "الشرقية إنبي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8b4d8b1d982d98ad8a9-d8a5d986d8a8d98a.webp",
     "time": "18:00",
-    "status": "بعد قليل",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4804585&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": "https://fastly.live.brightcove.com/6386030131112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMzAxMzExMTIifQ.aZa3dfTqySgbsPGs64c0_JTfvR1mKUmvdlDJ1WTeDgo/playlist-hls.m3u8"
   },
   {
@@ -69,12 +43,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aed98ad8aad8a7d981d98a-1.webp",
     "team2": "راسينج سانتاندير",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d8a7d8b3d98ad986d8ac-d8b3d8a7d986d8aad8a7d986d8afd98ad8b1-1.webp",
-    "time": "5:30 PM",
-    "status": "تبدأ قريباً  \n30m",
+    "time": "18:30",
+    "status": "بعد قليل",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750895&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -87,7 +61,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732357&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -100,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -113,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -126,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -139,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -152,7 +126,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   },
   {
@@ -165,7 +139,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٤:٥٩:٥٨ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "أتلتيكو مدريد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-3.webp",
+    "team2": "فياريال",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d98ad8a7d8b1d98ad8a7d984-1.webp",
+    "time": "16:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750899&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "نيوكاسل يونايتد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af-2.webp",
+    "team2": "ليفربول",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8b1d8a8d988d984-2.webp",
+    "time": "16:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4741720&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٥:٣٠:٢٣ م",
     "stream": ""
   }
 ]

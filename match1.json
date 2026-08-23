@@ -1,18 +1,5 @@
 [
   {
-    "team1": "انتر ميامي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-2.webp",
-    "team2": "تورونتو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aad988d8b1d988d986d8aad988.webp",
-    "time": "00:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
-    "stream": ""
-  },
-  {
     "team1": "برايتون",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8a7d98ad8aad988d986-1.webp",
     "team2": "أستون فيلا",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -100,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -113,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -126,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -139,7 +126,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   },
   {
@@ -152,7 +139,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ١٢:٤٢:٥٧ ص",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
+    "stream": ""
+  },
+  {
+    "team1": "انتر ميامي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-2.webp",
+    "team2": "تورونتو",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aad988d8b1d988d986d8aad988.webp",
+    "time": "00:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٢:١٥:٢٤ ص",
     "stream": ""
   }
 ]

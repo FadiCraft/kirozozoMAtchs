@@ -1,18 +1,5 @@
 [
   {
-    "team1": "إلتشي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d984d8aad8b4d98a-1.webp",
-    "team2": "برشلونة",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9-3.webp",
-    "time": "20:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750898&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
-    "stream": ""
-  },
-  {
     "team1": "آرثر فيلس",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a2d8b1d8abd8b1-d981d98ad984d8b3.webp",
     "team2": "فرانسيس تيافو",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4821741&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -100,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -113,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -126,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -139,7 +126,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -150,9 +137,9 @@
     "time": "19:45",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732357&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   },
   {
@@ -163,9 +150,22 @@
     "time": "19:45",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4735292&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٢٧:٢١ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "إلتشي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d984d8aad8b4d98a-1.webp",
+    "team2": "برشلونة",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9-3.webp",
+    "time": "20:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750898&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٩:٥٠:٠٢ م",
     "stream": ""
   }
 ]

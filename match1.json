@@ -1,31 +1,5 @@
 [
   {
-    "team1": "تورينو",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aad988d8b1d98ad986d988.webp",
-    "team2": "ميلان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d98ad984d8a7d986-3.webp",
-    "time": "19:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732357&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "ستاد رين",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b3d8aad8a7d8af-d8b1d98ad986.webp",
-    "team2": "باريس سان جيرمان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-4.webp",
-    "time": "19:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4735292&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
-    "stream": ""
-  },
-  {
     "team1": "إلتشي",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d984d8aad8b4d98a-1.webp",
     "team2": "برشلونة",
@@ -35,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750898&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -43,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a2d8b1d8abd8b1-d981d98ad984d8b3.webp",
     "team2": "فرانسيس تيافو",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d8b1d8a7d986d8b3d98ad8b3-d8aad98ad8a7d981d988.webp",
-    "time": "21:30",
-    "status": "بعد قليل",
+    "time": "21:44",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4821741&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -61,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -74,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -87,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -100,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -113,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -126,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -139,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -152,7 +126,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   },
   {
@@ -165,7 +139,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٣٠:٣٦ م",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "تورينو",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aad988d8b1d98ad986d988.webp",
+    "team2": "ميلان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d98ad984d8a7d986-3.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732357&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "ستاد رين",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b3d8aad8a7d8af-d8b1d98ad986.webp",
+    "team2": "باريس سان جيرمان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-4.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4735292&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٨‏/٢٠٢٦، ٨:٥٤:٥٤ م",
     "stream": ""
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "team1": "أوساسونا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d8b3d8a7d8b3d988d986d8a7.webp",
-    "team2": "ليفانتي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8a7d986d8aad98a-1.webp",
-    "time": "18:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750893&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
-    "stream": ""
-  },
-  {
     "team1": "الاتحاد",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad8add8a7d8af-3.webp",
     "team2": "الحزم",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787497&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4732356&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4741721&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
     "stream": ""
   },
   {
@@ -56,12 +43,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d985d8a7d984d982d8a7-1.webp",
     "team2": "ديبورتيفو لاكورونيا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7-2.webp",
-    "time": "7:30 PM",
-    "status": "تبدأ قريباً  \n22m",
+    "time": "20:30",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750894&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
     "stream": ""
   },
   {
@@ -74,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٠٧:٠٦ م",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
+    "stream": ""
+  },
+  {
+    "team1": "أوساسونا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d8b3d8a7d8b3d988d986d8a7.webp",
+    "team2": "ليفانتي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d984d98ad981d8a7d986d8aad98a-1.webp",
+    "time": "18:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750893&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ٧:٤٤:٠٤ م",
     "stream": ""
   }
 ]

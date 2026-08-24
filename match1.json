@@ -1,18 +1,5 @@
 [
   {
-    "team1": "آرثر فيلس",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a2d8b1d8abd8b1-d981d98ad984d8b3.webp",
-    "team2": "فرانسيس تيافو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d981d8b1d8a7d986d8b3d98ad8b3-d8aad98ad8a7d981d988.webp",
-    "time": "21:44",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
-    "stream": ""
-  },
-  {
     "team1": "بولونيا",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d988d984d988d986d98ad8a7.webp",
     "team2": "لاتسيو",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   },
   {
@@ -46,9 +33,9 @@
     "time": "6:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787497&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:١٩:١٥ ص",
+    "LastTime": "٢٤‏/٨‏/٢٠٢٦، ١٠:٥٩:٣١ ص",
     "stream": ""
   }
 ]

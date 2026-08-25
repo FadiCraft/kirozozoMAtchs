@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الاتفاق",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad981d8a7d982.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-3.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4787543&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٠٠:٤٢ م",
-    "stream": ""
-  },
-  {
     "team1": "إبسويتش تاون",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a5d8a8d8b3d988d98ad8aad8b4-d8aad8a7d988d986-1.webp",
     "team2": "ليستر سيتي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4808213&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٠٠:٤٢ م",
+    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٤٠:٣٠ م",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4750523&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٠٠:٤٢ م",
+    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٤٠:٣٠ م",
     "stream": ""
   },
   {
@@ -48,7 +35,20 @@
     "league": "",
     "streamUrl": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4808222&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٠٠:٤٢ م",
+    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٤٠:٣٠ م",
+    "stream": ""
+  },
+  {
+    "team1": "الاتفاق",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a7d8aad981d8a7d982.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d986d8b5d8b1-3.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٨‏/٢٠٢٦، ٨:٤٠:٣٠ م",
     "stream": ""
   }
 ]

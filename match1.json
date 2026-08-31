@@ -5,11 +5,11 @@
     "team2": "روما",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d988d985d8a7-3.webp",
     "time": "17:30",
-    "status": "مباشر",
+    "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4732725&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣١‏/٨‏/٢٠٢٦، ٦:١٠:٢٤ م",
+    "LastTime": "٣١‏/٨‏/٢٠٢٦، ١٠:٥٣:٠٧ م",
     "stream": ""
   },
   {
@@ -18,11 +18,11 @@
     "team2": "خيتافي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8aed98ad8aad8a7d981d98a-2.webp",
     "time": "18:30",
-    "status": "مباشر",
+    "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4750885&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣١‏/٨‏/٢٠٢٦، ٦:١٠:٢٤ م",
+    "LastTime": "٣١‏/٨‏/٢٠٢٦، ١٠:٥٣:٠٧ م",
     "stream": ""
   },
   {
@@ -30,12 +30,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8b3d8aad988d986-d981d98ad984d8a7-3.webp",
     "team2": "أرسنال",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d8b1d8b3d986d8a7d984-6.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:00",
+    "status": "انتهت",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣١‏/٨‏/٢٠٢٦، ٦:١٠:٢٤ م",
+    "LastTime": "٣١‏/٨‏/٢٠٢٦، ١٠:٥٣:٠٧ م",
     "stream": ""
   },
   {
@@ -43,12 +43,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8b1d8b4d984d988d986d8a9-5.webp",
     "team2": "رايو فاييكانو",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8b1d8a7d98ad988-d981d8a7d98ad98ad983d8a7d986d988-2.webp",
-    "time": "7:30 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:30",
+    "status": "انتهت",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣١‏/٨‏/٢٠٢٦، ٦:١٠:٢٤ م",
+    "LastTime": "٣١‏/٨‏/٢٠٢٦، ١٠:٥٣:٠٧ م",
     "stream": ""
   }
 ]

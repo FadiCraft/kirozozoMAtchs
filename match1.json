@@ -1,28 +1,15 @@
 [
   {
-    "team1": "الهلال",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d987d984d8a7d984-5.webp",
-    "team2": "الأهلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d984d8a3d987d984d98a-8.webp",
-    "time": "19:00",
-    "status": "انتهت",
+    "team1": "أوسنابروك",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a3d988d8b3d986d8a7d8a8d8b1d988d983.webp",
+    "team2": "بايرن ميونخ",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d8a7d98ad8b1d986-d985d98ad988d986d8ae-6.webp",
+    "time": "6:45 PM",
+    "status": "لم تبدأ بعد",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١‏/٩‏/٢٠٢٦، ١٠:٠٥:٣٠ م",
-    "stream": ""
-  },
-  {
-    "team1": "اتش اي بي سي هامبورج",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a7d8aad8b4-d8a7d98a-d8a8d98a-d8b3d98a-d987d8a7d985d8a8d988d8b1d8ac.webp",
-    "team2": "بوروسيا دورتموند",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/08/d8a8d988d8b1d988d8b3d98ad8a7-d8afd988d8b1d8aad985d988d986d8af-4.webp",
-    "time": "19:45",
-    "status": "انتهت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١‏/٩‏/٢٠٢٦، ١٠:٠٥:٣٠ م",
+    "LastTime": "٢‏/٩‏/٢٠٢٦، ١٢:١١:١١ ص",
     "stream": ""
   }
 ]

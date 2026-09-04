@@ -1,41 +1,15 @@
 [
   {
-    "team1": "إيه إس بورت",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad987-d8a5d8b3-d8a8d988d8b1d8aa.webp",
-    "team2": "الزمالك",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b2d985d8a7d984d983.webp",
-    "time": "5:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
-    "stream": ""
-  },
-  {
     "team1": "الشباب",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b4d8a8d8a7d8a8.webp",
     "team2": "الهلال",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d987d984d8a7d984.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "19:00",
+    "status": "مباشر",
     "league": "",
     "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4788164&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
-    "stream": ""
-  },
-  {
-    "team1": "الأهلي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a3d987d984d98a-1.webp",
-    "team2": "الرياض",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b1d98ad8a7d8b6.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4788184&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
+    "LastTime": "٤‏/٩‏/٢٠٢٦، ٦:١٧:٠٦ م",
     "stream": ""
   },
   {
@@ -46,9 +20,9 @@
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4742075&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
+    "LastTime": "٤‏/٩‏/٢٠٢٦، ٦:١٧:٠٦ م",
     "stream": ""
   },
   {
@@ -59,9 +33,9 @@
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4750878&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
+    "LastTime": "٤‏/٩‏/٢٠٢٦، ٦:١٧:٠٦ م",
     "stream": ""
   },
   {
@@ -72,9 +46,9 @@
     "time": "7:05 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4735273&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/٩‏/٢٠٢٦، ٢:٥٦:٤٩ م",
+    "LastTime": "٤‏/٩‏/٢٠٢٦، ٦:١٧:٠٦ م",
     "stream": ""
   }
 ]

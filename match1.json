@@ -1,44 +1,5 @@
 [
   {
-    "team1": "يوفنتوس",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d98ad988d981d986d8aad988d8b3.webp",
-    "team2": "ميلان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d985d98ad984d8a7d986.webp",
-    "time": "19:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4732714&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "أولمبيك مارسيليا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d988d984d985d8a8d98ad983-d985d8a7d8b1d8b3d98ad984d98ad8a7.webp",
-    "team2": "باريس أف.سي.",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d8a7d8b1d98ad8b3-d8a3d981-d8b3d98a.webp",
-    "time": "19:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4735276&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "إسبانيول",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8b3d8a8d8a7d986d98ad988d984.webp",
-    "team2": "إشبيلية",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8b4d8a8d98ad984d98ad8a9.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4750876&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
-    "stream": ""
-  },
-  {
     "team1": "إيفرتون",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad981d8b1d8aad988d986.webp",
     "team2": "مانشستر يونايتد",
@@ -48,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
     "stream": ""
   },
   {
@@ -61,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
     "stream": ""
   },
   {
@@ -74,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
     "stream": ""
   },
   {
@@ -87,7 +48,46 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٦‏/٩‏/٢٠٢٦، ٧:٠٨:٥٤ م",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "يوفنتوس",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d98ad988d981d986d8aad988d8b3.webp",
+    "team2": "ميلان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d985d98ad984d8a7d986.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4732714&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "أولمبيك مارسيليا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d988d984d985d8a8d98ad983-d985d8a7d8b1d8b3d98ad984d98ad8a7.webp",
+    "team2": "باريس أف.سي.",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d8a7d8b1d98ad8b3-d8a3d981-d8b3d98a.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4735276&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "إسبانيول",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8b3d8a8d8a7d986d98ad988d984.webp",
+    "team2": "إشبيلية",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8b4d8a8d98ad984d98ad8a9.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4750876&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/٩‏/٢٠٢٦، ٩:٢١:٤٣ م",
     "stream": ""
   }
 ]

@@ -1,83 +1,5 @@
 [
   {
-    "team1": "النصر",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d986d8b5d8b1-1.webp",
-    "team2": "أبها",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d8a8d987d8a7.webp",
-    "time": "19:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4788292&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "تشيلسي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b4d98ad984d8b3d98a-1.webp",
-    "team2": "ليدز يونايتد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d984d98ad8afd8b2-d98ad988d986d8a7d98ad8aad8af-1.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4827288&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "باريس سان جيرمان",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-1.webp",
-    "team2": "سلوفان براتيسلافا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b3d984d988d981d8a7d986-d8a8d8b1d8a7d8aad98ad8b3d984d8a7d981d8a7.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828491&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "نابولي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d986d8a7d8a8d988d984d98a-1.webp",
-    "team2": "أرسنال",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d8b1d8b3d986d8a7d984-1.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828492&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "ليفربول",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d984d98ad981d8b1d8a8d988d984-1.webp",
-    "team2": "أتلتيكو مدريد",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-1.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828493&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
-    "team1": "سبورتنج لشبونة",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b3d8a8d988d8b1d8aad986d8ac-d984d8b4d8a8d988d986d8a9.webp",
-    "team2": "غلطة سراي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8bad984d8b7d8a9-d8b3d8b1d8a7d98a.webp",
-    "time": "20:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828494&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": ""
-  },
-  {
     "team1": "شيكاغو فاير",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b4d98ad983d8a7d8bad988-d981d8a7d98ad8b1.webp",
     "team2": "انتر ميامي",
@@ -87,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
     "stream": ""
   },
   {
@@ -98,9 +20,9 @@
     "time": "17:45",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828495&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
     "stream": ""
   },
   {
@@ -111,9 +33,9 @@
     "time": "17:45",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828496&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
     "stream": ""
   },
   {
@@ -124,9 +46,74 @@
     "time": "18:00",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4804667&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٩‏/٩‏/٢٠٢٦، ٧:٢٩:٣٥ م",
-    "stream": "https://fastly.live.brightcove.com/6386122937112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYxMjI5MzcxMTIifQ.HPPHHVyUxLnEyCqaO6AP7j1iCOBrMGE-zTe-7mV1-24/playlist-hls.m3u8"
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "تشيلسي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b4d98ad984d8b3d98a-1.webp",
+    "team2": "ليدز يونايتد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d984d98ad8afd8b2-d98ad988d986d8a7d98ad8aad8af-1.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "باريس سان جيرمان",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-1.webp",
+    "team2": "سلوفان براتيسلافا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b3d984d988d981d8a7d986-d8a8d8b1d8a7d8aad98ad8b3d984d8a7d981d8a7.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "نابولي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d986d8a7d8a8d988d984d98a-1.webp",
+    "team2": "أرسنال",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d8b1d8b3d986d8a7d984-1.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "ليفربول",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d984d98ad981d8b1d8a8d988d984-1.webp",
+    "team2": "أتلتيكو مدريد",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d8aad984d8aad98ad983d988-d985d8afd8b1d98ad8af-1.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "سبورتنج لشبونة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b3d8a8d988d8b1d8aad986d8ac-d984d8b4d8a8d988d986d8a9.webp",
+    "team2": "غلطة سراي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8bad984d8b7d8a9-d8b3d8b1d8a7d98a.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٩‏/٩‏/٢٠٢٦، ٩:٥٥:٥٦ م",
+    "stream": ""
   }
 ]

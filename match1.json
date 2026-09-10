@@ -1,18 +1,5 @@
 [
   {
-    "team1": "شيكاغو فاير",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b4d98ad983d8a7d8bad988-d981d8a7d98ad8b1.webp",
-    "team2": "انتر ميامي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-1.webp",
-    "time": "12:30 AM",
-    "status": "تبدأ قريباً  \n28m",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
-    "stream": ""
-  },
-  {
     "team1": "فنربخشة",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d981d986d8b1d8a8d8aed8b4d8a9.webp",
     "team2": "روما",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   },
   {
@@ -87,7 +74,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٠‏/٩‏/٢٠٢٦، ١٢:٠١:٥٤ ص",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
+    "stream": ""
+  },
+  {
+    "team1": "شيكاغو فاير",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b4d98ad983d8a7d8bad988-d981d8a7d98ad8b1.webp",
+    "team2": "انتر ميامي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-1.webp",
+    "time": "01:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٠‏/٩‏/٢٠٢٦، ٤:٣٨:١٠ ص",
     "stream": ""
   }
 ]

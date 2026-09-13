@@ -1,18 +1,5 @@
 [
   {
-    "team1": "انتر ميامي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-2.webp",
-    "team2": "ناشفيل",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d986d8a7d8b4d981d98ad984.webp",
-    "time": "00:30",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
-    "stream": ""
-  },
-  {
     "team1": "سيلتا فيجو",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b3d98ad984d8aad8a7-d981d98ad8acd988-2.webp",
     "team2": "مالقا",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -100,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -113,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -126,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   },
   {
@@ -139,7 +126,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/٩‏/٢٠٢٦، ١٢:٤٧:٤٩ ص",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "انتر ميامي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-2.webp",
+    "team2": "ناشفيل",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d986d8a7d8b4d981d98ad984.webp",
+    "time": "00:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٣‏/٩‏/٢٠٢٦، ٥:٢٦:٢٦ ص",
     "stream": ""
   }
 ]

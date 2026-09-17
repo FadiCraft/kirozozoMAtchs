@@ -1,18 +1,5 @@
 [
   {
-    "team1": "انتر ميامي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-3.webp",
-    "team2": "كروز أزول",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d983d8b1d988d8b2-d8a3d8b2d988d984.webp",
-    "time": "01:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
-    "stream": ""
-  },
-  {
     "team1": "ريال بيتيس",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b1d98ad8a7d984-d8a8d98ad8aad98ad8b3-3.webp",
     "team2": "خيتافي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   },
   {
@@ -100,7 +87,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٧‏/٩‏/٢٠٢٦، ١:١٥:١٢ ص",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
+    "stream": ""
+  },
+  {
+    "team1": "انتر ميامي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d986d8aad8b1-d985d98ad8a7d985d98a-3.webp",
+    "team2": "كروز أزول",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d983d8b1d988d8b2-d8a3d8b2d988d984.webp",
+    "time": "01:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٧‏/٩‏/٢٠٢٦، ٦:١٢:٤٨ ص",
     "stream": ""
   }
 ]

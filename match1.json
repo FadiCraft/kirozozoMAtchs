@@ -1,18 +1,5 @@
 [
   {
-    "team1": "السعودية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b3d8b9d988d8afd98ad8a9.webp",
-    "team2": "الكويت",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d983d988d98ad8aa.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٩‏/٢٠٢٦، ٥:٠٤:١٧ م",
-    "stream": ""
-  },
-  {
     "team1": "العراق",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b9d8b1d8a7d982.webp",
     "team2": "عمان",
@@ -22,7 +9,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/٩‏/٢٠٢٦، ٥:٠٤:١٧ م",
+    "LastTime": "٢٣‏/٩‏/٢٠٢٦، ٨:١٩:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "السعودية",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b3d8b9d988d8afd98ad8a9.webp",
+    "team2": "الكويت",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d983d988d98ad8aa.webp",
+    "time": "19:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4716563&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/٩‏/٢٠٢٦، ٨:١٩:٤٢ م",
     "stream": ""
   }
 ]

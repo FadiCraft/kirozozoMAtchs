@@ -1,44 +1,5 @@
 [
   {
-    "team1": "الإمارات",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a5d985d8a7d8b1d8a7d8aa.webp",
-    "team2": "اليمن",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d98ad985d986.webp",
-    "time": "3:55 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "أندورا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d986d8afd988d8b1d8a7.webp",
-    "team2": "مالطا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d985d8a7d984d8b7d8a7.webp",
-    "time": "4:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "الجيش الملكي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8acd98ad8b4-d8a7d984d985d984d983d98a.webp",
-    "team2": "الرجاء البيضاوي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b1d8acd8a7d8a1-d8a7d984d8a8d98ad8b6d8a7d988d98a.webp",
-    "time": "18:00",
-    "status": "تأجلت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
-    "stream": ""
-  },
-  {
     "team1": "قطر",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d982d8b7d8b1.webp",
     "team2": "البحرين",
@@ -48,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   },
   {
@@ -61,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   },
   {
@@ -74,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   },
   {
@@ -87,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   },
   {
@@ -100,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   },
   {
@@ -113,7 +74,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ١٢:١٣:٤٦ م",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "كوت ديفوار",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d983d988d8aa-d8afd98ad981d988d8a7d8b1.webp",
+    "team2": "غانا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8bad8a7d986d8a7.webp",
+    "time": "7:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "إتحاد أمل تيزنيت",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8aad8add8a7d8af-d8a3d985d984-d8aad98ad8b2d986d98ad8aa.webp",
+    "team2": "اتحاد طنجة",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d8aad8add8a7d8af-d8b7d986d8acd8a9.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٤‏/٩‏/٢٠٢٦، ٥:٢٠:٤٥ م",
     "stream": ""
   }
 ]

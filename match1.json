@@ -1,70 +1,5 @@
 [
   {
-    "team1": "إيطاليا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad8b7d8a7d984d98ad8a7.webp",
-    "team2": "بلجيكا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d984d8acd98ad983d8a7.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
-    "stream": ""
-  },
-  {
-    "team1": "تركيا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b1d983d98ad8a7.webp",
-    "team2": "فرنسا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d981d8b1d986d8b3d8a7.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
-    "stream": ""
-  },
-  {
-    "team1": "مصر",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d985d8b5d8b1.webp",
-    "team2": "أنجولا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d986d8acd988d984d8a7.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
-    "stream": ""
-  },
-  {
-    "team1": "الجزائر",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8acd8b2d8a7d8a6d8b1.webp",
-    "team2": "زامبيا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b2d8a7d985d8a8d98ad8a7.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
-    "stream": ""
-  },
-  {
-    "team1": "المغرب",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d985d8bad8b1d8a8.webp",
-    "team2": "الجابون",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8acd8a7d8a8d988d986.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
-    "stream": ""
-  },
-  {
     "team1": "إتحاد أمل تيزنيت",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d8aad8add8a7d8af-d8a3d985d984-d8aad98ad8b2d986d98ad8aa.webp",
     "team2": "اتحاد طنجة",
@@ -74,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
     "stream": ""
   },
   {
@@ -87,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
     "stream": ""
   },
   {
@@ -100,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
     "stream": ""
   },
   {
@@ -113,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
     "stream": ""
   },
   {
@@ -124,9 +59,74 @@
     "time": "17:00",
     "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4847460&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٥:٥٤:٢٧ م",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "إيطاليا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad8b7d8a7d984d98ad8a7.webp",
+    "team2": "بلجيكا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d984d8acd98ad983d8a7.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4672065&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "تركيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b1d983d98ad8a7.webp",
+    "team2": "فرنسا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d981d8b1d986d8b3d8a7.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4672066&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "مصر",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d985d8b5d8b1.webp",
+    "team2": "أنجولا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a3d986d8acd988d984d8a7.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4716604&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "الجزائر",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8acd8b2d8a7d8a6d8b1.webp",
+    "team2": "زامبيا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8b2d8a7d985d8a8d98ad8a7.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4722674&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
+    "stream": ""
+  },
+  {
+    "team1": "المغرب",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d985d8bad8b1d8a8.webp",
+    "team2": "الجابون",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8acd8a7d8a8d988d986.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4847461&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٥‏/٩‏/٢٠٢٦، ٩:٢٤:٤٢ م",
     "stream": ""
   }
 ]

@@ -1,57 +1,5 @@
 [
   {
-    "team1": "تركيا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b1d983d98ad8a7-1.webp",
-    "team2": "إيطاليا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad8b7d8a7d984d98ad8a7-1.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٤:٠٥:٥٩ م",
-    "stream": ""
-  },
-  {
-    "team1": "بلجيكا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d984d8acd98ad983d8a7-1.webp",
-    "team2": "فرنسا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d981d8b1d986d8b3d8a7-1.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٤:٠٥:٥٩ م",
-    "stream": ""
-  },
-  {
-    "team1": "السويد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8b3d988d98ad8af.webp",
-    "team2": "بولندا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d988d984d986d8afd8a7.webp",
-    "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٤:٠٥:٥٩ م",
-    "stream": ""
-  },
-  {
-    "team1": "بوتسوانا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d988d8aad8b3d988d8a7d986d8a7.webp",
-    "team2": "تونس",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad988d986d8b3-1.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٤:٠٥:٥٩ م",
-    "stream": ""
-  },
-  {
     "team1": "الكوكب المراكشي",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d983d988d983d8a8-d8a7d984d985d8b1d8a7d983d8b4d98a.webp",
     "team2": "حسنية أكادير",
@@ -61,7 +9,46 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٤:٠٥:٥٩ م",
+    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٩:٥٨:٤٩ م",
+    "stream": ""
+  },
+  {
+    "team1": "تركيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad8b1d983d98ad8a7-1.webp",
+    "team2": "إيطاليا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a5d98ad8b7d8a7d984d98ad8a7-1.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٩:٥٨:٤٩ م",
+    "stream": ""
+  },
+  {
+    "team1": "بلجيكا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d984d8acd98ad983d8a7-1.webp",
+    "team2": "فرنسا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d981d8b1d986d8b3d8a7-1.webp",
+    "time": "19:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٩:٥٨:٤٩ م",
+    "stream": ""
+  },
+  {
+    "team1": "تونس",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8aad988d986d8b3-2.webp",
+    "team2": "بوتسوانا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d988d8aad8b3d988d8a7d986d8a7-1.webp",
+    "time": "20:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٨‏/٩‏/٢٠٢٦، ٩:٥٨:٤٩ م",
     "stream": ""
   }
 ]

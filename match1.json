@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الإمارات",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a5d985d8a7d8b1d8a7d8aa-2.webp",
-    "team2": "قطر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d982d8b7d8b1-2.webp",
-    "time": "5:30 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ٣:٢٤:٠٤ م",
-    "stream": ""
-  },
-  {
     "team1": "الأرجنتين",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a3d8b1d8acd986d8aad98ad986.webp",
     "team2": "بوليفيا",
@@ -22,7 +9,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ٣:٢٤:٠٤ م",
+    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ٨:١٥:١٨ م",
+    "stream": ""
+  },
+  {
+    "team1": "الإمارات",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a5d985d8a7d8b1d8a7d8aa-2.webp",
+    "team2": "قطر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d982d8b7d8b1-2.webp",
+    "time": "18:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ٨:١٥:١٨ م",
     "stream": ""
   }
 ]

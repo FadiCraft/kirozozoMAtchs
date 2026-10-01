@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a3d8b1d8acd986d8aad98ad986.webp",
-    "team2": "بوليفيا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d988d984d98ad981d98ad8a7.webp",
-    "time": "12:00 AM",
-    "status": "تبدأ قريباً  \n1m",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4856702&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
-    "stream": ""
-  },
-  {
     "team1": "اسرائيل",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d8b3d8b1d8a7d8a6d98ad984-1.webp",
     "team2": "كوسوفو",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
     "stream": ""
   },
   {
@@ -74,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/٩‏/٢٠٢٦، ١١:٥٨:١٢ م",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
+    "stream": ""
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a7d984d8a3d8b1d8acd986d8aad98ad986.webp",
+    "team2": "بوليفيا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/09/d8a8d988d984d98ad981d98ad8a7.webp",
+    "time": "01:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١‏/١٠‏/٢٠٢٦، ٥:٣٨:٥٩ ص",
     "stream": ""
   }
 ]

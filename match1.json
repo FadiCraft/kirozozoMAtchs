@@ -1,28 +1,15 @@
 [
   {
-    "team1": "كوسوفو",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d988d8b3d988d981d988.webp",
-    "team2": "النمسا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d985d8b3d8a7.webp",
-    "time": "4:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
-    "stream": ""
-  },
-  {
     "team1": "مصر",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d8b5d8b1.webp",
     "team2": "جنوب أفريقيا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8acd986d988d8a8-d8a3d981d8b1d98ad982d98ad8a7.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "19:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4845445&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -30,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d985d8bad8b1d8a8.webp",
     "team2": "مالي",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d8a7d984d98a.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "19:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4867550&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -44,11 +31,11 @@
     "team2": "اسرائيل",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d8b3d8b1d8a7d8a6d98ad984.webp",
     "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n25m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -57,11 +44,11 @@
     "team2": "النرويج",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d8b1d988d98ad8ac.webp",
     "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n25m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -70,11 +57,11 @@
     "team2": "صربيا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b5d8b1d8a8d98ad8a7.webp",
     "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n25m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -83,11 +70,11 @@
     "team2": "ألمانيا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d984d985d8a7d986d98ad8a7.webp",
     "time": "6:45 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n25m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -100,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   },
   {
@@ -113,7 +100,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٢:٢٧:٠٩ م",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
+    "stream": ""
+  },
+  {
+    "team1": "كوسوفو",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d988d8b3d988d981d988.webp",
+    "team2": "النمسا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d985d8b3d8a7.webp",
+    "time": "17:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4672331&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٤‏/١٠‏/٢٠٢٦، ٦:١٩:٤١ م",
     "stream": ""
   }
 ]

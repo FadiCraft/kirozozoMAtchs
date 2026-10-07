@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d8b1d8acd986d8aad98ad986-1.webp",
-    "team2": "بنين",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d986d98ad986.webp",
-    "time": "00:00",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4856705&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١٢:٠٨:٣٠ ص",
-    "stream": ""
-  },
-  {
     "team1": "بترول اسيوط",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d8aad8b1d988d984-d8a7d8b3d98ad988d8b7.webp",
     "team2": "الأهلي",
@@ -22,7 +9,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١٢:٠٨:٣٠ ص",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ٦:٠١:٠٦ ص",
     "stream": ""
   },
   {
@@ -35,7 +22,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١٢:٠٨:٣٠ ص",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ٦:٠١:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "الأرجنتين",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d8b1d8acd986d8aad98ad986-1.webp",
+    "team2": "بنين",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d986d98ad986.webp",
+    "time": "00:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ٦:٠١:٠٦ ص",
     "stream": ""
   }
 ]

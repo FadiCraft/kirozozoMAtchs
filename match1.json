@@ -1,15 +1,54 @@
 [
   {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d8b1d8acd986d8aad98ad986-1.webp",
-    "team2": "بنين",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d986d98ad986.webp",
-    "time": "00:00",
-    "status": "انتهت",
+    "team1": "اتحاد تواركة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d8aad8add8a7d8af-d8aad988d8a7d8b1d983d8a9-1.webp",
+    "team2": "نهضة بركان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d986d987d8b6d8a9-d8a8d8b1d983d8a7d986-1.webp",
+    "time": "4:00 PM",
+    "status": "لم تبدأ بعد",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٧‏/١٠‏/٢٠٢٦، ٧:٢٤:٣١ م",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١١:٤٣:٢٠ م",
+    "stream": ""
+  },
+  {
+    "team1": "نهضة الزمامرة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d986d987d8b6d8a9-d8a7d984d8b2d985d8a7d985d8b1d8a9-1.webp",
+    "team2": "حسنية أكادير",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8add8b3d986d98ad8a9-d8a3d983d8a7d8afd98ad8b1-1.webp",
+    "time": "6:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١١:٤٣:٢٠ م",
+    "stream": ""
+  },
+  {
+    "team1": "الجيش الملكي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8acd98ad8b4-d8a7d984d985d984d983d98a-1.webp",
+    "team2": "الوداد الرياضي تمارة",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d988d8afd8a7d8af-d8a7d984d8b1d98ad8a7d8b6d98a-d8aad985d8a7d8b1d8a9-1.webp",
+    "time": "6:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١١:٤٣:٢٠ م",
+    "stream": ""
+  },
+  {
+    "team1": "المغرب الفاسي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d985d8bad8b1d8a8-d8a7d984d981d8a7d8b3d98a-1.webp",
+    "team2": "الرجاء البيضاوي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8b1d8acd8a7d8a1-d8a7d984d8a8d98ad8b6d8a7d988d98a-1.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٧‏/١٠‏/٢٠٢٦، ١١:٤٣:٢٠ م",
     "stream": ""
   }
 ]

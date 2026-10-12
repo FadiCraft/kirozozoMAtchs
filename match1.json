@@ -1,41 +1,15 @@
 [
   {
-    "team1": "الوصل",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d988d8b5d984.webp",
-    "team2": "الأهلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d987d984d98a-3.webp",
-    "time": "4:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
-    "stream": ""
-  },
-  {
-    "team1": "القوة الجوية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d982d988d8a9-d8a7d984d8acd988d98ad8a9.webp",
-    "team2": "العين",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8b9d98ad986.webp",
-    "time": "6:15 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
-    "stream": ""
-  },
-  {
     "team1": "النصر",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d8b5d8b1-1.webp",
     "team2": "نيفتشي فرغانة",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d986d98ad981d8aad8b4d98a-d981d8b1d8bad8a7d986d8a9.webp",
     "time": "6:15 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n23m",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4817270&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   },
   {
@@ -48,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   },
   {
@@ -61,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   },
   {
@@ -74,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   },
   {
@@ -87,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   },
   {
@@ -100,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٨:٠٢:٠٦ ص",
+    "LastTime": "١٢‏/١٠‏/٢٠٢٦، ٥:٥١:٤٨ م",
     "stream": ""
   }
 ]

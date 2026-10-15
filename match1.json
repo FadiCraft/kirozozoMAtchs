@@ -1,54 +1,15 @@
 [
   {
-    "team1": "أولمبيك ليون",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d988d984d985d8a8d98ad983-d984d98ad988d986-1.webp",
-    "team2": "كريستال بالاس",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d8b1d98ad8b3d8aad8a7d984-d8a8d8a7d984d8a7d8b3-1.webp",
-    "time": "4:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
-    "stream": ""
-  },
-  {
-    "team1": "ريد بول سالزبورغ",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b1d98ad8af-d8a8d988d984-d8b3d8a7d984d8b2d8a8d988d8b1d8ba.webp",
-    "team2": "ميلان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d98ad984d8a7d986-1.webp",
-    "time": "4:45 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
-    "stream": ""
-  },
-  {
-    "team1": "الأهلي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d987d984d98a-4.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d8b5d8b1-2.webp",
-    "time": "19:00",
-    "status": "تأجلت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
-    "stream": ""
-  },
-  {
     "team1": "أولمبيك مارسيليا",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d988d984d985d8a8d98ad983-d985d8a7d8b1d8b3d98ad984d98ad8a7.webp",
     "team2": "أولمبياكوس",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d988d984d985d8a8d98ad8a7d983d988d8b3.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828730&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
+    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٧:٠٣:١٦ م",
     "stream": ""
   },
   {
@@ -56,25 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d98ad984d8aad8a7-d981d98ad8acd988-1.webp",
     "team2": "يوفنتوس",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d98ad988d981d986d8aad988d8b3-1.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828731&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
-    "stream": ""
-  },
-  {
-    "team1": "بنفيكا",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d986d981d98ad983d8a7.webp",
-    "team2": "سيلتيك",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d98ad984d8aad98ad983.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
+    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٧:٠٣:١٦ م",
     "stream": ""
   },
   {
@@ -87,7 +35,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٢:٥٩:١٨ م",
+    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٧:٠٣:١٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "أولمبيك ليون",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d988d984d985d8a8d98ad983-d984d98ad988d986-1.webp",
+    "team2": "كريستال بالاس",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d8b1d98ad8b3d8aad8a7d984-d8a8d8a7d984d8a7d8b3-1.webp",
+    "time": "17:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828743&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٧:٠٣:١٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "ريد بول سالزبورغ",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b1d98ad8af-d8a8d988d984-d8b3d8a7d984d8b2d8a8d988d8b1d8ba.webp",
+    "team2": "ميلان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d98ad984d8a7d986-1.webp",
+    "time": "17:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828746&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٥‏/١٠‏/٢٠٢٦، ٧:٠٣:١٦ م",
     "stream": ""
   }
 ]

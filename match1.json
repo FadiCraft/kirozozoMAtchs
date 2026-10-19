@@ -1,18 +1,5 @@
 [
   {
-    "team1": "الفيحاء",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d981d98ad8add8a7d8a1.webp",
-    "team2": "الأهلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d987d984d98a-6.webp",
-    "time": "3:05 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ١٠:٥٦:١٧ ص",
-    "stream": ""
-  },
-  {
     "team1": "الهلال",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d987d984d8a7d984-3.webp",
     "team2": "الحزم",
@@ -20,9 +7,9 @@
     "time": "6:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789451&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ١٠:٥٦:١٧ ص",
+    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ٥:٢٥:٠٣ م",
     "stream": ""
   },
   {
@@ -33,9 +20,9 @@
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4742032&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ١٠:٥٦:١٧ ص",
+    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ٥:٢٥:٠٣ م",
     "stream": ""
   },
   {
@@ -46,9 +33,9 @@
     "time": "7:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4750826&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ١٠:٥٦:١٧ ص",
+    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ٥:٢٥:٠٣ م",
     "stream": ""
   },
   {
@@ -61,7 +48,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ١٠:٥٦:١٧ ص",
+    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ٥:٢٥:٠٣ م",
+    "stream": ""
+  },
+  {
+    "team1": "الفيحاء",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d981d98ad8add8a7d8a1.webp",
+    "team2": "الأهلي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d987d984d98a-6.webp",
+    "time": "16:05",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789452&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٩‏/١٠‏/٢٠٢٦، ٥:٢٥:٠٣ م",
     "stream": ""
   }
 ]

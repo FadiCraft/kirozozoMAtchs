@@ -1,15 +1,41 @@
 [
   {
+    "team1": "بورنموث",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d988d8b1d986d985d988d8ab-2.webp",
+    "team2": "ميلان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d98ad984d8a7d986-3.webp",
+    "time": "20:00",
+    "status": "مباشر",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4828713&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٨:٢٧ م",
+    "stream": ""
+  },
+  {
+    "team1": "بشكتاش",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d8b4d983d8aad8a7d8b4.webp",
+    "team2": "كريستال بالاس",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d8b1d98ad8b3d8aad8a7d984-d8a8d8a7d984d8a7d8b3-3.webp",
+    "time": "20:00",
+    "status": "مباشر",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4828716&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٨:٢٧ م",
+    "stream": ""
+  },
+  {
     "team1": "شتورم غراتس",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b4d8aad988d8b1d985-d8bad8b1d8a7d8aad8b3.webp",
     "team2": "أولمبيك مارسيليا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a3d988d984d985d8a8d98ad983-d985d8a7d8b1d8b3d98ad984d98ad8a7-1.webp",
     "time": "17:45",
-    "status": "مباشر",
+    "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828723&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
+    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -18,11 +44,11 @@
     "team2": "سندرلاند",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d986d8afd8b1d984d8a7d986d8af-2.webp",
     "time": "17:45",
-    "status": "مباشر",
+    "status": "انتهت",
     "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828724&key=9f39972b67d6ce22189507d008acwc26",
+    "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
+    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -31,50 +57,11 @@
     "team2": "ستاد رين",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d8aad8a7d8af-d8b1d98ad986.webp",
     "time": "17:45",
-    "status": "مباشر",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828725&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "بورنموث",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d988d8b1d986d985d988d8ab-2.webp",
-    "team2": "ميلان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d985d98ad984d8a7d986-3.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "انتهت",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "بشكتاش",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d8b4d983d8aad8a7d8b4.webp",
-    "team2": "كريستال بالاس",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d983d8b1d98ad8b3d8aad8a7d984-d8a8d8a7d984d8a7d8b3-3.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
-    "stream": ""
-  },
-  {
-    "team1": "سيلتيك",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d98ad984d8aad98ad983-1.webp",
-    "team2": "سيلتا فيجو",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8b3d98ad984d8aad8a7-d981d98ad8acd988-3.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٥:٣٢:٣٦ م",
+    "LastTime": "٢٢‏/١٠‏/٢٠٢٦، ٨:٤٨:٢٧ م",
     "stream": ""
   }
 ]

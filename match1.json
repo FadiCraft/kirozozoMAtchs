@@ -1,41 +1,15 @@
 [
   {
-    "team1": "الفيصلي",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d981d98ad8b5d984d98a.webp",
-    "team2": "النصر",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d8b5d8b1-4.webp",
-    "time": "1:30 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
-    "stream": ""
-  },
-  {
-    "team1": "الاتحاد",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a7d8aad8add8a7d8af-3.webp",
-    "team2": "الدرعية",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
-    "time": "3:30 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
-    "stream": ""
-  },
-  {
     "team1": "القادسية",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d982d8a7d8afd8b3d98ad8a9.webp",
     "team2": "الهلال",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d987d984d8a7d984-4.webp",
     "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
+    "status": "تبدأ قريباً  \n25m",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
     "stream": ""
   },
   {
@@ -48,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
     "stream": ""
   },
   {
@@ -61,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
     "stream": ""
   },
   {
@@ -74,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
     "stream": ""
   },
   {
@@ -87,7 +61,33 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ١٢:٤٩:١٧ م",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "الفيصلي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d981d98ad8b5d984d98a.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d986d8b5d8b1-4.webp",
+    "time": "14:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "الاتحاد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a7d8aad8add8a7d8af-3.webp",
+    "team2": "الدرعية",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8afd8b1d8b9d98ad8a9-1.webp",
+    "time": "16:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4789443&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢٣‏/١٠‏/٢٠٢٦، ٥:٣٤:١٦ م",
     "stream": ""
   }
 ]

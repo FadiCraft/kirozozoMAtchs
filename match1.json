@@ -1,41 +1,15 @@
 [
   {
-    "team1": "لو آفر",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d984d988-d8a2d981d8b1.webp",
-    "team2": "باريس سان جيرمان",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-5.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٥:١٠:٣٤ م",
-    "stream": ""
-  },
-  {
-    "team1": "الشباب",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8b4d8a8d8a7d8a8-1.webp",
-    "team2": "الأهلي",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8a3d987d984d98a-11.webp",
-    "time": "6:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٥:١٠:٣٤ م",
-    "stream": ""
-  },
-  {
     "team1": "فياريال",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d981d98ad8a7d8b1d98ad8a7d984-5.webp",
     "team2": "إسبانيول",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a5d8b3d8a8d8a7d986d98ad988d984-3.webp",
-    "time": "8:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "21:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4750802&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٥:١٠:٣٤ م",
+    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٩:٣٦:٢٢ م",
     "stream": ""
   },
   {
@@ -43,12 +17,25 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d984d8afd981d8a7d8b9-d8a7d984d8add8b3d986d98a-d8a7d984d8acd8afd98ad8afd98a-4.webp",
     "team2": "اتحاد تواركة",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a7d8aad8add8a7d8af-d8aad988d8a7d8b1d983d8a9-4.webp",
-    "time": "8:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "21:00",
+    "status": "مباشر",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4882504&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٩:٣٦:٢٢ م",
+    "stream": "https://jqyjghfms1mu8zcd1.live--koora.com/snrt/73_arryadia_k2tgcj0.m3u8"
+  },
+  {
+    "team1": "لو آفر",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d984d988-d8a2d981d8b1.webp",
+    "team2": "باريس سان جيرمان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d8a8d8a7d8b1d98ad8b3-d8b3d8a7d986-d8acd98ad8b1d985d8a7d986-5.webp",
+    "time": "19:00",
+    "status": "انتهت",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٥:١٠:٣٤ م",
+    "LastTime": "٣٠‏/١٠‏/٢٠٢٦، ٩:٣٦:٢٢ م",
     "stream": ""
   }
 ]

@@ -1,5 +1,57 @@
 [
   {
+    "team1": "الأهلي",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a3d987d984d98a-1.webp",
+    "team2": "المقاولون العرب",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d985d982d8a7d988d984d988d986-d8a7d984d8b9d8b1d8a8.webp",
+    "time": "19:00",
+    "status": "مباشر",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4883430&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": "https://fastly.live.brightcove.com/6403055025112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjY0MDMwNTUwMjUxMTIifQ.Csg7lrJRiTyrEmve4yHdrm4fs715JRMK6TTz7YvCg1c/playlist-hls.m3u8"
+  },
+  {
+    "team1": "الاتحاد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a7d8aad8add8a7d8af.webp",
+    "team2": "العين",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b9d98ad986.webp",
+    "time": "19:15",
+    "status": "مباشر",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4818318&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "نيوكاسل يونايتد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d986d98ad988d983d8a7d8b3d984-d98ad988d986d8a7d98ad8aad8af.webp",
+    "team2": "إيفرتون",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d98ad981d8b1d8aad988d986.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "ديبورتيفو لاكورونيا",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8afd98ad8a8d988d8b1d8aad98ad981d988-d984d8a7d983d988d8b1d988d986d98ad8a7.webp",
+    "team2": "أوساسونا",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a3d988d8b3d8a7d8b3d988d986d8a7.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
     "team1": "نهضة بركان",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/10/d986d987d8b6d8a9-d8a8d8b1d983d8a7d986-5.webp",
     "team2": "الرجاء البيضاوي",
@@ -9,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢‏/١١‏/٢٠٢٦، ٨:٢٤:٣٢ ص",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
     "stream": ""
   },
   {
@@ -22,7 +74,46 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢‏/١١‏/٢٠٢٦، ٨:٢٤:٣٢ ص",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "باختاكور",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a8d8a7d8aed8aad8a7d983d988d8b1.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b5d8b1.webp",
+    "time": "14:45",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "وادي دجلة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d988d8a7d8afd98a-d8afd8acd984d8a9.webp",
+    "team2": "الزمالك",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b2d985d8a7d984d983.webp",
+    "time": "16:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
+    "stream": ""
+  },
+  {
+    "team1": "السد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b3d8af.webp",
+    "team2": "الأهلي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a3d987d984d98a.webp",
+    "time": "17:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٢‏/١١‏/٢٠٢٦، ٦:٤٥:٠٥ م",
     "stream": ""
   }
 ]

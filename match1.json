@@ -1,5 +1,83 @@
 [
   {
+    "team1": "الحزم",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8add8b2d985.webp",
+    "team2": "النصر",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b5d8b1-1.webp",
+    "time": "18:00",
+    "status": "تأجلت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "الاتحاد",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a7d8aad8add8a7d8af-1.webp",
+    "team2": "نيوم",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d986d98ad988d985.webp",
+    "time": "18:00",
+    "status": "تأجلت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "حسنية أكادير",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8add8b3d986d98ad8a9-d8a3d983d8a7d8afd98ad8b1.webp",
+    "team2": "نهضة بركان",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d986d987d8b6d8a9-d8a8d8b1d983d8a7d986.webp",
+    "time": "6:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "إيفرتون",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d98ad981d8b1d8aad988d986-1.webp",
+    "team2": "كوفنتري سيتي",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d983d988d981d986d8aad8b1d98a-d8b3d98ad8aad98a.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "إشبيلية",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d8b4d8a8d98ad984d98ad8a9.webp",
+    "team2": "ألافيس",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a3d984d8a7d981d98ad8b3.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
+    "team1": "اتحاد تواركة",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d8aad8add8a7d8af-d8aad988d8a7d8b1d983d8a9.webp",
+    "team2": "إتحاد أمل تيزنيت",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d8aad8add8a7d8af-d8a3d985d984-d8aad98ad8b2d986d98ad8aa.webp",
+    "time": "8:00 PM",
+    "status": "لم تبدأ بعد",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
+    "stream": ""
+  },
+  {
     "team1": "خيتافي",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8aed98ad8aad8a7d981d98a.webp",
     "team2": "برايتون",
@@ -9,7 +87,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/١١‏/٢٠٢٦، ١١:٤٣:٣٦ م",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
     "stream": ""
   },
   {
@@ -22,7 +100,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/١١‏/٢٠٢٦، ١١:٤٣:٣٦ م",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
     "stream": ""
   },
   {
@@ -35,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٥‏/١١‏/٢٠٢٦، ١١:٤٣:٣٦ م",
+    "LastTime": "٦‏/١١‏/٢٠٢٦، ٣:٤٤:٠٦ ص",
     "stream": ""
   }
 ]

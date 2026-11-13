@@ -1,28 +1,15 @@
 [
   {
-    "team1": "السعودية",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b3d8b9d988d8afd98ad8a9.webp",
-    "team2": "كوريا الجنوبية",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d983d988d8b1d98ad8a7-d8a7d984d8acd986d988d8a8d98ad8a9.webp",
-    "time": "2:30 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
-    "stream": ""
-  },
-  {
     "team1": "العراق",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b9d8b1d8a7d982.webp",
     "team2": "لبنان",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d984d8a8d986d8a7d986.webp",
-    "time": "3:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "16:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4891453&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -30,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8aad988d986d8b3.webp",
     "team2": "ليبيا",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d984d98ad8a8d98ad8a7.webp",
-    "time": "4:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "17:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4883935&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -74,7 +61,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -87,7 +74,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -100,7 +87,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
+    "stream": ""
+  },
+  {
+    "team1": "السعودية",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b3d8b9d988d8afd98ad8a9.webp",
+    "team2": "كوريا الجنوبية",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d983d988d8b1d98ad8a7-d8a7d984d8acd986d988d8a8d98ad8a9.webp",
+    "time": "15:30",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4883813&key=9f39972b67d6ce22189507d008acwc26",
+    "channel": "غير متوفر",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   },
   {
@@ -113,7 +113,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٨:٤٥:٠٦ ص",
+    "LastTime": "١٣‏/١١‏/٢٠٢٦، ٤:٤٨:٢٧ م",
     "stream": ""
   }
 ]

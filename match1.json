@@ -1,28 +1,15 @@
 [
   {
-    "team1": "النرويج",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b1d988d98ad8ac.webp",
-    "team2": "ويلز",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d988d98ad984d8b2.webp",
-    "time": "5:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672293&key=9f39972b67d6ce22189507d008acwc26",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
-    "stream": ""
-  },
-  {
     "team1": "الجزائر",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8acd8b2d8a7d8a6d8b1.webp",
     "team2": "توغو",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8aad988d8bad988.webp",
-    "time": "7:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4722676&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
     "stream": ""
   },
   {
@@ -30,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a8d8b1d8aad8bad8a7d984.webp",
     "team2": "الدنمارك",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8afd986d985d8a7d8b1d983.webp",
-    "time": "7:45 PM",
-    "status": "لم تبدأ بعد",
+    "time": "20:45",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672291&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
     "stream": ""
   },
   {
@@ -74,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
+    "stream": ""
+  },
+  {
+    "team1": "النرويج",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b1d988d98ad8ac.webp",
+    "team2": "ويلز",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d988d98ad984d8b2.webp",
+    "time": "18:00",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٨:٣٨:٣٦ م",
     "stream": ""
   }
 ]

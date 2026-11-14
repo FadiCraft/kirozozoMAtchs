@@ -1,44 +1,5 @@
 [
   {
-    "team1": "اليابان",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d98ad8a7d8a8d8a7d986.webp",
-    "team2": "البرازيل",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a8d8b1d8a7d8b2d98ad984.webp",
-    "time": "10:15 AM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
-    "stream": ""
-  },
-  {
-    "team1": "كوسوفو",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d983d988d8b3d988d981d988.webp",
-    "team2": "اسرائيل",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d8b3d8b1d8a7d8a6d98ad984.webp",
-    "time": "2:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
-    "stream": ""
-  },
-  {
-    "team1": "إيران",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d98ad8b1d8a7d986.webp",
-    "team2": "فلسطين",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d981d984d8b3d8b7d98ad986.webp",
-    "time": "3:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
-    "stream": ""
-  },
-  {
     "team1": "النرويج",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b1d988d98ad8ac.webp",
     "team2": "ويلز",
@@ -46,9 +7,9 @@
     "time": "5:00 PM",
     "status": "لم تبدأ بعد",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672293&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
     "stream": ""
   },
   {
@@ -61,7 +22,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
     "stream": ""
   },
   {
@@ -74,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
     "stream": ""
   },
   {
@@ -87,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
     "stream": ""
   },
   {
@@ -100,7 +61,20 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٩:٢٤:٢٩ ص",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
+    "stream": ""
+  },
+  {
+    "team1": "اليابان",
+    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d98ad8a7d8a8d8a7d986.webp",
+    "team2": "البرازيل",
+    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a8d8b1d8a7d8b2d98ad984.webp",
+    "time": "11:15",
+    "status": "انتهت",
+    "league": "",
+    "streamUrl": "",
+    "channel": "غير متوفر",
+    "LastTime": "١٤‏/١١‏/٢٠٢٦، ٣:٥٩:٢٨ م",
     "stream": ""
   }
 ]

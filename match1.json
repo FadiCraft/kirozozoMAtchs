@@ -1,28 +1,15 @@
 [
   {
-    "team1": "النيجر",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d98ad8acd8b1-1.webp",
-    "team2": "المغرب",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d985d8bad8b1d8a8-1.webp",
-    "time": "21:00",
-    "status": "انتهت",
+    "team1": "",
+    "team1Logo": "",
+    "team2": "",
+    "team2Logo": "",
+    "time": "",
+    "status": "",
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "١٨‏/١١‏/٢٠٢٦، ٩:٣٣:١٠ م",
-    "stream": ""
-  },
-  {
-    "team1": "الأرجنتين",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a3d8b1d8acd986d8aad98ad986-1.webp",
-    "team2": "كوستاريكا",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d983d988d8b3d8aad8a7d8b1d98ad983d8a7.webp",
-    "time": "00:00",
-    "status": "انتهت",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "١٨‏/١١‏/٢٠٢٦، ٩:٣٣:١٠ م",
+    "LastTime": "١٩‏/١١‏/٢٠٢٦، ٢:٤٩:٢٣ ص",
     "stream": ""
   }
 ]

@@ -1,28 +1,15 @@
 [
   {
-    "team1": "إسبانيا تحت 17",
-    "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a5d8b3d8a8d8a7d986d98ad8a7-d8aad8add8aa-17.webp",
-    "team2": "الصين تحت 17",
-    "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8b5d98ad986-d8aad8add8aa-17.webp",
-    "time": "2:00 PM",
-    "status": "لم تبدأ بعد",
-    "league": "",
-    "streamUrl": "",
-    "channel": "غير متوفر",
-    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٩:٠٣:٣٩ ص",
-    "stream": ""
-  },
-  {
     "team1": "فيجي تحت 17",
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d981d98ad8acd98a-d8aad8add8aa-17.webp",
     "team2": "المغرب تحت 17",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d985d8bad8b1d8a8-d8aad8add8aa-17.webp",
-    "time": "4:00 PM",
-    "status": "لم تبدأ بعد",
+    "time": "17:00",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4722879&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٩:٠٣:٣٩ ص",
+    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٥:٤٥:٤٣ م",
     "stream": ""
   },
   {
@@ -30,12 +17,12 @@
     "team1Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d8a3d987d984d98a-3.webp",
     "team2": "النصر",
     "team2Logo": "https://fabor-tv.to/wp-content/uploads/2026/11/d8a7d984d986d8b5d8b1-2.webp",
-    "time": "5:30 PM",
-    "status": "لم تبدأ بعد",
+    "time": "18:30",
+    "status": "مباشر",
     "league": "",
-    "streamUrl": "",
+    "streamUrl": "https://912acsss8af382.sirtv.top/playerv5.php?match=4891951&key=9f39972b67d6ce22189507d008acwc26",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٩:٠٣:٣٩ ص",
+    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٥:٤٥:٤٣ م",
     "stream": ""
   },
   {
@@ -48,7 +35,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٩:٠٣:٣٩ ص",
+    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٥:٤٥:٤٣ م",
     "stream": ""
   },
   {
@@ -61,7 +48,7 @@
     "league": "",
     "streamUrl": "",
     "channel": "غير متوفر",
-    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٩:٠٣:٣٩ ص",
+    "LastTime": "٢٠‏/١١‏/٢٠٢٦، ٥:٤٥:٤٣ م",
     "stream": ""
   }
 ]
